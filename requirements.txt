@@ -1,7 +1,8 @@
 streamlit
-streamlit-webrtc
-opencv-python
-deepface
+opencv-python-headless
 numpy
 pandas
+deepface
+streamlit-webrtc
 google-genai
+tf-keras
