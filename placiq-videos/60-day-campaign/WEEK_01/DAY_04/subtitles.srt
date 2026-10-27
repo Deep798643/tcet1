@@ -1,0 +1,31 @@
+1
+00:00:00,151 --> 00:00:01,338
+One internship.
+
+2
+00:00:01,338 --> 00:00:02,563
+Ten platforms.
+
+3
+00:00:02,563 --> 00:00:03,651
+All pulling you in a different
+
+4
+00:00:03,651 --> 00:00:04,451
+direction.
+
+5
+00:00:06,106 --> 00:00:08,631
+Connected prep means every tool feeds
+
+6
+00:00:08,631 --> 00:00:09,906
+one picture of you.
+
+7
+00:00:09,906 --> 00:00:11,619
+That's the idea behind Placiq.
+
+8
+00:00:12,733 --> 00:00:14,183
+Your work, connected.
