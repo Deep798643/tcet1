@@ -1,0 +1,19 @@
+1
+00:00:00,200 --> 00:00:01,246
+Five AI tabs.
+
+2
+00:00:01,246 --> 00:00:02,890
+Five confident, contradictory plans.
+
+3
+00:00:09,800 --> 00:00:11,891
+A Copilot that reads your progress
+
+4
+00:00:11,891 --> 00:00:12,691
+first.
+
+5
+00:00:14,600 --> 00:00:16,010
+Placiq - learn.placiq.in
