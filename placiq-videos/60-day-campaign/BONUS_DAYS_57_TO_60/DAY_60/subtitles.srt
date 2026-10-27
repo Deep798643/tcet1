@@ -1,0 +1,51 @@
+1
+00:00:00,150 --> 00:00:01,640
+Your career is a puzzle with
+
+2
+00:00:01,640 --> 00:00:04,078
+pieces in ten different boxes.
+
+3
+00:00:04,078 --> 00:00:04,878
+DSA here.
+
+4
+00:00:04,591 --> 00:00:06,516
+Projects there.
+
+5
+00:00:06,516 --> 00:00:08,641
+A resume connected to nothing.
+
+6
+00:00:09,977 --> 00:00:11,799
+Placiq puts the pieces in one
+
+7
+00:00:11,799 --> 00:00:14,136
+place, and remembers how they fit.
+
+8
+00:00:15,175 --> 00:00:15,975
+Learn it.
+
+9
+00:00:15,613 --> 00:00:16,413
+Build it.
+
+10
+00:00:16,088 --> 00:00:16,888
+Prove it.
+
+11
+00:00:16,600 --> 00:00:17,775
+Present it.
+
+12
+00:00:18,053 --> 00:00:20,939
+Placiq. YOUR WORK, CONNECTED.
+
+13
+00:00:20,939 --> 00:00:21,739
+placiq.in
