@@ -1,0 +1,31 @@
+1
+00:00:00,200 --> 00:00:01,825
+11 hours of studying today.
+
+2
+00:00:02,700 --> 00:00:03,500
+Activity: 100%.
+
+3
+00:00:03,397 --> 00:00:05,390
+Progress you can show: 18%.
+
+4
+00:00:10,200 --> 00:00:11,483
+Busy is not ready.
+
+5
+00:00:11,483 --> 00:00:12,375
+Evidence is.
+
+6
+00:00:13,700 --> 00:00:15,791
+Readiness that tracks what you actually
+
+7
+00:00:15,791 --> 00:00:16,591
+shipped.
+
+8
+00:00:18,200 --> 00:00:19,610
+Placiq - learn.placiq.in
