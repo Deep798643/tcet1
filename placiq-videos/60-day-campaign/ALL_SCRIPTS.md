@@ -305,3 +305,152 @@ Pillar: DSA  |  Format: music  |  Music: electro 128 BPM  |  Duration: 15.9s
 - [0.00s, 9.38s] vcollapse: ON-SCREEN: Hundreds of problems collapse into a few reusable patterns.
 - [9.38s, 3.75s] vnumber: ON-SCREEN: 1,803 questions in Placiq's vault - learn the patterns behind them.
 - [13.12s, 2.81s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 21 - DSA Visualizer Hero Film
+
+Pillar: DSA  |  Format: music  |  Music: dnb 172 BPM  |  Duration: 16.7s
+
+## Hooks
+1. This is what DSA looks like when it moves.  (SELECTED)
+2. Real footage. No slides.
+3. Press play on an algorithm.
+
+## Scenes
+- [0.00s, 2.79s] vtype: ON-SCREEN: Press play on an algorithm.
+- [2.79s, 11.16s] vreel: ON-SCREEN: Real Placiq DSA Visualizer: pick a pattern, step through it, read the live code and variables.
+- [13.95s, 2.79s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 22 - Tutorial Hell
+
+Pillar: Projects  |  Format: narrated  |  Music: trap 145 BPM  |  Duration: 14.1s
+
+## Hooks
+1. The moment the tutorial ends.  (SELECTED)
+2. Seven tutorials watched. Zero lines written alone.
+3. What happens when the video stops?
+
+## Scenes
+- [0.00s, 6.62s] vvanish: VO: "Seven tutorials. Every one made sense. Then they're gone, and it's just you and a blinking cursor."
+- [6.62s, 4.14s] vtype: VO: "Watching is not building. Start small, but start alone."
+- [10.76s, 3.31s] vcta: VO: "Guided projects, in Place IQ."
+
+
+# Day 23 - Your Eighth TODO App
+
+Pillar: Projects  |  Format: comedy  |  Music: arcade 150 BPM  |  Duration: 20.8s
+
+## Hooks
+1. TODO app number eight. Achievement unlocked?  (SELECTED)
+2. Your portfolio, but every project is a TODO list.
+3. Recruiters have seen this one.
+
+## Scenes
+- [0.00s, 9.60s] vclones: ON-SCREEN: todo-app, todo-app-2, todo-final... then one idea that solves a real problem.
+- [9.60s, 3.20s] vtype: ON-SCREEN: Build something only you would build.
+- [12.80s, 4.80s] vclip: ON-SCREEN: Project Builder catalog: scoped, guided projects.
+- [17.60s, 3.20s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 24 - The Abandoned Repository
+
+Pillar: Projects  |  Format: music  |  Music: cinematic 90 BPM  |  Duration: 20.0s
+
+## Hooks
+1. Welcome to the city of unfinished repos.  (SELECTED)
+2. Last commit: 7 months ago.
+3. Every scaffold is a project you started.
+
+## Scenes
+- [0.00s, 13.33s] vcity: ON-SCREEN: A city of unfinished repos. Last commits months ago. Then one gets finished.
+- [13.33s, 3.33s] vtype: ON-SCREEN: One finished project beats seven started.
+- [16.67s, 3.33s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 25 - Blank Editor Fear
+
+Pillar: Projects  |  Format: narrated  |  Music: minimal 120 BPM  |  Duration: 16.0s
+
+## Hooks
+1. untitled.py. Cursor blinking. Panic rising.  (SELECTED)
+2. Where do you even start a project?
+3. Turn a blank file into a plan in 15 seconds.
+
+## Scenes
+- [0.00s, 12.00s] vblank: VO: "A blank editor is scary because it has no shape. Give it one. Sketch the parts: client, A P I, auth, database. Then split it into four milestones, and finish milestone one."
+- [12.00s, 4.00s] vcta: VO: "Plan it. Then build it. With Place IQ."
+
+
+# Day 26 - From Idea to Implementation
+
+Pillar: Projects  |  Format: music  |  Music: house 124 BPM  |  Duration: 17.9s
+
+## Hooks
+1. Idea to tests, in one scroll.  (SELECTED)
+2. Requirements first. Code fourth.
+3. The path every real project takes.
+
+## Scenes
+- [0.00s, 9.68s] vflow: ON-SCREEN: Requirements -> Architecture -> Modules -> Implementation -> Tests.
+- [9.68s, 5.32s] vclip: ON-SCREEN: Real Project Builder: guided modules and a live editor.
+- [15.00s, 2.90s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 27 - The AI That Asks First
+
+Pillar: Projects  |  Format: narrated  |  Music: funk 108 BPM  |  Duration: 17.2s
+
+## Hooks
+1. What if your AI asked you questions first?  (SELECTED)
+2. A tutor that does not just dump code.
+3. Three questions before one line of code.
+
+## Scenes
+- [0.00s, 11.11s] vasks: VO: "Most AI dumps code. A good tutor asks first. Who uses it? What breaks first? How will you test it? Then it checks your answer, checkpoint by checkpoint."
+- [11.11s, 2.22s] vtype: VO: "Answers you build stick."
+- [13.33s, 3.89s] vcta: VO: "The Socratic way, in Place IQ."
+
+
+# Day 28 - Project Builder Hero Film
+
+Pillar: Projects  |  Format: narrated  |  Music: electro 128 BPM  |  Duration: 17.3s
+
+## Hooks
+1. From a project idea to evidence, in real footage.  (SELECTED)
+2. This is the AI Project Builder.
+3. Build it. Prove it.
+
+## Scenes
+- [0.00s, 12.66s] vreel: VO: "Pick a scoped project from the catalog. Open it in the I D E. Work through guided modules, with a tutor that knows your code. Then the analyzer reads the result like a reviewer would."
+- [12.66s, 4.69s] vcta: VO: "The A I Project Builder. In Place IQ."
+
+
+# Day 29 - Resume Claim vs Proof
+
+Pillar: Resume  |  Format: narrated  |  Music: breakbeat 132 BPM  |  Duration: 16.8s
+
+## Hooks
+1. "Built a scalable app." Prove it.  (SELECTED)
+2. Every resume line is a claim.
+3. Can you back up bullet two?
+
+## Scenes
+- [0.00s, 10.91s] vres: VO: "Built a scalable expense app. Okay, prove it. Link the repo, the tests, the architecture, the live demo, and the before and after numbers you actually measured."
+- [10.91s, 2.73s] vtype: VO: "Claims get questioned. Proof gets discussed."
+- [13.64s, 3.18s] vcta: VO: "Back your resume with Place IQ."
+
+
+# Day 30 - The Generic Resume Machine
+
+Pillar: Resume  |  Format: comedy  |  Music: industrial 118 BPM  |  Duration: 16.3s
+
+## Hooks
+1. Insert student. Receive "hardworking team player".  (SELECTED)
+2. The resume factory has one template.
+3. Why does every bullet sound the same?
+
+## Scenes
+- [0.00s, 10.17s] vfactory: ON-SCREEN: Different students in. "Hardworking team player with good communication skills" out.
+- [10.17s, 3.05s] vtype: ON-SCREEN: Your bullet should only fit you.
+- [13.22s, 3.05s] vcta: ON-SCREEN: Placiq - learn.placiq.in

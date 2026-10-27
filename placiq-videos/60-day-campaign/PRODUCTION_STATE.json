@@ -380,7 +380,197 @@
     "narration_voiced_ratio": null
    },
    "title": "DSA Without Understanding"
+  },
+  "21": {
+   "stage": "done",
+   "duration": 16.74,
+   "render_sec": 17.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.745,
+    "audio_streams": 1,
+    "lufs": -14.9,
+    "true_peak": -1.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "DSA Visualizer Hero Film"
+  },
+  "22": {
+   "stage": "done",
+   "duration": 14.07,
+   "render_sec": 4.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 14.069,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -2.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.633
+   },
+   "title": "Tutorial Hell"
+  },
+  "23": {
+   "stage": "done",
+   "duration": 20.8,
+   "render_sec": 12.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.8,
+    "audio_streams": 1,
+    "lufs": -14.7,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "Your Eighth TODO App"
+  },
+  "24": {
+   "stage": "done",
+   "duration": 20.0,
+   "render_sec": 5.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.0,
+    "audio_streams": 1,
+    "lufs": -16.6,
+    "true_peak": -2.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Abandoned Repository"
+  },
+  "25": {
+   "stage": "done",
+   "duration": 16.0,
+   "render_sec": 5.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -15.2,
+    "true_peak": -3.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.684
+   },
+   "title": "Blank Editor Fear"
+  },
+  "26": {
+   "stage": "done",
+   "duration": 17.9,
+   "render_sec": 10.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.904,
+    "audio_streams": 1,
+    "lufs": -14.6,
+    "true_peak": -1.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "From Idea to Implementation"
+  },
+  "27": {
+   "stage": "done",
+   "duration": 17.22,
+   "render_sec": 5.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.234,
+    "audio_streams": 1,
+    "lufs": -16.3,
+    "true_peak": -2.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.599
+   },
+   "title": "The AI That Asks First"
+  },
+  "28": {
+   "stage": "done",
+   "duration": 17.34,
+   "render_sec": 14.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.344,
+    "audio_streams": 1,
+    "lufs": -15.8,
+    "true_peak": -2.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.749
+   },
+   "title": "Project Builder Hero Film"
+  },
+  "29": {
+   "stage": "done",
+   "duration": 16.82,
+   "render_sec": 6.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.834,
+    "audio_streams": 1,
+    "lufs": -15.5,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.693
+   },
+   "title": "Resume Claim vs Proof"
+  },
+  "30": {
+   "stage": "done",
+   "duration": 16.27,
+   "render_sec": 4.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.272,
+    "audio_streams": 1,
+    "lufs": -14.2,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Generic Resume Machine"
   }
  },
- "updated": "2026-10-27T14:48:52.069996Z"
+ "updated": "2026-10-27T14:56:45.239210Z"
 }

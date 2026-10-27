@@ -198,3 +198,83 @@ day(20, title='DSA Without Understanding', pillar='DSA', fmt='music', style='ele
             dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Patterns, not piles.'), energy=1)],
     ig="Stop counting problems. Start counting patterns.\n\nMost interview questions reuse a small set of ideas: two pointers, sliding window, hashing, BFS/DFS, binary search, DP.\n\nPlaciq's vault has 1,803 questions, organised so the patterns stand out. learn.placiq.in",
     tags=['#leetcode', '#dsapatterns', '#codinginterview', '#placiq'], yt='1,803 Questions, A Few Patterns', li='Pattern-based practice scales better than problem counting. A visual on consolidating DSA preparation.')
+
+day(21, title='DSA Visualizer Hero Film', pillar='DSA', fmt='music', style='dnb', root=45, pal=INK,
+    hooks=['This is what DSA looks like when it moves.', 'Real footage. No slides.', 'Press play on an algorithm.'],
+    scenes=[dict(type='vtype', dur=2.0, cap='Press play on an algorithm.', p=dict(lines=['PRESS PLAY', 'ON AN *ALGORITHM.'], slam=True), energy=2),
+            dict(type='vreel', dur=11.0, cap='Real Placiq DSA Visualizer: pick a pattern, step through it, read the live code and variables.', p=dict(clips=[('dsa', (0, .1), (.15, .3), .45), ('dsa_run', (.25, .3), (.5, .5), .42), ('dsa_run', (.7, .2), (1, .45), .4), ('dsa', (.4, .3), (.8, .5), .45)], labels=['PICK A PATTERN', 'STEP THROUGH IT', 'LIVE CODE + STATE', 'BRUTE VS OPTIMAL']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='DSA that moves.', foot='1,803-question vault  |  core patterns animated'), energy=1)],
+    ig="This is what DSA looks like when it moves.\n\nReal footage of Placiq's DSA Visualizer: pick a pattern, step through each move, read the live code and variable state, compare brute force with optimal.\n\nTry the starter patterns free at learn.placiq.in",
+    tags=['#dsavisualizer', '#algorithms', '#leetcode', '#placiq'], yt='DSA Visualizer: Real Product Footage', li="A fast look at Placiq's DSA Visualizer, step-through animations with live code and state.")
+
+day(22, title='Tutorial Hell', pillar='Projects', fmt='narrated', style='trap', root=42, pal=MONO, voice='am_puck', speed=1.06,
+    hooks=['The moment the tutorial ends.', 'Seven tutorials watched. Zero lines written alone.', 'What happens when the video stops?'],
+    scenes=[dict(type='vvanish', say="Seven tutorials. Every one made sense. Then they're gone, and it's just you and a blinking cursor.", cap="Seven tutorials. Every one made sense. Then they're gone, and it's just you and a blinking cursor.", p=dict(), energy=1),
+            dict(type='vtype', say="Watching is not building. Start small, but start alone.", cap="Watching is not building. Start small, but start alone.", p=dict(lines=['WATCHING', '~IS BUILDING.', '*START ALONE.']), energy=3, drop=True),
+            dict(type='vcta', say="Guided projects, in Place IQ.", cap="Guided projects in Placiq.", p=dict(v='logo', tag='Escape tutorial hell.'), energy=1, hold=1)],
+    ig="Seven tutorials, all made sense. Then the video ends.\n\nTutorial hell is not a knowledge problem, it is a practice problem. The blank editor is where learning actually starts.\n\nPlaciq's AI Project Builder guides you module by module, without writing it for you. learn.placiq.in",
+    tags=['#tutorialhell', '#coding', '#projects', '#placiq'], yt='Tutorial Hell: When the Video Ends', li='Independent building is the step tutorials cannot replace. Guided practice bridges the gap.')
+
+day(23, title='Your Eighth TODO App', pillar='Projects', fmt='comedy', style='arcade', root=48, pal=PAPER,
+    hooks=['TODO app number eight. Achievement unlocked?', 'Your portfolio, but every project is a TODO list.', 'Recruiters have seen this one.'],
+    scenes=[dict(type='vclones', dur=9.0, cap='todo-app, todo-app-2, todo-final... then one idea that solves a real problem.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='Build something only you would build.', p=dict(lines=['BUILD WHAT', '*ONLY YOU', 'WOULD BUILD.']), energy=3, drop=True),
+            dict(type='vclip', dur=4.5, cap='Project Builder catalog: scoped, guided projects.', p=dict(clip='builder', pan=((0, .1), (.6, .4)), cw=.5, title='Pick a real project.'), energy=3),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Retire the TODO app.'), energy=1)],
+    ig="TODO app #8 is not the flex you think it is.\n\nClones teach basics, but a project that solves a problem you actually have tells a better story.\n\nPlaciq's AI Project Builder helps scope a project around your gaps. learn.placiq.in",
+    tags=['#todoapp', '#webdev', '#portfolio', '#placiq'], yt='Your Eighth TODO App', li='Distinctive projects communicate more than repeated clones. A light look at portfolio choices.')
+
+day(24, title='The Abandoned Repository', pillar='Projects', fmt='music', style='cinematic', root=38, pal=INK,
+    hooks=['Welcome to the city of unfinished repos.', 'Last commit: 7 months ago.', 'Every scaffold is a project you started.'],
+    scenes=[dict(type='vcity', dur=11.0, cap='A city of unfinished repos. Last commits months ago. Then one gets finished.', p=dict(), energy=1),
+            dict(type='vtype', dur=3.0, cap='One finished project beats seven started.', p=dict(lines=['ONE *FINISHED', 'BEATS SEVEN', '_STARTED.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.8, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Finish the building.'), energy=1)],
+    ig="Welcome to your GitHub skyline: seven buildings, all under scaffolding.\n\nStarting is exciting. Finishing is what interviewers can talk to you about.\n\nPlaciq's Project Builder breaks projects into checkpoints you can actually complete. learn.placiq.in",
+    tags=['#github', '#sideprojects', '#developers', '#placiq'], yt='The City of Abandoned Repos', li='Unfinished projects are common. Checkpointed scope helps students complete one end to end.')
+
+day(25, title='Blank Editor Fear', pillar='Projects', fmt='narrated', style='minimal', root=47, pal=WHITE, voice='af_heart', speed=1.05,
+    hooks=['untitled.py. Cursor blinking. Panic rising.', 'Where do you even start a project?', 'Turn a blank file into a plan in 15 seconds.'],
+    scenes=[dict(type='vblank', say="A blank editor is scary because it has no shape. Give it one. Sketch the parts: client, A P I, auth, database. Then split it into four milestones, and finish milestone one.", cap="A blank editor is scary because it has no shape. Sketch the parts. Split into milestones. Finish milestone one.", p=dict(), energy=2),
+            dict(type='vcta', say="Plan it. Then build it. With Place IQ.", cap="Plan it. Then build it. With Placiq.", p=dict(v='stack', words=['PLAN IT.', 'BUILD IT.', 'SHIP IT.']), energy=1, hold=1, drop=True)],
+    ig="untitled.py and a blinking cursor. We have all frozen here.\n\nGive the blank file a shape: sketch the components, split into milestones, finish milestone one.\n\nPlaciq's Project Builder turns ideas into guided modules. learn.placiq.in",
+    tags=['#coding', '#projectplanning', '#softwaredesign', '#placiq'], yt='How to Beat Blank Editor Fear', li='A simple method for starting projects: sketch architecture, define milestones, complete the first one.')
+
+day(26, title='From Idea to Implementation', pillar='Projects', fmt='music', style='house', root=50, pal=BLUE,
+    hooks=['Idea to tests, in one scroll.', 'Requirements first. Code fourth.', 'The path every real project takes.'],
+    scenes=[dict(type='vflow', dur=9.0, cap='Requirements -> Architecture -> Modules -> Implementation -> Tests.', p=dict(), energy=2),
+            dict(type='vclip', dur=5.0, cap='Real Project Builder: guided modules and a live editor.', p=dict(clip='editor', pan=((0, .1), (.7, .4)), cw=.5, title='Guided, module by module.'), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Idea to implementation.'), energy=1)],
+    ig="Requirements, architecture, modules, implementation, tests. In that order.\n\nMost unfinished projects skip the first two steps. Placiq's Project Builder walks you through each module with a live editor.\n\nlearn.placiq.in",
+    tags=['#softwareengineering', '#projects', '#buildinpublic', '#placiq'], yt='Idea to Tests in 5 Steps', li='The stages of a real software project, visualised, and how guided building follows them.')
+
+day(27, title='The AI That Asks First', pillar='Projects', fmt='narrated', style='funk', root=45, pal=PAPER, voice='af_heart', speed=1.06,
+    hooks=['What if your AI asked you questions first?', 'A tutor that does not just dump code.', 'Three questions before one line of code.'],
+    scenes=[dict(type='vasks', say="Most AI dumps code. A good tutor asks first. Who uses it? What breaks first? How will you test it? Then it checks your answer, checkpoint by checkpoint.", cap="Most AI dumps code. A good tutor asks first: who uses it, what breaks first, how will you test it. Then checks you, checkpoint by checkpoint.", p=dict(), energy=2),
+            dict(type='vtype', say="Answers you build stick.", cap="Answers you build stick.", p=dict(lines=['ANSWERS YOU', '*BUILD', 'STICK.'], slam=True), energy=3, drop=True),
+            dict(type='vcta', say="The Socratic way, in Place IQ.", cap="The Socratic way, in Placiq.", p=dict(v='logo', tag='It asks before it tells.'), energy=1, hold=1)],
+    ig="What if your AI tutor asked you questions before giving answers?\n\nWho uses it? What breaks first? How will you test it? Reasoning it out yourself is what makes it stick in an interview.\n\nPlaciq's tutors guide with questions and checkpoints. learn.placiq.in",
+    tags=['#socraticmethod', '#ai', '#learning', '#placiq'], yt='The AI Tutor That Asks First', li='Guided questioning builds understanding that code dumps do not. A look at checkpoint-based tutoring.')
+
+day(28, title='Project Builder Hero Film', pillar='Projects', fmt='narrated', style='electro', root=44, pal=INK, voice='am_michael', speed=1.05,
+    hooks=['From a project idea to evidence, in real footage.', 'This is the AI Project Builder.', 'Build it. Prove it.'],
+    scenes=[dict(type='vreel', say="Pick a scoped project from the catalog. Open it in the I D E. Work through guided modules, with a tutor that knows your code. Then the analyzer reads the result like a reviewer would.", cap="Pick a scoped project. Open it in the IDE. Work through guided modules with a project-aware tutor. Then the analyzer reviews the result.", p=dict(clips=[('builder', (0, .1), (.4, .3), .5), ('editor', (0, 0), (.4, .3), .5), ('editor', (.15, .15), (.45, .3), .45), ('analyzer', (0, .1), (.6, .3), .5)], labels=['PICK A PROJECT', 'OPEN THE IDE', 'GUIDED MODULES', 'GET IT REVIEWED']), energy=3, drop=True),
+            dict(type='vcta', say="The A I Project Builder. In Place IQ.", cap="The AI Project Builder, in Placiq.", p=dict(v='logo', tag='Evidence-backed shipping.'), energy=1, hold=1)],
+    ig="From idea to evidence, in real product footage.\n\nPick a scoped project, open it in the IDE, work through guided modules with a tutor that knows your code, then get it reviewed by the Project Analyzer.\n\nGuided Project Builder modules are part of Placiq Pro. learn.placiq.in",
+    tags=['#projectbuilder', '#ai', '#coding', '#placiq'], yt='AI Project Builder: Real Footage', li="A walkthrough of Placiq's AI Project Builder: catalog, IDE, guided modules and project analysis.")
+
+# ================================================================ WEEK 5 - RESUME
+day(29, title='Resume Claim vs Proof', pillar='Resume', fmt='narrated', style='breakbeat', root=46, pal=WHITE, voice='am_puck', speed=1.08,
+    hooks=['"Built a scalable app." Prove it.', 'Every resume line is a claim.', 'Can you back up bullet two?'],
+    scenes=[dict(type='vres', say="Built a scalable expense app. Okay, prove it. Link the repo, the tests, the architecture, the live demo, and the before and after numbers you actually measured.", cap="\"Built a scalable expense app.\" Prove it: repo, tests, architecture, live demo, numbers you actually measured.", p=dict(mode='claim'), energy=2),
+            dict(type='vtype', say="Claims get questioned. Proof gets discussed.", cap="Claims get questioned. Proof gets discussed.", p=dict(lines=['CLAIMS GET', '_QUESTIONED.', '*PROOF GETS', 'DISCUSSED.']), energy=3, drop=True),
+            dict(type='vcta', say="Back your resume with Place IQ.", cap="Back your resume with Placiq.", p=dict(v='logo', tag='Show the work.'), energy=1, hold=1)],
+    ig="\"Built a scalable expense app.\" Can you prove it?\n\nEvery resume bullet is a claim. Link it to a repo, tests, a write-up, a demo, and numbers you actually measured.\n\nPlaciq connects your projects and GitHub to your resume. learn.placiq.in",
+    tags=['#resume', '#resumetips', '#projects', '#placiq'], yt='Resume Claim vs Proof', li='Resume claims are stronger when linked to verifiable artifacts: repositories, tests and measured results.')
+
+day(30, title='The Generic Resume Machine', pillar='Resume', fmt='comedy', style='industrial', root=40, pal=MONO,
+    hooks=['Insert student. Receive "hardworking team player".', 'The resume factory has one template.', 'Why does every bullet sound the same?'],
+    scenes=[dict(type='vfactory', dur=9.0, cap='Different students in. "Hardworking team player with good communication skills" out.', p=dict(machine='RESUME-O-TRON', output='Hardworking team player with good communication skills', inputs=['Riya: built a bus tracker', 'Kabir: led hackathon team', 'Meera: ML on crop data', 'Arjun: fixed college site'], verdict='Real stories in. Same bullet out.'), energy=2),
+            dict(type='vtype', dur=3.0, cap='Your bullet should only fit you.', p=dict(lines=['A BULLET SHOULD', '*ONLY FIT', 'YOU.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Write your own bullets.'), energy=1)],
+    ig="Insert student. Receive \"hardworking team player\".\n\nTemplates flatten real stories. A bus tracker, a hackathon win and an ML project should not all become the same sentence.\n\nPlaciq's Resume Intelligence flags generic bullets and gaps. learn.placiq.in",
+    tags=['#resume', '#careertips', '#freshers', '#placiq'], yt='The Generic Resume Machine', li='Generic phrasing hides distinct experience. Specific, evidence-based bullets communicate more.')

@@ -24,3 +24,13 @@ Automated checks per film (ffprobe/ffmpeg): 1080x1920, 30fps, 1 AAC stream, inte
 | 18 | Watch the Algorithm Think | ready_to_post | 17.5 | -14.2 | -2.3 | 0 | 0 | None |
 | 19 | Brute Force vs Optimized | ready_to_post | 18.84 | -16.0 | -1.5 | 0 | 0 | 0.721 |
 | 20 | DSA Without Understanding | ready_to_post | 15.94 | -15.3 | -3.2 | 0 | 0 | None |
+| 21 | DSA Visualizer Hero Film | ready_to_post | 16.74 | -14.9 | -1.8 | 0 | 0 | None |
+| 22 | Tutorial Hell | ready_to_post | 14.07 | -15.9 | -2.1 | 0 | 0 | 0.633 |
+| 23 | Your Eighth TODO App | ready_to_post | 20.8 | -14.7 | -3.1 | 0 | 1 | None |
+| 24 | The Abandoned Repository | ready_to_post | 20.0 | -16.6 | -2.0 | 0 | 1 | None |
+| 25 | Blank Editor Fear | ready_to_post | 16.0 | -15.2 | -3.0 | 0 | 0 | 0.684 |
+| 26 | From Idea to Implementation | ready_to_post | 17.9 | -14.6 | -1.1 | 0 | 1 | None |
+| 27 | The AI That Asks First | ready_to_post | 17.22 | -16.3 | -2.2 | 0 | 0 | 0.599 |
+| 28 | Project Builder Hero Film | ready_to_post | 17.34 | -15.8 | -2.2 | 0 | 0 | 0.749 |
+| 29 | Resume Claim vs Proof | ready_to_post | 16.82 | -15.5 | -2.5 | 0 | 0 | 0.693 |
+| 30 | The Generic Resume Machine | ready_to_post | 16.27 | -14.2 | -3.1 | 0 | 0 | None |

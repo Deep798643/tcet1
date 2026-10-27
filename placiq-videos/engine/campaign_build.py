@@ -140,6 +140,30 @@ def sfx_for(S):
         ev.append((dur * .75, 'bass', .7))
     elif ty == 'vcollapse':
         ev += [(dur * .4, 'whoosh', .7), (dur * .75, 'impact', .5)]
+    elif ty == 'vreel':
+        seg = dur / len(p['clips'])
+        for i in range(len(p['clips'])):
+            ev += [(i * seg, 'bass', .5), (i * seg, 'click', .7)]
+    elif ty == 'vvanish':
+        for i in range(7):
+            ev += [(.05 + i * .15, 'pop', .4), (dur * .35 + i * .3, 'whoosh_down', .35)]
+    elif ty == 'vclones':
+        for i in range(8):
+            ev.append((.1 + i * .3 + .2, 'stamp', .3))
+        ev.append((dur * .55 + .3, 'stinger', .4))
+    elif ty == 'vcity':
+        ev += [(dur * .5, 'impact', .5)] + [(dur * .5 + k * .4, 'tick', .6) for k in range(int(dur * .35 / .4))]
+    elif ty == 'vblank':
+        ev += [(dur * .3, 'whoosh', .6)] + [(dur * .3 + i * .2, 'pop', .5) for i in range(5)] + [(dur * .3 + 1.3 + i * .35, 'click', .7) for i in range(4)]
+    elif ty == 'vflow':
+        for rt in disp_reveal_times(S, len(p.get('nodes', [0] * 5))):
+            ev.append((rt, 'pop', .6))
+    elif ty == 'vasks':
+        n = len(p.get('qs', [0] * 3)); seg = dur * .85 / n
+        for i in range(n):
+            ev += [(.1 + i * seg, 'notif', .5)] + [(.1 + i * seg + seg * .45 + k * .06, 'key', .6) for k in range(8)]
+    elif ty == 'vres':
+        ev += [(0, 'whoosh', .5), (dur * .25, 'stamp', .6), (dur * .5, 'glitch', .3)] + [(dur * .4 + i * dur * .1, 'click', .7) for i in range(5)]
     if S['idx'] > 0:
         ev.append((-.38, 'whoosh', .45))
     return ev

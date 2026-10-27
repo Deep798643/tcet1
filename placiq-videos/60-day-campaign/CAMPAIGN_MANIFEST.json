@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T14:48:52.103412Z",
- "total": 20,
+ "generated": "2026-10-27T14:56:45.288565Z",
+ "total": 30,
  "planned": 60,
- "completed": 20,
+ "completed": 30,
  "videos": [
   {
    "day": 1,
@@ -583,6 +583,296 @@
    ],
    "youtube_title": "1,803 Questions, A Few Patterns",
    "ig": "Stop counting problems. Start counting patterns.\n\nMost interview questions reuse a small set of ideas: two pointers, sliding window, hashing, BFS/DFS, binary search, DP.\n\nPlaciq's vault has 1,803 questions, organised so the patterns stand out. learn.placiq.in\n\n#leetcode #dsapatterns #codinginterview #placiq"
+  },
+  {
+   "day": 21,
+   "title": "DSA Visualizer Hero Film",
+   "pillar": "DSA",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_03/DAY_21",
+   "duration": 16.74,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.745,
+    "audio_streams": 1,
+    "lufs": -14.9,
+    "true_peak": -1.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "This is what DSA looks like when it moves.",
+    "Real footage. No slides.",
+    "Press play on an algorithm."
+   ],
+   "youtube_title": "DSA Visualizer: Real Product Footage",
+   "ig": "This is what DSA looks like when it moves.\n\nReal footage of Placiq's DSA Visualizer: pick a pattern, step through each move, read the live code and variable state, compare brute force with optimal.\n\nTry the starter patterns free at learn.placiq.in\n\n#dsavisualizer #algorithms #leetcode #placiq"
+  },
+  {
+   "day": 22,
+   "title": "Tutorial Hell",
+   "pillar": "Projects",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_04/DAY_22",
+   "duration": 14.07,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 14.069,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -2.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.633
+   },
+   "hooks": [
+    "The moment the tutorial ends.",
+    "Seven tutorials watched. Zero lines written alone.",
+    "What happens when the video stops?"
+   ],
+   "youtube_title": "Tutorial Hell: When the Video Ends",
+   "ig": "Seven tutorials, all made sense. Then the video ends.\n\nTutorial hell is not a knowledge problem, it is a practice problem. The blank editor is where learning actually starts.\n\nPlaciq's AI Project Builder guides you module by module, without writing it for you. learn.placiq.in\n\n#tutorialhell #coding #projects #placiq"
+  },
+  {
+   "day": 23,
+   "title": "Your Eighth TODO App",
+   "pillar": "Projects",
+   "format": "comedy",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_04/DAY_23",
+   "duration": 20.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.8,
+    "audio_streams": 1,
+    "lufs": -14.7,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "TODO app number eight. Achievement unlocked?",
+    "Your portfolio, but every project is a TODO list.",
+    "Recruiters have seen this one."
+   ],
+   "youtube_title": "Your Eighth TODO App",
+   "ig": "TODO app #8 is not the flex you think it is.\n\nClones teach basics, but a project that solves a problem you actually have tells a better story.\n\nPlaciq's AI Project Builder helps scope a project around your gaps. learn.placiq.in\n\n#todoapp #webdev #portfolio #placiq"
+  },
+  {
+   "day": 24,
+   "title": "The Abandoned Repository",
+   "pillar": "Projects",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_04/DAY_24",
+   "duration": 20.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.0,
+    "audio_streams": 1,
+    "lufs": -16.6,
+    "true_peak": -2.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Welcome to the city of unfinished repos.",
+    "Last commit: 7 months ago.",
+    "Every scaffold is a project you started."
+   ],
+   "youtube_title": "The City of Abandoned Repos",
+   "ig": "Welcome to your GitHub skyline: seven buildings, all under scaffolding.\n\nStarting is exciting. Finishing is what interviewers can talk to you about.\n\nPlaciq's Project Builder breaks projects into checkpoints you can actually complete. learn.placiq.in\n\n#github #sideprojects #developers #placiq"
+  },
+  {
+   "day": 25,
+   "title": "Blank Editor Fear",
+   "pillar": "Projects",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_04/DAY_25",
+   "duration": 16.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -15.2,
+    "true_peak": -3.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.684
+   },
+   "hooks": [
+    "untitled.py. Cursor blinking. Panic rising.",
+    "Where do you even start a project?",
+    "Turn a blank file into a plan in 15 seconds."
+   ],
+   "youtube_title": "How to Beat Blank Editor Fear",
+   "ig": "untitled.py and a blinking cursor. We have all frozen here.\n\nGive the blank file a shape: sketch the components, split into milestones, finish milestone one.\n\nPlaciq's Project Builder turns ideas into guided modules. learn.placiq.in\n\n#coding #projectplanning #softwaredesign #placiq"
+  },
+  {
+   "day": 26,
+   "title": "From Idea to Implementation",
+   "pillar": "Projects",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_04/DAY_26",
+   "duration": 17.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.904,
+    "audio_streams": 1,
+    "lufs": -14.6,
+    "true_peak": -1.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Idea to tests, in one scroll.",
+    "Requirements first. Code fourth.",
+    "The path every real project takes."
+   ],
+   "youtube_title": "Idea to Tests in 5 Steps",
+   "ig": "Requirements, architecture, modules, implementation, tests. In that order.\n\nMost unfinished projects skip the first two steps. Placiq's Project Builder walks you through each module with a live editor.\n\nlearn.placiq.in\n\n#softwareengineering #projects #buildinpublic #placiq"
+  },
+  {
+   "day": 27,
+   "title": "The AI That Asks First",
+   "pillar": "Projects",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_04/DAY_27",
+   "duration": 17.22,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.234,
+    "audio_streams": 1,
+    "lufs": -16.3,
+    "true_peak": -2.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.599
+   },
+   "hooks": [
+    "What if your AI asked you questions first?",
+    "A tutor that does not just dump code.",
+    "Three questions before one line of code."
+   ],
+   "youtube_title": "The AI Tutor That Asks First",
+   "ig": "What if your AI tutor asked you questions before giving answers?\n\nWho uses it? What breaks first? How will you test it? Reasoning it out yourself is what makes it stick in an interview.\n\nPlaciq's tutors guide with questions and checkpoints. learn.placiq.in\n\n#socraticmethod #ai #learning #placiq"
+  },
+  {
+   "day": 28,
+   "title": "Project Builder Hero Film",
+   "pillar": "Projects",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_04/DAY_28",
+   "duration": 17.34,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.344,
+    "audio_streams": 1,
+    "lufs": -15.8,
+    "true_peak": -2.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.749
+   },
+   "hooks": [
+    "From a project idea to evidence, in real footage.",
+    "This is the AI Project Builder.",
+    "Build it. Prove it."
+   ],
+   "youtube_title": "AI Project Builder: Real Footage",
+   "ig": "From idea to evidence, in real product footage.\n\nPick a scoped project, open it in the IDE, work through guided modules with a tutor that knows your code, then get it reviewed by the Project Analyzer.\n\nGuided Project Builder modules are part of Placiq Pro. learn.placiq.in\n\n#projectbuilder #ai #coding #placiq"
+  },
+  {
+   "day": 29,
+   "title": "Resume Claim vs Proof",
+   "pillar": "Resume",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_05/DAY_29",
+   "duration": 16.82,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.834,
+    "audio_streams": 1,
+    "lufs": -15.5,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.693
+   },
+   "hooks": [
+    "\"Built a scalable app.\" Prove it.",
+    "Every resume line is a claim.",
+    "Can you back up bullet two?"
+   ],
+   "youtube_title": "Resume Claim vs Proof",
+   "ig": "\"Built a scalable expense app.\" Can you prove it?\n\nEvery resume bullet is a claim. Link it to a repo, tests, a write-up, a demo, and numbers you actually measured.\n\nPlaciq connects your projects and GitHub to your resume. learn.placiq.in\n\n#resume #resumetips #projects #placiq"
+  },
+  {
+   "day": 30,
+   "title": "The Generic Resume Machine",
+   "pillar": "Resume",
+   "format": "comedy",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_05/DAY_30",
+   "duration": 16.27,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.272,
+    "audio_streams": 1,
+    "lufs": -14.2,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Insert student. Receive \"hardworking team player\".",
+    "The resume factory has one template.",
+    "Why does every bullet sound the same?"
+   ],
+   "youtube_title": "The Generic Resume Machine",
+   "ig": "Insert student. Receive \"hardworking team player\".\n\nTemplates flatten real stories. A bus tracker, a hackathon win and an ML project should not all become the same sentence.\n\nPlaciq's Resume Intelligence flags generic bullets and gaps. learn.placiq.in\n\n#resume #careertips #freshers #placiq"
   }
  ]
 }

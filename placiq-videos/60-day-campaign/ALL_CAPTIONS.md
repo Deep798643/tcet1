@@ -319,3 +319,163 @@ Placiq's vault has 1,803 questions, organised so the patterns stand out. learn.p
 **YouTube title:** 1,803 Questions, A Few Patterns
 
 **LinkedIn:** Pattern-based practice scales better than problem counting. A visual on consolidating DSA preparation.
+
+## Day 21 - DSA Visualizer Hero Film
+
+**Instagram**
+
+This is what DSA looks like when it moves.
+
+Real footage of Placiq's DSA Visualizer: pick a pattern, step through each move, read the live code and variable state, compare brute force with optimal.
+
+Try the starter patterns free at learn.placiq.in
+
+#dsavisualizer #algorithms #leetcode #placiq
+
+**YouTube title:** DSA Visualizer: Real Product Footage
+
+**LinkedIn:** A fast look at Placiq's DSA Visualizer, step-through animations with live code and state.
+
+## Day 22 - Tutorial Hell
+
+**Instagram**
+
+Seven tutorials, all made sense. Then the video ends.
+
+Tutorial hell is not a knowledge problem, it is a practice problem. The blank editor is where learning actually starts.
+
+Placiq's AI Project Builder guides you module by module, without writing it for you. learn.placiq.in
+
+#tutorialhell #coding #projects #placiq
+
+**YouTube title:** Tutorial Hell: When the Video Ends
+
+**LinkedIn:** Independent building is the step tutorials cannot replace. Guided practice bridges the gap.
+
+## Day 23 - Your Eighth TODO App
+
+**Instagram**
+
+TODO app #8 is not the flex you think it is.
+
+Clones teach basics, but a project that solves a problem you actually have tells a better story.
+
+Placiq's AI Project Builder helps scope a project around your gaps. learn.placiq.in
+
+#todoapp #webdev #portfolio #placiq
+
+**YouTube title:** Your Eighth TODO App
+
+**LinkedIn:** Distinctive projects communicate more than repeated clones. A light look at portfolio choices.
+
+## Day 24 - The Abandoned Repository
+
+**Instagram**
+
+Welcome to your GitHub skyline: seven buildings, all under scaffolding.
+
+Starting is exciting. Finishing is what interviewers can talk to you about.
+
+Placiq's Project Builder breaks projects into checkpoints you can actually complete. learn.placiq.in
+
+#github #sideprojects #developers #placiq
+
+**YouTube title:** The City of Abandoned Repos
+
+**LinkedIn:** Unfinished projects are common. Checkpointed scope helps students complete one end to end.
+
+## Day 25 - Blank Editor Fear
+
+**Instagram**
+
+untitled.py and a blinking cursor. We have all frozen here.
+
+Give the blank file a shape: sketch the components, split into milestones, finish milestone one.
+
+Placiq's Project Builder turns ideas into guided modules. learn.placiq.in
+
+#coding #projectplanning #softwaredesign #placiq
+
+**YouTube title:** How to Beat Blank Editor Fear
+
+**LinkedIn:** A simple method for starting projects: sketch architecture, define milestones, complete the first one.
+
+## Day 26 - From Idea to Implementation
+
+**Instagram**
+
+Requirements, architecture, modules, implementation, tests. In that order.
+
+Most unfinished projects skip the first two steps. Placiq's Project Builder walks you through each module with a live editor.
+
+learn.placiq.in
+
+#softwareengineering #projects #buildinpublic #placiq
+
+**YouTube title:** Idea to Tests in 5 Steps
+
+**LinkedIn:** The stages of a real software project, visualised, and how guided building follows them.
+
+## Day 27 - The AI That Asks First
+
+**Instagram**
+
+What if your AI tutor asked you questions before giving answers?
+
+Who uses it? What breaks first? How will you test it? Reasoning it out yourself is what makes it stick in an interview.
+
+Placiq's tutors guide with questions and checkpoints. learn.placiq.in
+
+#socraticmethod #ai #learning #placiq
+
+**YouTube title:** The AI Tutor That Asks First
+
+**LinkedIn:** Guided questioning builds understanding that code dumps do not. A look at checkpoint-based tutoring.
+
+## Day 28 - Project Builder Hero Film
+
+**Instagram**
+
+From idea to evidence, in real product footage.
+
+Pick a scoped project, open it in the IDE, work through guided modules with a tutor that knows your code, then get it reviewed by the Project Analyzer.
+
+Guided Project Builder modules are part of Placiq Pro. learn.placiq.in
+
+#projectbuilder #ai #coding #placiq
+
+**YouTube title:** AI Project Builder: Real Footage
+
+**LinkedIn:** A walkthrough of Placiq's AI Project Builder: catalog, IDE, guided modules and project analysis.
+
+## Day 29 - Resume Claim vs Proof
+
+**Instagram**
+
+"Built a scalable expense app." Can you prove it?
+
+Every resume bullet is a claim. Link it to a repo, tests, a write-up, a demo, and numbers you actually measured.
+
+Placiq connects your projects and GitHub to your resume. learn.placiq.in
+
+#resume #resumetips #projects #placiq
+
+**YouTube title:** Resume Claim vs Proof
+
+**LinkedIn:** Resume claims are stronger when linked to verifiable artifacts: repositories, tests and measured results.
+
+## Day 30 - The Generic Resume Machine
+
+**Instagram**
+
+Insert student. Receive "hardworking team player".
+
+Templates flatten real stories. A bus tracker, a hackathon win and an ML project should not all become the same sentence.
+
+Placiq's Resume Intelligence flags generic bullets and gaps. learn.placiq.in
+
+#resume #careertips #freshers #placiq
+
+**YouTube title:** The Generic Resume Machine
+
+**LinkedIn:** Generic phrasing hides distinct experience. Specific, evidence-based bullets communicate more.

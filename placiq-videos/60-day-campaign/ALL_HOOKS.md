@@ -99,3 +99,53 @@
 1. 1,803 questions. About a handful of core patterns. **(selected)**
 2. Stop counting problems. Start counting patterns.
 3. The question bank is big. The idea bank is small.
+
+## Day 21 - DSA Visualizer Hero Film
+1. This is what DSA looks like when it moves. **(selected)**
+2. Real footage. No slides.
+3. Press play on an algorithm.
+
+## Day 22 - Tutorial Hell
+1. The moment the tutorial ends. **(selected)**
+2. Seven tutorials watched. Zero lines written alone.
+3. What happens when the video stops?
+
+## Day 23 - Your Eighth TODO App
+1. TODO app number eight. Achievement unlocked? **(selected)**
+2. Your portfolio, but every project is a TODO list.
+3. Recruiters have seen this one.
+
+## Day 24 - The Abandoned Repository
+1. Welcome to the city of unfinished repos. **(selected)**
+2. Last commit: 7 months ago.
+3. Every scaffold is a project you started.
+
+## Day 25 - Blank Editor Fear
+1. untitled.py. Cursor blinking. Panic rising. **(selected)**
+2. Where do you even start a project?
+3. Turn a blank file into a plan in 15 seconds.
+
+## Day 26 - From Idea to Implementation
+1. Idea to tests, in one scroll. **(selected)**
+2. Requirements first. Code fourth.
+3. The path every real project takes.
+
+## Day 27 - The AI That Asks First
+1. What if your AI asked you questions first? **(selected)**
+2. A tutor that does not just dump code.
+3. Three questions before one line of code.
+
+## Day 28 - Project Builder Hero Film
+1. From a project idea to evidence, in real footage. **(selected)**
+2. This is the AI Project Builder.
+3. Build it. Prove it.
+
+## Day 29 - Resume Claim vs Proof
+1. "Built a scalable app." Prove it. **(selected)**
+2. Every resume line is a claim.
+3. Can you back up bullet two?
+
+## Day 30 - The Generic Resume Machine
+1. Insert student. Receive "hardworking team player". **(selected)**
+2. The resume factory has one template.
+3. Why does every bullet sound the same?
