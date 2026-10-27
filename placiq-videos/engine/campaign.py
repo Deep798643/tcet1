@@ -371,3 +371,149 @@ day(42, title='Skill Passport', pillar='GitHub evidence', fmt='music', style='el
             dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='One living record.'), energy=1)],
     ig="Stamp by stamp: DSA, projects, resume, GitHub, mock interviews.\n\nPlaciq's Skill Passport is one living readiness score across everything you have practised and shipped.\n\nlearn.placiq.in",
     tags=['#skillpassport', '#readiness', '#placementprep', '#placiq'], yt='Skill Passport: One Living Record', li="Placiq's Skill Passport combines evidence from multiple modules into one readiness record.")
+
+# ================================================================ WEEK 7 - CAREER DIRECTION
+day(43, title='AI Engineer or Data Scientist?', pillar='Career direction', fmt='narrated', style='minimal', root=47, pal=WHITE, voice='af_heart', speed=1.05,
+    hooks=['AI engineer or data scientist? They share more than you think.', 'Two roles, one skill map.', 'Stop picking roles by job title.'],
+    scenes=[dict(type='vroles', say="AI engineer or data scientist? Both need Python and linear algebra. One leans into L L M A P Is, M L ops and system design. The other into statistics, S Q L and experiment design.", cap="AI engineer or data scientist? Both need Python and linear algebra. One leans to LLM APIs, MLOps, system design; the other to statistics, SQL, experiments.", p=dict(), energy=2),
+            dict(type='vclip', say="Career Navigator maps the skills a role needs, and what to learn next.", cap="Career Navigator maps the skills a role needs, and what to learn next.", p=dict(clip='navigator', pan=((0, 0), (.6, .3)), cw=.5, title='Map your role.'), energy=3, drop=True),
+            dict(type='vcta', say="Choose with clarity. Place IQ.", cap="Choose with clarity.", p=dict(v='logo', tag='Choose with clarity.'), energy=1, hold=1)],
+    ig="AI engineer or data scientist? They overlap more than the titles suggest.\n\nBoth lean on Python and linear algebra. AI engineering adds LLM APIs, MLOps and system design; data science adds statistics, SQL and experiment design.\n\nPlaciq's Career Navigator maps which skills each role needs. learn.placiq.in",
+    tags=['#aiengineer', '#datascience', '#careerpath', '#placiq'], yt='AI Engineer vs Data Scientist: Skill Map', li='A simplified view of overlapping and distinct skills between AI engineering and data science roles.')
+
+day(44, title='The Random Roadmap', pillar='Career direction', fmt='music', style='breakbeat', root=44, pal=PAPER,
+    hooks=['Flutter, Rust, Figma, Kafka... for which job?', 'Your skill list has no destination.', 'Pick the role, then the skills.'],
+    scenes=[dict(type='vsort', dur=9.0, cap='Random skills pile up. Pick a role, and they sort into NOW and LATER.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='Role first. Skills second.', p=dict(lines=['*ROLE FIRST.', 'SKILLS SECOND.'], slam=True), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='A roadmap with a destination.'), energy=1)],
+    ig="Flutter, Rust, Figma, Kafka, Unity... for which job?\n\nPick a target role first, and your skill list sorts itself into now and later.\n\nPlaciq's Career Navigator does that sorting with you. learn.placiq.in",
+    tags=['#roadmap', '#careerclarity', '#techskills', '#placiq'], yt='The Random Roadmap Problem', li='Skills accumulate without direction. Anchoring learning to a target role creates priorities.')
+
+day(45, title='What Should I Learn Next?', pillar='Career direction', fmt='narrated', style='house', root=50, pal=INK, voice='am_puck', speed=1.07,
+    hooks=['Kubernetes? LLMs? Rust? Stop.', 'The answer is three things, not thirty.', 'Your next three steps, ranked.'],
+    scenes=[dict(type='vcloud', say="Kubernetes. L L Ms. Rust. Everything looks urgent. But your next step should come from your gaps and your role. Maybe just three things: graphs, S Q L joins, and finishing milestone two.", cap="Kubernetes. LLMs. Rust. Everything looks urgent. Your next step should come from your gaps and your role: maybe just three things.", p=dict(), energy=2),
+            dict(type='vcta', say="Three things. Not thirty. Place IQ.", cap="Three things. Not thirty.", p=dict(v='stack', words=['THREE', 'THINGS.', 'NOT THIRTY.']), energy=3, drop=True, hold=1)],
+    ig="Kubernetes? LLMs? Rust? Everything feels urgent.\n\nYour next step should come from your actual gaps and your target role, and it is usually two or three things, not thirty.\n\nPlaciq prioritises what to learn next from your own progress. learn.placiq.in",
+    tags=['#whattolearn', '#programming', '#focus', '#placiq'], yt='What Should I Learn Next? (3 Things)', li='Prioritisation beats breadth. Turning an overwhelming learning landscape into ranked next steps.')
+
+day(46, title='LinkedIn Comparison Mode', pillar='Career direction', fmt='comedy', style='funk', root=46, pal=PAPER,
+    hooks=['"Thrilled to announce I woke up at 4 AM."', 'Your feed at 1 AM during placement season.', 'A completely realistic feed (all fictional).'],
+    scenes=[dict(type='vfeed', dur=10.0, cap='A (fictional) feed of impossible achievements. Compare with last-month you instead.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='Your only fair benchmark: past you.', p=dict(lines=['YOUR ONLY FAIR', 'BENCHMARK:', '*PAST YOU.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Track your own progress.'), energy=1)],
+    ig="\"Thrilled to announce my cat merged a PR to the Linux kernel.\" (fictional, obviously)\n\nHighlight reels are not progress reports. The only fair comparison is you, last month.\n\nPlaciq tracks your own readiness over time. learn.placiq.in",
+    tags=['#linkedin', '#comparison', '#studentlife', '#placiq'], yt='LinkedIn Comparison Mode (Fictional Feed)', li='A humorous look at comparison culture, and why tracking personal progress is healthier.')
+
+day(47, title='College Deadline Multiverse', pillar='Career direction', fmt='music', style='industrial', root=39, pal=MONO,
+    hooks=['Every deadline lands on the same Wednesday.', 'The calendar collapse.', 'Assignment + OA + review + mid-sem = Wednesday.'],
+    scenes=[dict(type='vcal', dur=9.0, cap='Assignment, OA, project review, TPO resume deadline: all on the same Wednesday.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='You cannot move deadlines. You can see them coming.', p=dict(lines=["YOU CAN'T MOVE", 'DEADLINES.', '*SEE THEM COMING.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Plan the week, not the panic.'), energy=1)],
+    ig="Somehow every deadline lands on the same Wednesday.\n\nAssignments, an OA, a project review and a resume deadline. You cannot move them, but you can see them coming and plan small daily steps.\n\nPlaciq's daily quests keep prep moving in busy weeks. learn.placiq.in",
+    tags=['#collegelife', '#deadlines', '#engineering', '#placiq'], yt='When Every Deadline Is Wednesday', li='Academic and placement deadlines collide. Small daily preparation steps reduce last-minute pressure.')
+
+day(48, title="Don't Train for Every Role", pillar='Career direction', fmt='narrated', style='cinematic', root=41, pal=BLUE, voice='am_michael', speed=1.04,
+    hooks=['Six paths. One you.', 'Training for every role means mastering none.', 'Depth beats breadth.'],
+    scenes=[dict(type='vpaths', say="Web dev. M L. Data. DevOps. Android. Security. Train for all six and you'll be shallow in each. Pick one direction, go deep, and adjust as you learn.", cap="Web dev, ML, data, DevOps, Android, security. Train for all six and you stay shallow. Pick one, go deep, adjust as you learn.", p=dict(), energy=2),
+            dict(type='vcta', say="Find your focus with Place IQ.", cap="Find your focus with Placiq.", p=dict(v='logo', tag='Depth beats breadth.'), energy=3, drop=True, hold=1)],
+    ig="Six career paths. One you.\n\nPreparing for every role at once spreads effort thin. Choose a direction, go deep, and reassess as you learn.\n\nPlaciq's Career Navigator helps you pick and plan a focus. learn.placiq.in",
+    tags=['#careerfocus', '#techcareers', '#students', '#placiq'], yt="Don't Train for Every Role", li='Focused preparation for one target role tends to produce deeper, more demonstrable skill.')
+
+day(49, title='Career Navigator Hero', pillar='Career direction', fmt='music', style='electro', root=45, pal=INK,
+    hooks=['Real footage: role, skills, next steps.', 'This is Career Navigator.', 'Know which role fits.'],
+    scenes=[dict(type='vtype', dur=2.0, cap='Which role fits you?', p=dict(lines=['WHICH ROLE', '*FITS YOU?'], slam=True), energy=2),
+            dict(type='vreel', dur=11.0, cap='Real Career Navigator: pick a role, see its roadmap and skill gaps, get next actions.', p=dict(clips=[('navigator', (0, .1), (.4, .3), .5), ('navigator', (.5, .2), (1, .4), .45), ('roadmap', (0, .1), (.5, .3), .5), ('roadmap', (.4, .3), (1, .5), .45)], labels=['PICK A ROLE', 'SEE THE GAP', 'ROLE ROADMAP', 'NEXT ACTIONS']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Career Navigator'), energy=1)],
+    ig="Which role fits you, which skills does it need, and what should you learn next?\n\nReal footage of Placiq's Career Navigator: role roadmaps, skill gaps and next actions.\n\nlearn.placiq.in",
+    tags=['#careernavigator', '#careerplanning', '#tech', '#placiq'], yt='Career Navigator: Real Footage', li="A look at Placiq's Career Navigator: role fit, required skills and next steps.")
+
+# ================================================================ WEEK 8 - CONNECTED OS
+day(50, title='The Broken Workflow', pillar='Connected OS', fmt='music', style='glitchhop', root=42, pal=INK,
+    hooks=['Watch your context fall through the cracks.', 'Five handoffs. Five drops.', 'Where does your progress go?'],
+    scenes=[dict(type='vpacket', dur=10.0, cap='Your context drops at every tool handoff. Connected, it flows through.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='Stop being the glue between your tools.', p=dict(lines=['STOP BEING', 'THE *GLUE.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='stack'), energy=1)],
+    ig="Watch your context fall through the cracks between tools.\n\nEvery handoff from a DSA site to notes to an AI chat to your resume loses something.\n\nIn Placiq, one context flows through every module. learn.placiq.in",
+    tags=['#workflow', '#productivity', '#careeros', '#placiq'], yt='The Broken Prep Workflow', li='Information loss between disconnected tools, visualised, and what a connected flow looks like.')
+
+day(51, title='One Student, Many Systems', pillar='Connected OS', fmt='narrated', style='trap', root=46, pal=PAPER, voice='af_heart', speed=1.06,
+    hooks=['Five tools. Five different versions of you.', 'Which Aarav is real?', 'Your tools disagree about you.'],
+    scenes=[dict(type='vconflict', say="Meet Aarav, a fictional student. His D S A site says beginner. His course app says advanced. His AI chat asks who he is. Five tools, five different Aaravs.", cap="Meet Aarav (fictional). DSA site: beginner. Course app: advanced. AI chat: who are you? Five tools, five different Aaravs.", p=dict(), energy=2),
+            dict(type='vtype', say="One student deserves one source of truth.", cap="One student deserves one source of truth.", p=dict(lines=['ONE STUDENT.', 'ONE SOURCE', 'OF *TRUTH.']), energy=3, drop=True),
+            dict(type='vcta', say="Place IQ. Your work, connected.", cap="Placiq. Your work, connected.", p=dict(v='logo'), energy=1, hold=1)],
+    ig="Five tools, five different versions of the same student.\n\nWhen every app tracks you separately, none of them sees the whole picture.\n\nPlaciq keeps one connected profile across DSA, projects, resume and goals. learn.placiq.in",
+    tags=['#edtech', '#students', '#careerprep', '#placiq'], yt='Five Tools, Five Versions of You', li='Fragmented systems create conflicting records of one learner. A fictional illustration.')
+
+day(52, title='The Aarav Story', pillar='Connected OS', fmt='narrated', style='cinematic', root=40, pal=WHITE, voice='am_michael', speed=1.03,
+    hooks=['Aarav started over. Again.', 'A fictional story about starting from zero, four times.', 'Week 1. Week 4. Week 9. Same start.'],
+    scenes=[dict(type='vcomic', say="This is Aarav, a fictional student. Week one, a new DSA sheet. Week four, a new course. Week nine, a new project idea. Every restart felt like progress. None of it connected.", cap="Aarav (fictional). Week 1: new DSA sheet. Week 4: new course. Week 9: new project idea. Every restart felt like progress. None connected.", p=dict(panels=[('WEEK 1', 'New DSA sheet. Day 1 again.', 'DSA'), ('WEEK 4', 'New course. Starting from module 1.', 'COURSE'), ('WEEK 9', 'New project. Old one abandoned.', 'REPO'), ('WEEK 12', 'One workspace that remembers.', 'Placiq')]), energy=1),
+            dict(type='vtype', say="Stop starting over. Start building on.", cap="Stop starting over. Start building on.", p=dict(lines=['STOP', '~STARTING OVER.', '*BUILD ON.']), energy=3, drop=True),
+            dict(type='vcta', say="Place IQ remembers where you left off.", cap="Placiq remembers where you left off.", p=dict(v='logo', tag='Pick up where you left off.'), energy=1, hold=1)],
+    ig="Aarav (fictional) started over four times in one semester.\n\nNew sheet, new course, new project. Each restart felt productive, but nothing built on anything.\n\nPlaciq remembers where you left off. learn.placiq.in",
+    tags=['#studentstory', '#placementprep', '#consistency', '#placiq'], yt='The Aarav Story: Starting Over Again', li='A fictional narrative about repeated restarts in preparation, and the value of continuity.')
+
+day(53, title='What Connected Really Means', pillar='Connected OS', fmt='narrated', style='house', root=48, pal=INK, voice='af_heart', speed=1.05,
+    hooks=['"Connected" is not a buzzword. Here is what it means.', 'Real screens, real links.', 'How one module informs another.'],
+    scenes=[dict(type='vreel', say="Connected means your Copilot sees your progress. Your Skill Passport scores across modules. Your resume is reviewed against your target role. And your projects carry the evidence.", cap="Connected means: the Copilot sees your progress, the Skill Passport scores across modules, the resume is reviewed for your role, projects carry the evidence.", p=dict(clips=[('copilot', (0, .1), (.4, .3), .5), ('passport', (0, 0), (.5, .3), .5), ('resume', (.3, .1), (.7, .4), .5), ('analyzer', (0, .1), (.5, .3), .5)], labels=['COPILOT SEES PROGRESS', 'PASSPORT SCORES ALL', 'RESUME FOR YOUR ROLE', 'PROJECTS = EVIDENCE']), energy=3, drop=True),
+            dict(type='vcta', say="That's connected. Place IQ.", cap="That's connected.", p=dict(v='stack'), energy=1, hold=1)],
+    ig="\"Connected\" should mean something specific.\n\nIn Placiq, the Copilot sees your progress, the Skill Passport scores across modules, your resume is reviewed against your target role, and projects carry evidence.\n\nReal screens, learn.placiq.in",
+    tags=['#careeros', '#ai', '#product', '#placiq'], yt='What "Connected" Actually Means', li='A concrete look at how Placiq modules share context: Copilot, Skill Passport, Resume Intelligence and Project Analyzer.')
+
+day(54, title='The Placiq Loop', pillar='Connected OS', fmt='narrated', style='electro', root=45, pal=BLUE, voice='am_puck', speed=1.06,
+    hooks=['Seven steps. One loop. No finish line.', 'Diagnose to Reassess, animated.', 'Preparation is a loop, not a list.'],
+    scenes=[dict(type='vloop7', say="Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess. Then go again, a little sharper every time.", cap="Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess. Then go again, a little sharper.", p=dict(), energy=3, drop=True),
+            dict(type='vcta', say="The Place IQ loop.", cap="The Placiq loop.", p=dict(v='logo', tag='A loop, not a checklist.'), energy=1, hold=1)],
+    ig="Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess. Repeat.\n\nPreparation is not a checklist you finish, it is a loop you get better at.\n\nThat loop is how Placiq is built. learn.placiq.in",
+    tags=['#placiqloop', '#learning', '#growth', '#placiq'], yt='The Placiq Loop in 15 Seconds', li="Placiq's seven-step preparation loop: diagnose, prioritize, learn, build, evidence, present, reassess.")
+
+day(55, title='From Fragments to Progress', pillar='Connected OS', fmt='music', style='dnb', root=43, pal=PAPER,
+    hooks=['One shape. Four lives.', 'A tab becomes a passport.', 'Watch a fragment turn into progress.'],
+    scenes=[dict(type='vmorph', dur=11.0, cap='A browser tab -> a practice card -> a connected node -> a readiness record.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='Fragments become progress when they connect.', p=dict(lines=['FRAGMENTS', 'BECOME', '*PROGRESS.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='stack'), energy=1)],
+    ig="A browser tab becomes a practice card, then a connected node, then a readiness record.\n\nThat is the whole idea: fragments only become progress when they connect.\n\nlearn.placiq.in",
+    tags=['#motiondesign', '#progress', '#careeros', '#placiq'], yt='From Fragments to Progress', li='A continuous match-cut showing scattered preparation turning into a connected record.')
+
+day(56, title='Placiq OS Reveal', pillar='Connected OS', fmt='narrated', style='house', root=50, pal=INK, voice='af_heart', speed=1.06,
+    hooks=['Thirty-seven tabs become one OS.', 'Meet the career OS that remembers you.', 'Disconnected, then connected.'],
+    scenes=[dict(type='vtabs', say="Thirty-seven tabs. Ten platforms. Zero memory.", cap="37 tabs. 10 platforms. Zero memory.", p=dict(n=37, seed=9), energy=1),
+            dict(type='vtabs', say="Until it all connects.", cap="Until it all connects.", p=dict(n=37, merge=.05, seed=9, merged='PLACIQ OS'), energy=3, drop=True, tr='glitch'),
+            dict(type='vreel', say="D S A that moves. Projects you finish. A resume backed by proof. A Copilot that remembers you.", cap="DSA that moves. Projects you finish. A resume backed by proof. A Copilot that remembers you.", p=dict(clips=[('dsa_run', (.25, .3), (.5, .5), .42), ('editor', (.1, .1), (.4, .3), .5), ('resume', (.3, .1), (.7, .4), .5), ('copilot', (.2, .1), (.6, .3), .5)], labels=['DSA THAT MOVES', 'PROJECTS YOU FINISH', 'RESUME WITH PROOF', 'COPILOT THAT REMEMBERS']), energy=3),
+            dict(type='vcta', say="Place IQ. The career OS that remembers you.", cap="Placiq. The career OS that remembers you.", p=dict(v='logo', tag='The career OS that remembers you.'), energy=1, hold=1)],
+    ig="37 tabs, 10 platforms, zero memory. Until it all connects.\n\nDSA that moves, projects you finish, a resume backed by proof and a Copilot that remembers you. One career OS.\n\nStart free: learn.placiq.in",
+    tags=['#placiq', '#careeros', '#ai', '#placementprep'], yt='Placiq: The Career OS That Remembers You', li='A short product reveal: from disconnected preparation tools to one connected career OS.')
+
+# ================================================================ BONUS 57-60
+day(57, title='The No-Narration Masterpiece', pillar='Brand', fmt='music', style='dnb', root=45, pal=MONO,
+    hooks=['No words. Just the work.', 'Turn the sound up.', 'A film in four movements.'],
+    scenes=[dict(type='vtabs', dur=4.0, cap='37 tabs.', p=dict(n=37, seed=2), energy=1),
+            dict(type='vmorph', dur=6.0, cap='Fragments connect.', p=dict(stages=[('tab', 'fragment'), ('node', 'connection'), ('passport', 'proof')]), energy=2),
+            dict(type='vreel', dur=8.0, cap='Real Placiq footage: DSA, Project Builder, Resume, Skill Passport.', p=dict(clips=[('dsa_run', (.25, .3), (.5, .5), .42), ('editor', (.1, .1), (.4, .3), .5), ('resume_report', (0, .1), (.5, .3), .5), ('passport', (0, 0), (.5, .3), .5)], labels=['LEARN', 'BUILD', 'PROVE', 'PRESENT']), energy=3, drop=True),
+            dict(type='vcta', dur=3.0, cap='Placiq. Your work, connected.', p=dict(v='stack'), energy=1)],
+    ig="No narration. Turn the sound up.\n\nFrom 37 tabs to one connected record of your work, told in music, motion and real Placiq footage.\n\nlearn.placiq.in",
+    tags=['#motiongraphics', '#brandfilm', '#placiq'], yt='Placiq: A Film Without Words', li='A music-led brand film: fragmented preparation to connected evidence, using real product footage.')
+
+day(58, title='The Funniest Developer Reel', pillar='Brand', fmt='comedy', style='arcade', root=48, pal=TERM,
+    hooks=['Me explaining code the AI wrote for me.', 'It compiled. I have no idea why.', 'Copy, paste, pray.'],
+    scenes=[dict(type='vterm', dur=8.5, cap='Interviewer: "Walk me through this function." Me: (AI wrote it).', p=dict(title='interview.sh  -  live', lines=['$ ai "write rate limiter"', ('> 87 lines generated', 'muted'), '$ interviewer --ask', ('"Why a sliding window log?"', 'a2'), '$ me --answer', ('"...it was in the code"', 'a2'), '$ interviewer --followup', ('"What happens at scale?"', 'a2')], alert=('SEGFAULT (ME)', .8), cps=36), energy=2),
+            dict(type='vasks', dur=8.0, cap='Understanding is when you can answer the follow-up.', p=dict(qs=[('Why a sliding window?', 'Fixed windows burst at edges'), ('Memory cost?', 'One timestamp per request'), ('At scale?', 'Move counts to Redis')], label='you can explain it now'), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Understand it. Then ship it.'), energy=1)],
+    ig="Me in the interview explaining code the AI wrote for me.\n\nGenerated answers pass the first question. Understanding passes the follow-up.\n\nPlaciq's Socratic tutors make you reason it through. learn.placiq.in",
+    tags=['#developerhumor', '#ai', '#codinginterview', '#placiq'], yt='Explaining Code the AI Wrote', li='AI-generated code versus genuine understanding, a light-hearted look at the follow-up question.')
+
+day(59, title='The Most Relatable Student Film', pillar='Brand', fmt='narrated', style='cinematic', root=38, pal=PAPER, voice='af_heart', speed=1.02,
+    hooks=['She worked hard every single day. Why did it feel like nothing moved?', 'Effort everywhere. Progress nowhere.', 'A story about Meera (fictional).'],
+    scenes=[dict(type='vcomic', say="Meera, a fictional student, studied every day. Videos in the morning. Problems at night. A project on weekends. Then the interview asked her to connect it all, and she couldn't.", cap="Meera (fictional) studied every day: videos, problems at night, a weekend project. Then the interview asked her to connect it all.", p=dict(panels=[('6 AM', 'Lecture videos before class.', 'VIDEO'), ('11 PM', 'Two more problems. Then two more.', 'DSA'), ('SUNDAY', 'Weekend project, half done.', 'REPO'), ('INTERVIEW', '"Tell me how it all fits together."', '?')]), energy=1),
+            dict(type='vmeters', say="Her effort was real. It just wasn't connected.", cap="Her effort was real. It just wasn't connected.", p=dict(hours=9, prog=.35, l1='EFFORT', l2='CONNECTED PROGRESS', chips=['videos', 'problems', 'project', 'resume']), energy=2),
+            dict(type='vcta', say="Place IQ. So your effort adds up.", cap="Placiq. So your effort adds up.", p=dict(v='logo', tag='So your effort adds up.'), energy=3, drop=True, hold=1.5)],
+    ig="Meera (fictional) studied every day. Videos at 6 AM, problems at 11 PM, a project every weekend.\n\nThen an interviewer asked how it all fits together. Her effort was real; it just was not connected.\n\nPlaciq connects your work so effort adds up. learn.placiq.in",
+    tags=['#studentlife', '#placementprep', '#relatable', '#placiq'], yt='Her Effort Was Real. It Just Wasn\'t Connected.', li='A fictional story about sustained effort without connection, and why connected preparation matters.')
+
+day(60, title='The Flagship Launch Ad', pillar='Brand', fmt='narrated', style='house', root=50, pal=INK, voice='am_michael', speed=1.04,
+    hooks=['Your career is a puzzle with pieces in ten different boxes.', 'Ten boxes. One picture.', 'What if every piece of your prep fit together?'],
+    scenes=[dict(type='vorbit', say="Your career is a puzzle, with pieces in ten different boxes. D S A here. Projects there. A resume nobody's connected to anything.", cap="Your career is a puzzle with pieces in ten different boxes. DSA here. Projects there. A resume connected to nothing.", p=dict(hub=1.5, names=['DSA', 'Projects', 'Resume', 'GitHub', 'Courses', 'AI chat', 'Notes', 'Mock tests', 'Goals', 'Portfolio']), energy=1),
+            dict(type='vorbit', say="Place IQ puts the pieces in one place, and remembers how they fit.", cap="Placiq puts the pieces in one place, and remembers how they fit.", p=dict(hub=.15, names=['DSA', 'Projects', 'Resume', 'GitHub', 'Courses', 'AI chat', 'Notes', 'Mock tests', 'Goals', 'Portfolio']), energy=3, drop=True),
+            dict(type='vreel', say="Learn it. Build it. Prove it. Present it.", cap="Learn it. Build it. Prove it. Present it.", p=dict(clips=[('dsa_run', (.25, .3), (.5, .5), .42), ('editor', (.1, .1), (.4, .3), .5), ('resume_report', (0, .1), (.5, .3), .5), ('passport', (0, 0), (.5, .3), .5)], labels=['LEARN IT', 'BUILD IT', 'PROVE IT', 'PRESENT IT']), energy=3),
+            dict(type='vcta', say="Place IQ. Your work, connected. Place I Q dot in.", cap="Placiq. YOUR WORK, CONNECTED. placiq.in", p=dict(v='stack', url='placiq.in', foot='https://placiq.in/'), energy=1, hold=1.5)],
+    ig="Your career is a puzzle with pieces in ten different boxes.\n\nPlaciq puts DSA, projects, resume, GitHub and goals in one place, and remembers how they fit. Learn it, build it, prove it, present it.\n\nPlaciq. Your work, connected. https://placiq.in/",
+    tags=['#placiq', '#yourworkconnected', '#careeros', '#placementprep'], yt='Placiq: Your Work, Connected', li='The flagship film for our 60-day series: Placiq, the AI-native Career Intelligence OS. Your work, connected.')

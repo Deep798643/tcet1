@@ -1217,5 +1217,528 @@
   ],
   "youtube_title": "Skill Passport: One Living Record",
   "ig": "Stamp by stamp: DSA, projects, resume, GitHub, mock interviews.\n\nPlaciq's Skill Passport is one living readiness score across everything you have practised and shipped.\n\nlearn.placiq.in\n\n#skillpassport #readiness #placementprep #placiq"
+ },
+ {
+  "day": 43,
+  "title": "AI Engineer or Data Scientist?",
+  "pillar": "Career direction",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_07/DAY_43",
+  "duration": 24.5,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 24.5,
+   "audio_streams": 1,
+   "lufs": -15.7,
+   "true_peak": -2.8,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 1,
+   "narration_voiced_ratio": 0.688
+  },
+  "hooks": [
+   "AI engineer or data scientist? They share more than you think.",
+   "Two roles, one skill map.",
+   "Stop picking roles by job title."
+  ],
+  "youtube_title": "AI Engineer vs Data Scientist: Skill Map",
+  "ig": "AI engineer or data scientist? They overlap more than the titles suggest.\n\nBoth lean on Python and linear algebra. AI engineering adds LLM APIs, MLOps and system design; data science adds statistics, SQL and experiment design.\n\nPlaciq's Career Navigator maps which skills each role needs. learn.placiq.in\n\n#aiengineer #datascience #careerpath #placiq"
+ },
+ {
+  "day": 44,
+  "title": "The Random Roadmap",
+  "pillar": "Career direction",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_07/DAY_44",
+  "duration": 15.0,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 15.0,
+   "audio_streams": 1,
+   "lufs": -14.7,
+   "true_peak": -0.9,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 1,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Flutter, Rust, Figma, Kafka... for which job?",
+   "Your skill list has no destination.",
+   "Pick the role, then the skills."
+  ],
+  "youtube_title": "The Random Roadmap Problem",
+  "ig": "Flutter, Rust, Figma, Kafka, Unity... for which job?\n\nPick a target role first, and your skill list sorts itself into now and later.\n\nPlaciq's Career Navigator does that sorting with you. learn.placiq.in\n\n#roadmap #careerclarity #techskills #placiq"
+ },
+ {
+  "day": 45,
+  "title": "What Should I Learn Next?",
+  "pillar": "Career direction",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_07/DAY_45",
+  "duration": 15.48,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 15.5,
+   "audio_streams": 1,
+   "lufs": -16.1,
+   "true_peak": -2.8,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.738
+  },
+  "hooks": [
+   "Kubernetes? LLMs? Rust? Stop.",
+   "The answer is three things, not thirty.",
+   "Your next three steps, ranked."
+  ],
+  "youtube_title": "What Should I Learn Next? (3 Things)",
+  "ig": "Kubernetes? LLMs? Rust? Everything feels urgent.\n\nYour next step should come from your actual gaps and your target role, and it is usually two or three things, not thirty.\n\nPlaciq prioritises what to learn next from your own progress. learn.placiq.in\n\n#whattolearn #programming #focus #placiq"
+ },
+ {
+  "day": 46,
+  "title": "LinkedIn Comparison Mode",
+  "pillar": "Career direction",
+  "format": "comedy",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_07/DAY_46",
+  "duration": 17.22,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.234,
+   "audio_streams": 1,
+   "lufs": -14.7,
+   "true_peak": -2.0,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "\"Thrilled to announce I woke up at 4 AM.\"",
+   "Your feed at 1 AM during placement season.",
+   "A completely realistic feed (all fictional)."
+  ],
+  "youtube_title": "LinkedIn Comparison Mode (Fictional Feed)",
+  "ig": "\"Thrilled to announce my cat merged a PR to the Linux kernel.\" (fictional, obviously)\n\nHighlight reels are not progress reports. The only fair comparison is you, last month.\n\nPlaciq tracks your own readiness over time. learn.placiq.in\n\n#linkedin #comparison #studentlife #placiq"
+ },
+ {
+  "day": 47,
+  "title": "College Deadline Multiverse",
+  "pillar": "Career direction",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_07/DAY_47",
+  "duration": 16.27,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 16.272,
+   "audio_streams": 1,
+   "lufs": -14.1,
+   "true_peak": -1.8,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 1,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Every deadline lands on the same Wednesday.",
+   "The calendar collapse.",
+   "Assignment + OA + review + mid-sem = Wednesday."
+  ],
+  "youtube_title": "When Every Deadline Is Wednesday",
+  "ig": "Somehow every deadline lands on the same Wednesday.\n\nAssignments, an OA, a project review and a resume deadline. You cannot move them, but you can see them coming and plan small daily steps.\n\nPlaciq's daily quests keep prep moving in busy weeks. learn.placiq.in\n\n#collegelife #deadlines #engineering #placiq"
+ },
+ {
+  "day": 48,
+  "title": "Don't Train for Every Role",
+  "pillar": "Career direction",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_07/DAY_48",
+  "duration": 17.33,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.334,
+   "audio_streams": 1,
+   "lufs": -16.0,
+   "true_peak": -2.7,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 2,
+   "narration_voiced_ratio": 0.621
+  },
+  "hooks": [
+   "Six paths. One you.",
+   "Training for every role means mastering none.",
+   "Depth beats breadth."
+  ],
+  "youtube_title": "Don't Train for Every Role",
+  "ig": "Six career paths. One you.\n\nPreparing for every role at once spreads effort thin. Choose a direction, go deep, and reassess as you learn.\n\nPlaciq's Career Navigator helps you pick and plan a focus. learn.placiq.in\n\n#careerfocus #techcareers #students #placiq"
+ },
+ {
+  "day": 49,
+  "title": "Career Navigator Hero",
+  "pillar": "Career direction",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_07/DAY_49",
+  "duration": 17.81,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.813,
+   "audio_streams": 1,
+   "lufs": -17.0,
+   "true_peak": -4.0,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null,
+   "relimited": true
+  },
+  "hooks": [
+   "Real footage: role, skills, next steps.",
+   "This is Career Navigator.",
+   "Know which role fits."
+  ],
+  "youtube_title": "Career Navigator: Real Footage",
+  "ig": "Which role fits you, which skills does it need, and what should you learn next?\n\nReal footage of Placiq's Career Navigator: role roadmaps, skill gaps and next actions.\n\nlearn.placiq.in\n\n#careernavigator #careerplanning #tech #placiq"
+ },
+ {
+  "day": 50,
+  "title": "The Broken Workflow",
+  "pillar": "Connected OS",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_08/DAY_50",
+  "duration": 18.0,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 18.0,
+   "audio_streams": 1,
+   "lufs": -15.0,
+   "true_peak": -1.8,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Watch your context fall through the cracks.",
+   "Five handoffs. Five drops.",
+   "Where does your progress go?"
+  ],
+  "youtube_title": "The Broken Prep Workflow",
+  "ig": "Watch your context fall through the cracks between tools.\n\nEvery handoff from a DSA site to notes to an AI chat to your resume loses something.\n\nIn Placiq, one context flows through every module. learn.placiq.in\n\n#workflow #productivity #careeros #placiq"
+ },
+ {
+  "day": 51,
+  "title": "One Student, Many Systems",
+  "pillar": "Connected OS",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_08/DAY_51",
+  "duration": 19.03,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 19.035,
+   "audio_streams": 1,
+   "lufs": -15.6,
+   "true_peak": -3.0,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.655
+  },
+  "hooks": [
+   "Five tools. Five different versions of you.",
+   "Which Aarav is real?",
+   "Your tools disagree about you."
+  ],
+  "youtube_title": "Five Tools, Five Versions of You",
+  "ig": "Five tools, five different versions of the same student.\n\nWhen every app tracks you separately, none of them sees the whole picture.\n\nPlaciq keeps one connected profile across DSA, projects, resume and goals. learn.placiq.in\n\n#edtech #students #careerprep #placiq"
+ },
+ {
+  "day": 52,
+  "title": "The Aarav Story",
+  "pillar": "Connected OS",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_08/DAY_52",
+  "duration": 21.33,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 21.334,
+   "audio_streams": 1,
+   "lufs": -15.7,
+   "true_peak": -3.2,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.716
+  },
+  "hooks": [
+   "Aarav started over. Again.",
+   "A fictional story about starting from zero, four times.",
+   "Week 1. Week 4. Week 9. Same start."
+  ],
+  "youtube_title": "The Aarav Story: Starting Over Again",
+  "ig": "Aarav (fictional) started over four times in one semester.\n\nNew sheet, new course, new project. Each restart felt productive, but nothing built on anything.\n\nPlaciq remembers where you left off. learn.placiq.in\n\n#studentstory #placementprep #consistency #placiq"
+ },
+ {
+  "day": 53,
+  "title": "What Connected Really Means",
+  "pillar": "Connected OS",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_08/DAY_53",
+  "duration": 14.52,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 14.507,
+   "audio_streams": 1,
+   "lufs": -15.5,
+   "true_peak": -2.6,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.717
+  },
+  "hooks": [
+   "\"Connected\" is not a buzzword. Here is what it means.",
+   "Real screens, real links.",
+   "How one module informs another."
+  ],
+  "youtube_title": "What \"Connected\" Actually Means",
+  "ig": "\"Connected\" should mean something specific.\n\nIn Placiq, the Copilot sees your progress, the Skill Passport scores across modules, your resume is reviewed against your target role, and projects carry evidence.\n\nReal screens, learn.placiq.in\n\n#careeros #ai #product #placiq"
+ },
+ {
+  "day": 54,
+  "title": "The Placiq Loop",
+  "pillar": "Connected OS",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_08/DAY_54",
+  "duration": 9.84,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 9.835,
+   "audio_streams": 1,
+   "lufs": -16.2,
+   "true_peak": -2.8,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.699
+  },
+  "hooks": [
+   "Seven steps. One loop. No finish line.",
+   "Diagnose to Reassess, animated.",
+   "Preparation is a loop, not a list."
+  ],
+  "youtube_title": "The Placiq Loop in 15 Seconds",
+  "ig": "Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess. Repeat.\n\nPreparation is not a checklist you finish, it is a loop you get better at.\n\nThat loop is how Placiq is built. learn.placiq.in\n\n#placiqloop #learning #growth #placiq"
+ },
+ {
+  "day": 55,
+  "title": "From Fragments to Progress",
+  "pillar": "Connected OS",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_08/DAY_55",
+  "duration": 17.44,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.442,
+   "audio_streams": 1,
+   "lufs": -14.9,
+   "true_peak": -2.7,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "One shape. Four lives.",
+   "A tab becomes a passport.",
+   "Watch a fragment turn into progress."
+  ],
+  "youtube_title": "From Fragments to Progress",
+  "ig": "A browser tab becomes a practice card, then a connected node, then a readiness record.\n\nThat is the whole idea: fragments only become progress when they connect.\n\nlearn.placiq.in\n\n#motiondesign #progress #careeros #placiq"
+ },
+ {
+  "day": 56,
+  "title": "Placiq OS Reveal",
+  "pillar": "Connected OS",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_08/DAY_56",
+  "duration": 16.94,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 16.936,
+   "audio_streams": 1,
+   "lufs": -16.2,
+   "true_peak": -2.6,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.669
+  },
+  "hooks": [
+   "Thirty-seven tabs become one OS.",
+   "Meet the career OS that remembers you.",
+   "Disconnected, then connected."
+  ],
+  "youtube_title": "Placiq: The Career OS That Remembers You",
+  "ig": "37 tabs, 10 platforms, zero memory. Until it all connects.\n\nDSA that moves, projects you finish, a resume backed by proof and a Copilot that remembers you. One career OS.\n\nStart free: learn.placiq.in\n\n#placiq #careeros #ai #placementprep"
+ },
+ {
+  "day": 57,
+  "title": "The No-Narration Masterpiece",
+  "pillar": "Brand",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/BONUS_DAYS_57_TO_60/DAY_57",
+  "duration": 23.02,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 23.034,
+   "audio_streams": 1,
+   "lufs": -15.8,
+   "true_peak": -1.5,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "No words. Just the work.",
+   "Turn the sound up.",
+   "A film in four movements."
+  ],
+  "youtube_title": "Placiq: A Film Without Words",
+  "ig": "No narration. Turn the sound up.\n\nFrom 37 tabs to one connected record of your work, told in music, motion and real Placiq footage.\n\nlearn.placiq.in\n\n#motiongraphics #brandfilm #placiq"
+ },
+ {
+  "day": 58,
+  "title": "The Funniest Developer Reel",
+  "pillar": "Brand",
+  "format": "comedy",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/BONUS_DAYS_57_TO_60/DAY_58",
+  "duration": 20.8,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 20.8,
+   "audio_streams": 1,
+   "lufs": -14.1,
+   "true_peak": -1.2,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Me explaining code the AI wrote for me.",
+   "It compiled. I have no idea why.",
+   "Copy, paste, pray."
+  ],
+  "youtube_title": "Explaining Code the AI Wrote",
+  "ig": "Me in the interview explaining code the AI wrote for me.\n\nGenerated answers pass the first question. Understanding passes the follow-up.\n\nPlaciq's Socratic tutors make you reason it through. learn.placiq.in\n\n#developerhumor #ai #codinginterview #placiq"
+ },
+ {
+  "day": 59,
+  "title": "The Most Relatable Student Film",
+  "pillar": "Brand",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/BONUS_DAYS_57_TO_60/DAY_59",
+  "duration": 20.67,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 20.667,
+   "audio_streams": 1,
+   "lufs": -16.2,
+   "true_peak": -2.7,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.625
+  },
+  "hooks": [
+   "She worked hard every single day. Why did it feel like nothing moved?",
+   "Effort everywhere. Progress nowhere.",
+   "A story about Meera (fictional)."
+  ],
+  "youtube_title": "Her Effort Was Real. It Just Wasn't Connected.",
+  "ig": "Meera (fictional) studied every day. Videos at 6 AM, problems at 11 PM, a project every weekend.\n\nThen an interviewer asked how it all fits together. Her effort was real; it just was not connected.\n\nPlaciq connects your work so effort adds up. learn.placiq.in\n\n#studentlife #placementprep #relatable #placiq"
+ },
+ {
+  "day": 60,
+  "title": "The Flagship Launch Ad",
+  "pillar": "Brand",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/BONUS_DAYS_57_TO_60/DAY_60",
+  "duration": 23.71,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 23.702,
+   "audio_streams": 1,
+   "lufs": -15.6,
+   "true_peak": -2.9,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.692
+  },
+  "hooks": [
+   "Your career is a puzzle with pieces in ten different boxes.",
+   "Ten boxes. One picture.",
+   "What if every piece of your prep fit together?"
+  ],
+  "youtube_title": "Placiq: Your Work, Connected",
+  "ig": "Your career is a puzzle with pieces in ten different boxes.\n\nPlaciq puts DSA, projects, resume, GitHub and goals in one place, and remembers how they fit. Learn it, build it, prove it, present it.\n\nPlaciq. Your work, connected. https://placiq.in/\n\n#placiq #yourworkconnected #careeros #placementprep"
  }
 ]

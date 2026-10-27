@@ -630,3 +630,272 @@ Pillar: GitHub evidence  |  Format: music  |  Music: electro 128 BPM  |  Duratio
 - [0.00s, 9.38s] vpassport: ON-SCREEN: DSA, project, resume, GitHub, mock: stamps in one living readiness record.
 - [9.38s, 4.69s] vclip: ON-SCREEN: Real Skill Passport in Placiq.
 - [14.06s, 2.81s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 43 - AI Engineer or Data Scientist?
+
+Pillar: Career direction  |  Format: narrated  |  Music: minimal 120 BPM  |  Duration: 24.5s
+
+## Hooks
+1. AI engineer or data scientist? They share more than you think.  (SELECTED)
+2. Two roles, one skill map.
+3. Stop picking roles by job title.
+
+## Scenes
+- [0.00s, 16.00s] vroles: VO: "AI engineer or data scientist? Both need Python and linear algebra. One leans into L L M A P Is, M L ops and system design. The other into statistics, S Q L and experiment design."
+- [16.00s, 5.00s] vclip: VO: "Career Navigator maps the skills a role needs, and what to learn next."
+- [21.00s, 3.50s] vcta: VO: "Choose with clarity. Place IQ."
+
+
+# Day 44 - The Random Roadmap
+
+Pillar: Career direction  |  Format: music  |  Music: breakbeat 132 BPM  |  Duration: 15.0s
+
+## Hooks
+1. Flutter, Rust, Figma, Kafka... for which job?  (SELECTED)
+2. Your skill list has no destination.
+3. Pick the role, then the skills.
+
+## Scenes
+- [0.00s, 9.09s] vsort: ON-SCREEN: Random skills pile up. Pick a role, and they sort into NOW and LATER.
+- [9.09s, 3.18s] vtype: ON-SCREEN: Role first. Skills second.
+- [12.27s, 2.73s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 45 - What Should I Learn Next?
+
+Pillar: Career direction  |  Format: narrated  |  Music: house 124 BPM  |  Duration: 15.5s
+
+## Hooks
+1. Kubernetes? LLMs? Rust? Stop.  (SELECTED)
+2. The answer is three things, not thirty.
+3. Your next three steps, ranked.
+
+## Scenes
+- [0.00s, 11.61s] vcloud: VO: "Kubernetes. L L Ms. Rust. Everything looks urgent. But your next step should come from your gaps and your role. Maybe just three things: graphs, S Q L joins, and finishing milestone two."
+- [11.61s, 3.87s] vcta: VO: "Three things. Not thirty. Place IQ."
+
+
+# Day 46 - LinkedIn Comparison Mode
+
+Pillar: Career direction  |  Format: comedy  |  Music: funk 108 BPM  |  Duration: 17.2s
+
+## Hooks
+1. "Thrilled to announce I woke up at 4 AM."  (SELECTED)
+2. Your feed at 1 AM during placement season.
+3. A completely realistic feed (all fictional).
+
+## Scenes
+- [0.00s, 11.11s] vfeed: ON-SCREEN: A (fictional) feed of impossible achievements. Compare with last-month you instead.
+- [11.11s, 3.33s] vtype: ON-SCREEN: Your only fair benchmark: past you.
+- [14.44s, 2.78s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 47 - College Deadline Multiverse
+
+Pillar: Career direction  |  Format: music  |  Music: industrial 118 BPM  |  Duration: 16.3s
+
+## Hooks
+1. Every deadline lands on the same Wednesday.  (SELECTED)
+2. The calendar collapse.
+3. Assignment + OA + review + mid-sem = Wednesday.
+
+## Scenes
+- [0.00s, 10.17s] vcal: ON-SCREEN: Assignment, OA, project review, TPO resume deadline: all on the same Wednesday.
+- [10.17s, 3.05s] vtype: ON-SCREEN: You cannot move deadlines. You can see them coming.
+- [13.22s, 3.05s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 48 - Don't Train for Every Role
+
+Pillar: Career direction  |  Format: narrated  |  Music: cinematic 90 BPM  |  Duration: 17.3s
+
+## Hooks
+1. Six paths. One you.  (SELECTED)
+2. Training for every role means mastering none.
+3. Depth beats breadth.
+
+## Scenes
+- [0.00s, 13.33s] vpaths: VO: "Web dev. M L. Data. DevOps. Android. Security. Train for all six and you'll be shallow in each. Pick one direction, go deep, and adjust as you learn."
+- [13.33s, 4.00s] vcta: VO: "Find your focus with Place IQ."
+
+
+# Day 49 - Career Navigator Hero
+
+Pillar: Career direction  |  Format: music  |  Music: electro 128 BPM  |  Duration: 17.8s
+
+## Hooks
+1. Real footage: role, skills, next steps.  (SELECTED)
+2. This is Career Navigator.
+3. Know which role fits.
+
+## Scenes
+- [0.00s, 3.75s] vtype: ON-SCREEN: Which role fits you?
+- [3.75s, 11.25s] vreel: ON-SCREEN: Real Career Navigator: pick a role, see its roadmap and skill gaps, get next actions.
+- [15.00s, 2.81s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 50 - The Broken Workflow
+
+Pillar: Connected OS  |  Format: music  |  Music: glitchhop 100 BPM  |  Duration: 18.0s
+
+## Hooks
+1. Watch your context fall through the cracks.  (SELECTED)
+2. Five handoffs. Five drops.
+3. Where does your progress go?
+
+## Scenes
+- [0.00s, 12.00s] vpacket: ON-SCREEN: Your context drops at every tool handoff. Connected, it flows through.
+- [12.00s, 3.00s] vtype: ON-SCREEN: Stop being the glue between your tools.
+- [15.00s, 3.00s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 51 - One Student, Many Systems
+
+Pillar: Connected OS  |  Format: narrated  |  Music: trap 145 BPM  |  Duration: 19.0s
+
+## Hooks
+1. Five tools. Five different versions of you.  (SELECTED)
+2. Which Aarav is real?
+3. Your tools disagree about you.
+
+## Scenes
+- [0.00s, 11.59s] vconflict: VO: "Meet Aarav, a fictional student. His D S A site says beginner. His course app says advanced. His AI chat asks who he is. Five tools, five different Aaravs."
+- [11.59s, 3.31s] vtype: VO: "One student deserves one source of truth."
+- [14.90s, 4.14s] vcta: VO: "Place IQ. Your work, connected."
+
+
+# Day 52 - The Aarav Story
+
+Pillar: Connected OS  |  Format: narrated  |  Music: cinematic 90 BPM  |  Duration: 21.3s
+
+## Hooks
+1. Aarav started over. Again.  (SELECTED)
+2. A fictional story about starting from zero, four times.
+3. Week 1. Week 4. Week 9. Same start.
+
+## Scenes
+- [0.00s, 13.33s] vcomic: VO: "This is Aarav, a fictional student. Week one, a new DSA sheet. Week four, a new course. Week nine, a new project idea. Every restart felt like progress. None of it connected."
+- [13.33s, 3.33s] vtype: VO: "Stop starting over. Start building on."
+- [16.67s, 4.67s] vcta: VO: "Place IQ remembers where you left off."
+
+
+# Day 53 - What Connected Really Means
+
+Pillar: Connected OS  |  Format: narrated  |  Music: house 124 BPM  |  Duration: 14.5s
+
+## Hooks
+1. "Connected" is not a buzzword. Here is what it means.  (SELECTED)
+2. Real screens, real links.
+3. How one module informs another.
+
+## Scenes
+- [0.00s, 11.13s] vreel: VO: "Connected means your Copilot sees your progress. Your Skill Passport scores across modules. Your resume is reviewed against your target role. And your projects carry the evidence."
+- [11.13s, 3.39s] vcta: VO: "That's connected. Place IQ."
+
+
+# Day 54 - The Placiq Loop
+
+Pillar: Connected OS  |  Format: narrated  |  Music: electro 128 BPM  |  Duration: 9.8s
+
+## Hooks
+1. Seven steps. One loop. No finish line.  (SELECTED)
+2. Diagnose to Reassess, animated.
+3. Preparation is a loop, not a list.
+
+## Scenes
+- [0.00s, 7.03s] vloop7: VO: "Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess. Then go again, a little sharper every time."
+- [7.03s, 2.81s] vcta: VO: "The Place IQ loop."
+
+
+# Day 55 - From Fragments to Progress
+
+Pillar: Connected OS  |  Format: music  |  Music: dnb 172 BPM  |  Duration: 17.4s
+
+## Hooks
+1. One shape. Four lives.  (SELECTED)
+2. A tab becomes a passport.
+3. Watch a fragment turn into progress.
+
+## Scenes
+- [0.00s, 11.16s] vmorph: ON-SCREEN: A browser tab -> a practice card -> a connected node -> a readiness record.
+- [11.16s, 3.49s] vtype: ON-SCREEN: Fragments become progress when they connect.
+- [14.65s, 2.79s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 56 - Placiq OS Reveal
+
+Pillar: Connected OS  |  Format: narrated  |  Music: house 124 BPM  |  Duration: 16.9s
+
+## Hooks
+1. Thirty-seven tabs become one OS.  (SELECTED)
+2. Meet the career OS that remembers you.
+3. Disconnected, then connected.
+
+## Scenes
+- [0.00s, 3.87s] vtabs: VO: "Thirty-seven tabs. Ten platforms. Zero memory."
+- [3.87s, 1.94s] vtabs: VO: "Until it all connects."
+- [5.81s, 6.77s] vreel: VO: "D S A that moves. Projects you finish. A resume backed by proof. A Copilot that remembers you."
+- [12.58s, 4.35s] vcta: VO: "Place IQ. The career OS that remembers you."
+
+
+# Day 57 - The No-Narration Masterpiece
+
+Pillar: Brand  |  Format: music  |  Music: dnb 172 BPM  |  Duration: 23.0s
+
+## Hooks
+1. No words. Just the work.  (SELECTED)
+2. Turn the sound up.
+3. A film in four movements.
+
+## Scenes
+- [0.00s, 4.19s] vtabs: ON-SCREEN: 37 tabs.
+- [4.19s, 6.98s] vmorph: ON-SCREEN: Fragments connect.
+- [11.16s, 8.37s] vreel: ON-SCREEN: Real Placiq footage: DSA, Project Builder, Resume, Skill Passport.
+- [19.53s, 3.49s] vcta: ON-SCREEN: Placiq. Your work, connected.
+
+
+# Day 58 - The Funniest Developer Reel
+
+Pillar: Brand  |  Format: comedy  |  Music: arcade 150 BPM  |  Duration: 20.8s
+
+## Hooks
+1. Me explaining code the AI wrote for me.  (SELECTED)
+2. It compiled. I have no idea why.
+3. Copy, paste, pray.
+
+## Scenes
+- [0.00s, 9.60s] vterm: ON-SCREEN: Interviewer: "Walk me through this function." Me: (AI wrote it).
+- [9.60s, 8.00s] vasks: ON-SCREEN: Understanding is when you can answer the follow-up.
+- [17.60s, 3.20s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 59 - The Most Relatable Student Film
+
+Pillar: Brand  |  Format: narrated  |  Music: cinematic 90 BPM  |  Duration: 20.7s
+
+## Hooks
+1. She worked hard every single day. Why did it feel like nothing moved?  (SELECTED)
+2. Effort everywhere. Progress nowhere.
+3. A story about Meera (fictional).
+
+## Scenes
+- [0.00s, 11.33s] vcomic: VO: "Meera, a fictional student, studied every day. Videos in the morning. Problems at night. A project on weekends. Then the interview asked her to connect it all, and she couldn't."
+- [11.33s, 4.67s] vmeters: VO: "Her effort was real. It just wasn't connected."
+- [16.00s, 4.67s] vcta: VO: "Place IQ. So your effort adds up."
+
+
+# Day 60 - The Flagship Launch Ad
+
+Pillar: Brand  |  Format: narrated  |  Music: house 124 BPM  |  Duration: 23.7s
+
+## Hooks
+1. Your career is a puzzle with pieces in ten different boxes.  (SELECTED)
+2. Ten boxes. One picture.
+3. What if every piece of your prep fit together?
+
+## Scenes
+- [0.00s, 9.68s] vorbit: VO: "Your career is a puzzle, with pieces in ten different boxes. D S A here. Projects there. A resume nobody's connected to anything."
+- [9.68s, 5.32s] vorbit: VO: "Place IQ puts the pieces in one place, and remembers how they fit."
+- [15.00s, 2.90s] vreel: VO: "Learn it. Build it. Prove it. Present it."
+- [17.90s, 5.81s] vcta: VO: "Place IQ. Your work, connected. Place I Q dot in."

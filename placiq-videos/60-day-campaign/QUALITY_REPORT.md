@@ -46,3 +46,21 @@ Automated checks per film (ffprobe/ffmpeg): 1080x1920, 30fps, 1 AAC stream, inte
 | 40 | The Evidence Trail | ready_to_post | 17.9 | -15.2 | -1.5 | 0 | 2 | None |
 | 41 | Interview Proof | ready_to_post | 20.85 | -15.1 | -2.5 | 0 | 1 | 0.683 |
 | 42 | Skill Passport | ready_to_post | 16.88 | -16.0 | -1.9 | 0 | 1 | None |
+| 43 | AI Engineer or Data Scientist? | ready_to_post | 24.5 | -15.7 | -2.8 | 0 | 1 | 0.688 |
+| 44 | The Random Roadmap | ready_to_post | 15.0 | -14.7 | -0.9 | 0 | 1 | None |
+| 45 | What Should I Learn Next? | ready_to_post | 15.48 | -16.1 | -2.8 | 0 | 0 | 0.738 |
+| 46 | LinkedIn Comparison Mode | ready_to_post | 17.22 | -14.7 | -2.0 | 0 | 0 | None |
+| 47 | College Deadline Multiverse | ready_to_post | 16.27 | -14.1 | -1.8 | 0 | 1 | None |
+| 48 | Don't Train for Every Role | ready_to_post | 17.33 | -16.0 | -2.7 | 0 | 2 | 0.621 |
+| 49 | Career Navigator Hero | ready_to_post | 17.81 | -17.0 | -4.0 | 0 | 0 | None |
+| 50 | The Broken Workflow | ready_to_post | 18.0 | -15.0 | -1.8 | 0 | 0 | None |
+| 51 | One Student, Many Systems | ready_to_post | 19.03 | -15.6 | -3.0 | 0 | 0 | 0.655 |
+| 52 | The Aarav Story | ready_to_post | 21.33 | -15.7 | -3.2 | 0 | 0 | 0.716 |
+| 53 | What Connected Really Means | ready_to_post | 14.52 | -15.5 | -2.6 | 0 | 0 | 0.717 |
+| 54 | The Placiq Loop | ready_to_post | 9.84 | -16.2 | -2.8 | 0 | 0 | 0.699 |
+| 55 | From Fragments to Progress | ready_to_post | 17.44 | -14.9 | -2.7 | 0 | 0 | None |
+| 56 | Placiq OS Reveal | ready_to_post | 16.94 | -16.2 | -2.6 | 0 | 0 | 0.669 |
+| 57 | The No-Narration Masterpiece | ready_to_post | 23.02 | -15.8 | -1.5 | 0 | 0 | None |
+| 58 | The Funniest Developer Reel | ready_to_post | 20.8 | -14.1 | -1.2 | 0 | 0 | None |
+| 59 | The Most Relatable Student Film | ready_to_post | 20.67 | -16.2 | -2.7 | 0 | 0 | 0.625 |
+| 60 | The Flagship Launch Ad | ready_to_post | 23.71 | -15.6 | -2.9 | 0 | 0 | 0.692 |

@@ -209,3 +209,93 @@
 1. Stamp by stamp, a readiness record. **(selected)**
 2. Your skills, passport-verified.
 3. One living record of your prep.
+
+## Day 43 - AI Engineer or Data Scientist?
+1. AI engineer or data scientist? They share more than you think. **(selected)**
+2. Two roles, one skill map.
+3. Stop picking roles by job title.
+
+## Day 44 - The Random Roadmap
+1. Flutter, Rust, Figma, Kafka... for which job? **(selected)**
+2. Your skill list has no destination.
+3. Pick the role, then the skills.
+
+## Day 45 - What Should I Learn Next?
+1. Kubernetes? LLMs? Rust? Stop. **(selected)**
+2. The answer is three things, not thirty.
+3. Your next three steps, ranked.
+
+## Day 46 - LinkedIn Comparison Mode
+1. "Thrilled to announce I woke up at 4 AM." **(selected)**
+2. Your feed at 1 AM during placement season.
+3. A completely realistic feed (all fictional).
+
+## Day 47 - College Deadline Multiverse
+1. Every deadline lands on the same Wednesday. **(selected)**
+2. The calendar collapse.
+3. Assignment + OA + review + mid-sem = Wednesday.
+
+## Day 48 - Don't Train for Every Role
+1. Six paths. One you. **(selected)**
+2. Training for every role means mastering none.
+3. Depth beats breadth.
+
+## Day 49 - Career Navigator Hero
+1. Real footage: role, skills, next steps. **(selected)**
+2. This is Career Navigator.
+3. Know which role fits.
+
+## Day 50 - The Broken Workflow
+1. Watch your context fall through the cracks. **(selected)**
+2. Five handoffs. Five drops.
+3. Where does your progress go?
+
+## Day 51 - One Student, Many Systems
+1. Five tools. Five different versions of you. **(selected)**
+2. Which Aarav is real?
+3. Your tools disagree about you.
+
+## Day 52 - The Aarav Story
+1. Aarav started over. Again. **(selected)**
+2. A fictional story about starting from zero, four times.
+3. Week 1. Week 4. Week 9. Same start.
+
+## Day 53 - What Connected Really Means
+1. "Connected" is not a buzzword. Here is what it means. **(selected)**
+2. Real screens, real links.
+3. How one module informs another.
+
+## Day 54 - The Placiq Loop
+1. Seven steps. One loop. No finish line. **(selected)**
+2. Diagnose to Reassess, animated.
+3. Preparation is a loop, not a list.
+
+## Day 55 - From Fragments to Progress
+1. One shape. Four lives. **(selected)**
+2. A tab becomes a passport.
+3. Watch a fragment turn into progress.
+
+## Day 56 - Placiq OS Reveal
+1. Thirty-seven tabs become one OS. **(selected)**
+2. Meet the career OS that remembers you.
+3. Disconnected, then connected.
+
+## Day 57 - The No-Narration Masterpiece
+1. No words. Just the work. **(selected)**
+2. Turn the sound up.
+3. A film in four movements.
+
+## Day 58 - The Funniest Developer Reel
+1. Me explaining code the AI wrote for me. **(selected)**
+2. It compiled. I have no idea why.
+3. Copy, paste, pray.
+
+## Day 59 - The Most Relatable Student Film
+1. She worked hard every single day. Why did it feel like nothing moved? **(selected)**
+2. Effort everywhere. Progress nowhere.
+3. A story about Meera (fictional).
+
+## Day 60 - The Flagship Launch Ad
+1. Your career is a puzzle with pieces in ten different boxes. **(selected)**
+2. Ten boxes. One picture.
+3. What if every piece of your prep fit together?

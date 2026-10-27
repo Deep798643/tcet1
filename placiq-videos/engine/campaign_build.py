@@ -180,6 +180,32 @@ def sfx_for(S):
         n = len(p.get('stamps', [0] * 6))
         rts = disp_reveal_times(S, n) if S.get('vo') is not None else [.8 + i * (dur * .6 / n) for i in range(n)]
         ev += [(.1, 'whoosh', .5)] + [(r, 'stamp', .7) for r in rts]
+    elif ty == 'vroles':
+        ev += [(.1, 'bass', .5), (.4, 'bass', .5)] + [(.8 + k * dur * .6 / 8, 'pop', .5) for k in range(8)]
+    elif ty == 'vsort':
+        ev += [(.05 + i * .12 + .25, 'pop', .3) for i in range(16)] + [(dur * .5, 'whoosh', .7), (dur * .5 + .9, 'impact', .4)]
+    elif ty == 'vcloud':
+        ev += [(dur * .45, 'whoosh', .7)] + [(dur * .55 + i * .3, 'bass', .6) for i in range(3)]
+    elif ty == 'vfeed':
+        ev += [(k * .7, 'notif', .35) for k in range(int(dur * .7 / .7))] + [(dur * .72, 'stamp', .5)]
+    elif ty == 'vcal':
+        ev += [(.2 + i * .25, 'pop', .5) for i in range(6)] + [(dur * .4, 'glitch', .6), (dur * .45, 'impact', .5)]
+    elif ty == 'vpaths':
+        ev += [(.1 + i * .12, 'whoosh', .25) for i in range(6)] + [(dur * .55, 'bass', .7)]
+    elif ty == 'vpacket':
+        seg = dur * .6 / 5
+        ev += [(i * seg + seg * .55, 'glitch', .5) for i in range(5)] + [(dur * .6, 'impact', .6)]
+    elif ty == 'vconflict':
+        ev += [(.1 + i * .3, 'beep', .4) for i in range(5)] + [(dur * .7, 'stamp', .6)]
+    elif ty == 'vcomic':
+        seg = dur / len(p['panels'])
+        ev += [(i * seg, 'whoosh', .5) for i in range(len(p['panels']))] + [(i * seg + .3, 'click', .6) for i in range(len(p['panels']))]
+    elif ty == 'vloop7':
+        rts = disp_reveal_times(S, 7) if S.get('vo') is not None else [.3 + i * dur * .1 for i in range(7)]
+        ev += [(r, 'bass', .45) for r in rts]
+    elif ty == 'vmorph':
+        n = len(p.get('stages', [0] * 4)); seg = dur / n
+        ev += [(i * seg + seg * .6, 'whoosh', .6) for i in range(n - 1)] + [(i * seg, 'pop', .5) for i in range(n)]
     if S['idx'] > 0:
         ev.append((-.38, 'whoosh', .45))
     return ev

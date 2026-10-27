@@ -671,3 +671,291 @@ learn.placiq.in
 **YouTube title:** Skill Passport: One Living Record
 
 **LinkedIn:** Placiq's Skill Passport combines evidence from multiple modules into one readiness record.
+
+## Day 43 - AI Engineer or Data Scientist?
+
+**Instagram**
+
+AI engineer or data scientist? They overlap more than the titles suggest.
+
+Both lean on Python and linear algebra. AI engineering adds LLM APIs, MLOps and system design; data science adds statistics, SQL and experiment design.
+
+Placiq's Career Navigator maps which skills each role needs. learn.placiq.in
+
+#aiengineer #datascience #careerpath #placiq
+
+**YouTube title:** AI Engineer vs Data Scientist: Skill Map
+
+**LinkedIn:** A simplified view of overlapping and distinct skills between AI engineering and data science roles.
+
+## Day 44 - The Random Roadmap
+
+**Instagram**
+
+Flutter, Rust, Figma, Kafka, Unity... for which job?
+
+Pick a target role first, and your skill list sorts itself into now and later.
+
+Placiq's Career Navigator does that sorting with you. learn.placiq.in
+
+#roadmap #careerclarity #techskills #placiq
+
+**YouTube title:** The Random Roadmap Problem
+
+**LinkedIn:** Skills accumulate without direction. Anchoring learning to a target role creates priorities.
+
+## Day 45 - What Should I Learn Next?
+
+**Instagram**
+
+Kubernetes? LLMs? Rust? Everything feels urgent.
+
+Your next step should come from your actual gaps and your target role, and it is usually two or three things, not thirty.
+
+Placiq prioritises what to learn next from your own progress. learn.placiq.in
+
+#whattolearn #programming #focus #placiq
+
+**YouTube title:** What Should I Learn Next? (3 Things)
+
+**LinkedIn:** Prioritisation beats breadth. Turning an overwhelming learning landscape into ranked next steps.
+
+## Day 46 - LinkedIn Comparison Mode
+
+**Instagram**
+
+"Thrilled to announce my cat merged a PR to the Linux kernel." (fictional, obviously)
+
+Highlight reels are not progress reports. The only fair comparison is you, last month.
+
+Placiq tracks your own readiness over time. learn.placiq.in
+
+#linkedin #comparison #studentlife #placiq
+
+**YouTube title:** LinkedIn Comparison Mode (Fictional Feed)
+
+**LinkedIn:** A humorous look at comparison culture, and why tracking personal progress is healthier.
+
+## Day 47 - College Deadline Multiverse
+
+**Instagram**
+
+Somehow every deadline lands on the same Wednesday.
+
+Assignments, an OA, a project review and a resume deadline. You cannot move them, but you can see them coming and plan small daily steps.
+
+Placiq's daily quests keep prep moving in busy weeks. learn.placiq.in
+
+#collegelife #deadlines #engineering #placiq
+
+**YouTube title:** When Every Deadline Is Wednesday
+
+**LinkedIn:** Academic and placement deadlines collide. Small daily preparation steps reduce last-minute pressure.
+
+## Day 48 - Don't Train for Every Role
+
+**Instagram**
+
+Six career paths. One you.
+
+Preparing for every role at once spreads effort thin. Choose a direction, go deep, and reassess as you learn.
+
+Placiq's Career Navigator helps you pick and plan a focus. learn.placiq.in
+
+#careerfocus #techcareers #students #placiq
+
+**YouTube title:** Don't Train for Every Role
+
+**LinkedIn:** Focused preparation for one target role tends to produce deeper, more demonstrable skill.
+
+## Day 49 - Career Navigator Hero
+
+**Instagram**
+
+Which role fits you, which skills does it need, and what should you learn next?
+
+Real footage of Placiq's Career Navigator: role roadmaps, skill gaps and next actions.
+
+learn.placiq.in
+
+#careernavigator #careerplanning #tech #placiq
+
+**YouTube title:** Career Navigator: Real Footage
+
+**LinkedIn:** A look at Placiq's Career Navigator: role fit, required skills and next steps.
+
+## Day 50 - The Broken Workflow
+
+**Instagram**
+
+Watch your context fall through the cracks between tools.
+
+Every handoff from a DSA site to notes to an AI chat to your resume loses something.
+
+In Placiq, one context flows through every module. learn.placiq.in
+
+#workflow #productivity #careeros #placiq
+
+**YouTube title:** The Broken Prep Workflow
+
+**LinkedIn:** Information loss between disconnected tools, visualised, and what a connected flow looks like.
+
+## Day 51 - One Student, Many Systems
+
+**Instagram**
+
+Five tools, five different versions of the same student.
+
+When every app tracks you separately, none of them sees the whole picture.
+
+Placiq keeps one connected profile across DSA, projects, resume and goals. learn.placiq.in
+
+#edtech #students #careerprep #placiq
+
+**YouTube title:** Five Tools, Five Versions of You
+
+**LinkedIn:** Fragmented systems create conflicting records of one learner. A fictional illustration.
+
+## Day 52 - The Aarav Story
+
+**Instagram**
+
+Aarav (fictional) started over four times in one semester.
+
+New sheet, new course, new project. Each restart felt productive, but nothing built on anything.
+
+Placiq remembers where you left off. learn.placiq.in
+
+#studentstory #placementprep #consistency #placiq
+
+**YouTube title:** The Aarav Story: Starting Over Again
+
+**LinkedIn:** A fictional narrative about repeated restarts in preparation, and the value of continuity.
+
+## Day 53 - What Connected Really Means
+
+**Instagram**
+
+"Connected" should mean something specific.
+
+In Placiq, the Copilot sees your progress, the Skill Passport scores across modules, your resume is reviewed against your target role, and projects carry evidence.
+
+Real screens, learn.placiq.in
+
+#careeros #ai #product #placiq
+
+**YouTube title:** What "Connected" Actually Means
+
+**LinkedIn:** A concrete look at how Placiq modules share context: Copilot, Skill Passport, Resume Intelligence and Project Analyzer.
+
+## Day 54 - The Placiq Loop
+
+**Instagram**
+
+Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess. Repeat.
+
+Preparation is not a checklist you finish, it is a loop you get better at.
+
+That loop is how Placiq is built. learn.placiq.in
+
+#placiqloop #learning #growth #placiq
+
+**YouTube title:** The Placiq Loop in 15 Seconds
+
+**LinkedIn:** Placiq's seven-step preparation loop: diagnose, prioritize, learn, build, evidence, present, reassess.
+
+## Day 55 - From Fragments to Progress
+
+**Instagram**
+
+A browser tab becomes a practice card, then a connected node, then a readiness record.
+
+That is the whole idea: fragments only become progress when they connect.
+
+learn.placiq.in
+
+#motiondesign #progress #careeros #placiq
+
+**YouTube title:** From Fragments to Progress
+
+**LinkedIn:** A continuous match-cut showing scattered preparation turning into a connected record.
+
+## Day 56 - Placiq OS Reveal
+
+**Instagram**
+
+37 tabs, 10 platforms, zero memory. Until it all connects.
+
+DSA that moves, projects you finish, a resume backed by proof and a Copilot that remembers you. One career OS.
+
+Start free: learn.placiq.in
+
+#placiq #careeros #ai #placementprep
+
+**YouTube title:** Placiq: The Career OS That Remembers You
+
+**LinkedIn:** A short product reveal: from disconnected preparation tools to one connected career OS.
+
+## Day 57 - The No-Narration Masterpiece
+
+**Instagram**
+
+No narration. Turn the sound up.
+
+From 37 tabs to one connected record of your work, told in music, motion and real Placiq footage.
+
+learn.placiq.in
+
+#motiongraphics #brandfilm #placiq
+
+**YouTube title:** Placiq: A Film Without Words
+
+**LinkedIn:** A music-led brand film: fragmented preparation to connected evidence, using real product footage.
+
+## Day 58 - The Funniest Developer Reel
+
+**Instagram**
+
+Me in the interview explaining code the AI wrote for me.
+
+Generated answers pass the first question. Understanding passes the follow-up.
+
+Placiq's Socratic tutors make you reason it through. learn.placiq.in
+
+#developerhumor #ai #codinginterview #placiq
+
+**YouTube title:** Explaining Code the AI Wrote
+
+**LinkedIn:** AI-generated code versus genuine understanding, a light-hearted look at the follow-up question.
+
+## Day 59 - The Most Relatable Student Film
+
+**Instagram**
+
+Meera (fictional) studied every day. Videos at 6 AM, problems at 11 PM, a project every weekend.
+
+Then an interviewer asked how it all fits together. Her effort was real; it just was not connected.
+
+Placiq connects your work so effort adds up. learn.placiq.in
+
+#studentlife #placementprep #relatable #placiq
+
+**YouTube title:** Her Effort Was Real. It Just Wasn't Connected.
+
+**LinkedIn:** A fictional story about sustained effort without connection, and why connected preparation matters.
+
+## Day 60 - The Flagship Launch Ad
+
+**Instagram**
+
+Your career is a puzzle with pieces in ten different boxes.
+
+Placiq puts DSA, projects, resume, GitHub and goals in one place, and remembers how they fit. Learn it, build it, prove it, present it.
+
+Placiq. Your work, connected. https://placiq.in/
+
+#placiq #yourworkconnected #careeros #placementprep
+
+**YouTube title:** Placiq: Your Work, Connected
+
+**LinkedIn:** The flagship film for our 60-day series: Placiq, the AI-native Career Intelligence OS. Your work, connected.
