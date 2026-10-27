@@ -3,7 +3,7 @@ import math, os, random
 from functools import lru_cache
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-W, H, FPS = 1920, 1080, 30
+W, H, FPS = (1080, 1920, 30) if os.environ.get('PLACIQ_FMT') == 'v' else (1920, 1080, 30)
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = {
     'black': os.path.join(ROOT, 'assets/fonts/ArchivoBlack-Regular.ttf'),
