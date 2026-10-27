@@ -1,0 +1,7 @@
+Two Sum is not about two lines of code. It is one question.
+
+For each number: have I already seen target minus me? Check the hash map, then store. One pass, O(n).
+
+Practise patterns step by step in Placiq's DSA Visualizer. learn.placiq.in
+
+#twosum #leetcode #dsa #hashmap #placiq

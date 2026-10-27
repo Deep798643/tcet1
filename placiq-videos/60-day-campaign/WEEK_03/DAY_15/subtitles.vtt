@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:00.150 --> 00:00:01.581
+Two Sum, target 9.
+
+00:00:01.581 --> 00:00:03.543
+For each number ask: have I
+
+00:00:03.543 --> 00:00:05.256
+already seen target minus me?
+
+00:00:07.800 --> 00:00:09.430
+Store value -> index in a
+
+00:00:09.430 --> 00:00:10.230
+hash map.
+
+00:00:10.280 --> 00:00:11.668
+Check before you store.
+
+00:00:11.718 --> 00:00:12.843
+One pass, O(n) time.
+
+00:00:13.744 --> 00:00:15.147
+Understand the pattern, not just the
+
+00:00:15.147 --> 00:00:16.147
+code.

@@ -1,0 +1,15 @@
+TITLE: How to Dry-Run Any Loop
+
+DESCRIPTION:
+Dry-running a loop in your head feels like this.
+
+Trace tables make loop behaviour explicit. A simple technique that improves interview problem solving.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #dryrun #debugging #dsa #placiq
+
+KEYWORDS: placiq, placement preparation, dsa, engineering students, career os, the dry-run nightmare
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

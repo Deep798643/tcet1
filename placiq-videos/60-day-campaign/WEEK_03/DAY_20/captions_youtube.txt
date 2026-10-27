@@ -1,0 +1,15 @@
+TITLE: 1,803 Questions, A Few Patterns
+
+DESCRIPTION:
+1,803 questions. About a handful of core patterns.
+
+Pattern-based practice scales better than problem counting. A visual on consolidating DSA preparation.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #leetcode #dsapatterns #codinginterview #placiq
+
+KEYWORDS: placiq, placement preparation, dsa, engineering students, career os, dsa without understanding
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

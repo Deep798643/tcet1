@@ -1,0 +1,27 @@
+1
+00:00:00,150 --> 00:00:02,503
+Dry-running a loop in your head
+
+2
+00:00:03,203 --> 00:00:04,578
+feels like a maze.
+
+3
+00:00:04,578 --> 00:00:08,728
+The fix: a trace table, one
+
+4
+00:00:08,728 --> 00:00:11,103
+iteration per row.
+
+5
+00:00:12,503 --> 00:00:13,303
+Trace it.
+
+6
+00:00:13,003 --> 00:00:14,328
+Then trust it.
+
+7
+00:00:14,919 --> 00:00:16,769
+Step through algorithms in Placiq.

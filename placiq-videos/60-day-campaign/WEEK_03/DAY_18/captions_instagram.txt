@@ -1,0 +1,7 @@
+Sliding window in 10 seconds: add one in, drop one out.
+
+Instead of recomputing every window sum, update it as the window moves. That is the whole O(n) trick.
+
+Animate core patterns step by step in Placiq. learn.placiq.in
+
+#slidingwindow #algorithms #dsa #placiq

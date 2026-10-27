@@ -1,0 +1,7 @@
+Stop counting problems. Start counting patterns.
+
+Most interview questions reuse a small set of ideas: two pointers, sliding window, hashing, BFS/DFS, binary search, DP.
+
+Placiq's vault has 1,803 questions, organised so the patterns stand out. learn.placiq.in
+
+#leetcode #dsapatterns #codinginterview #placiq

@@ -1,0 +1,7 @@
+Your pointer when you have not understood the loop invariant.
+
+A pointer should move by one clear rule. If you cannot state the rule, you cannot debug the loop.
+
+Watch pointer state step by step in Placiq's DSA Visualizer. learn.placiq.in
+
+#pointers #dsa #codingmemes #placiq
