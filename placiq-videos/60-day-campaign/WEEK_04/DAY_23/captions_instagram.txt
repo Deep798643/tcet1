@@ -1,0 +1,7 @@
+TODO app #8 is not the flex you think it is.
+
+Clones teach basics, but a project that solves a problem you actually have tells a better story.
+
+Placiq's AI Project Builder helps scope a project around your gaps. learn.placiq.in
+
+#todoapp #webdev #portfolio #placiq

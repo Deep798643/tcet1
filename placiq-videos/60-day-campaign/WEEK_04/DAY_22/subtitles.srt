@@ -1,0 +1,27 @@
+1
+00:00:00,167 --> 00:00:01,242
+Seven tutorials.
+
+2
+00:00:01,242 --> 00:00:02,467
+Every one made sense.
+
+3
+00:00:02,467 --> 00:00:03,729
+Then they're gone, and it's just
+
+4
+00:00:03,729 --> 00:00:05,792
+you and a blinking cursor.
+
+5
+00:00:06,921 --> 00:00:08,095
+Watching is not building.
+
+6
+00:00:08,095 --> 00:00:10,095
+Start small, but start alone.
+
+7
+00:00:10,909 --> 00:00:12,185
+Guided projects in Placiq.
