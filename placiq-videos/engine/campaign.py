@@ -278,3 +278,96 @@ day(30, title='The Generic Resume Machine', pillar='Resume', fmt='comedy', style
             dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Write your own bullets.'), energy=1)],
     ig="Insert student. Receive \"hardworking team player\".\n\nTemplates flatten real stories. A bus tracker, a hackathon win and an ML project should not all become the same sentence.\n\nPlaciq's Resume Intelligence flags generic bullets and gaps. learn.placiq.in",
     tags=['#resume', '#careertips', '#freshers', '#placiq'], yt='The Generic Resume Machine', li='Generic phrasing hides distinct experience. Specific, evidence-based bullets communicate more.')
+
+day(31, title='The Three-Second Resume', pillar='Resume', fmt='music', style='minimal', root=48, pal=PAPER,
+    hooks=['Where does the eye go on your resume?', 'Messy resume vs clear resume, eye-tracked (fictional).', 'Hierarchy is a skill.'],
+    scenes=[dict(type='vres', dur=10.0, cap='A cluttered layout scatters attention. Clear hierarchy guides the eye.', p=dict(mode='scan'), energy=2),
+            dict(type='vtype', dur=3.0, cap='Make the important thing obvious.', p=dict(lines=['MAKE THE', 'IMPORTANT THING', '*OBVIOUS.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - resume.placiq.in', p=dict(v='logo', tag='Readable at a glance.', url='resume.placiq.in'), energy=1)],
+    ig="Where does the eye go on your resume?\n\nNo single rule decides how long a reviewer looks, but a clear hierarchy helps anyone find what matters fast: role, impact, proof.\n\nCheck yours with Placiq Resume Intelligence. resume.placiq.in",
+    tags=['#resume', '#resumedesign', '#freshers', '#placiq'], yt='Resume Hierarchy in 15 Seconds', li='Visual hierarchy helps any reviewer find key information quickly. A fictional before/after.')
+
+day(32, title='ATS Confusion', pillar='Resume', fmt='narrated', style='glitchhop', root=41, pal=TERM, voice='am_michael', speed=1.05,
+    hooks=['Keyword stuffing, as seen by a parser.', 'You added 40 keywords. Now nobody can read it.', 'More keywords is not more relevant.'],
+    scenes=[dict(type='vres', say="Stuff every keyword in, and your real experience disappears under a wall of buzzwords. People still read the resume after the parser does.", cap="Stuff every keyword in, and your real experience disappears. People still read it after the parser does.", p=dict(mode='stuff', fix='Use the job\'s words, for skills you can prove.'), energy=2),
+            dict(type='vtype', say="Use the job's words, for skills you can actually prove.", cap="Use the job's words, for skills you can actually prove.", p=dict(lines=["USE THE JOB'S", 'WORDS, FOR SKILLS', 'YOU CAN *PROVE.']), energy=3, drop=True),
+            dict(type='vcta', say="Check it with Resume Intelligence.", cap="Check it with Placiq Resume Intelligence.", p=dict(v='logo', tag='Relevant, not stuffed.', url='resume.placiq.in'), energy=1, hold=1)],
+    ig="Added 40 keywords. Now nobody can read your experience.\n\nMatch the job description's language for skills you genuinely have, and keep each one tied to a project or result. A human reads it after any parser.\n\nPlaciq Resume Intelligence reviews like an ATS and a recruiter would. resume.placiq.in",
+    tags=['#ats', '#resumetips', '#jobsearch', '#placiq'], yt='Keyword Stuffing vs a Readable Resume', li='Keyword stuffing reduces readability. Align terminology with the role for skills backed by evidence.')
+
+day(33, title='Your Project Deserves Better', pillar='Resume', fmt='narrated', style='house', root=49, pal=WHITE, voice='af_heart', speed=1.06,
+    hooks=['"Worked on a web app project." Let\'s fix that.', 'One vague bullet, rewritten live.', 'Your project did more than this line says.'],
+    scenes=[dict(type='vres', say="Worked on a web app project. That says nothing. Try: built a group ledger A P I with FastAPI and Postgres, wrote eighteen tests, deployed it. What, with what, and the proof.", cap="\"Worked on a web app project.\" Try: built a group-ledger API (FastAPI, Postgres), wrote 18 tests, deployed it.", p=dict(mode='rewrite'), energy=2),
+            dict(type='vcta', say="Specific. Truthful. Provable. Place IQ.", cap="Specific. Truthful. Provable.", p=dict(v='stack', words=['SPECIFIC.', 'TRUTHFUL.', 'PROVABLE.']), energy=3, drop=True, hold=1)],
+    ig="\"Worked on a web app project.\" Your project deserves better.\n\nSay what you built, with which tools, and link the proof. Only claim what you did.\n\nPlaciq pulls your project evidence straight into your resume. learn.placiq.in",
+    tags=['#resumewriting', '#projects', '#cse', '#placiq'], yt='Rewrite One Vague Resume Bullet', li='Specific, truthful project descriptions with linked evidence communicate real contribution.')
+
+day(34, title='Two Resumes, One Difference', pillar='Resume', fmt='music', style='funk', root=46, pal=INK,
+    hooks=['Same student. Same internship. Two resumes.', 'Spot the difference.', 'Which one gets the follow-up question?'],
+    scenes=[dict(type='vres', dur=10.0, cap='Same internship, same student. Resume B uses specifics and evidence.', p=dict(mode='compare'), energy=2),
+            dict(type='vtype', dur=3.0, cap='Specifics invite better questions.', p=dict(lines=['SPECIFICS', 'INVITE BETTER', '*QUESTIONS.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - resume.placiq.in', p=dict(v='logo', tag='Same work. Better story.', url='resume.placiq.in'), energy=1)],
+    ig="Same student. Same internship. Two very different resumes.\n\nResume B is not exaggerating, it is specific: what was trained, what shipped, which tools.\n\nTry Placiq Resume Intelligence on yours. resume.placiq.in",
+    tags=['#resume', '#internship', '#careertips', '#placiq'], yt='Two Resumes, One Difference', li='Two fictional presentations of identical experience. Specificity changes how it is read.')
+
+day(35, title='Resume Intelligence Hero', pillar='Resume', fmt='narrated', style='electro', root=45, pal=BLUE, voice='am_michael', speed=1.05,
+    hooks=['Real footage: a resume, analysed.', 'ATS view. Recruiter view. One report.', 'This is Resume Intelligence 2.0.'],
+    scenes=[dict(type='vreel', say="Resume Intelligence two point oh. Upload your resume. Get an A T S scan and a recruiter-style rubric. See classified skills, gaps, and a report you can act on.", cap="Resume Intelligence 2.0: upload, ATS scan + recruiter-style rubric, classified skills, gaps, an actionable report.", p=dict(clips=[('resume', (0, .1), (.4, .3), .5), ('resume', (.5, .2), (1, .5), .45), ('resume_report', (0, .1), (.5, .3), .5), ('resume_report', (.5, .2), (1, .5), .45)], labels=['UPLOAD', 'ATS + RECRUITER', 'SKILLS + GAPS', 'ACT ON IT']), energy=3, drop=True),
+            dict(type='vcta', say="Try it at resume dot place I Q dot in.", cap="Try it at resume.placiq.in", p=dict(v='logo', tag='Resume Intelligence 2.0', url='resume.placiq.in'), energy=1, hold=1)],
+    ig="Your resume, read two ways: by an ATS and by a recruiter-style rubric.\n\nReal footage of Placiq Resume Intelligence 2.0: upload, scan, see classified skills and gaps, then act on the report.\n\nFree plan includes a basic ATS scan. resume.placiq.in",
+    tags=['#resumeintelligence', '#ats', '#ai', '#placiq'], yt='Resume Intelligence 2.0: Real Footage', li='A walkthrough of Placiq Resume Intelligence 2.0: ATS scan, recruiter rubric, skill classification and gaps.')
+
+# ================================================================ WEEK 6 - GITHUB + EVIDENCE
+day(36, title='Green Square Anxiety', pillar='GitHub evidence', fmt='music', style='trap', root=43, pal=INK,
+    hooks=['365 green squares. So what?', 'Your contribution graph is not your portfolio.', 'Green does not explain anything.'],
+    scenes=[dict(type='vgrid', dur=9.0, cap='365 green squares. What matters: what you built, why, what broke, can someone run it.', p=dict(), energy=2),
+            dict(type='vclip', dur=4.5, cap='Placiq GitHub evidence: repos and commits as proof.', p=dict(clip='github', pan=((0, 0), (.6, .4)), cw=.5, title='Evidence, not squares.'), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Depth over green.'), energy=1)],
+    ig="365 green squares and still anxious?\n\nThe contribution graph counts activity. Interviewers ask what you built, why you designed it that way, and what broke.\n\nPlaciq turns repos and commits into explainable evidence. learn.placiq.in",
+    tags=['#github', '#opensource', '#developers', '#placiq'], yt='Green Squares Are Not a Portfolio', li='Contribution counts measure activity, not depth. Evidence of design decisions matters more.')
+
+day(37, title='Projects Are Receipts', pillar='GitHub evidence', fmt='narrated', style='breakbeat', root=47, pal=PAPER, voice='am_puck', speed=1.08,
+    hooks=['Your project should print a receipt.', 'Itemised proof of what you built.', 'Total: evidence.'],
+    scenes=[dict(type='vreceipt', say="A good project prints a receipt. An architecture doc. Sixty-one commits. Eighteen passing tests. Seven logged decisions. Twelve fixed bugs. One live demo.", cap="A good project prints a receipt: architecture doc, 61 commits, 18 tests, 7 decisions, 12 bugs fixed, 1 live demo.", p=dict(), energy=2),
+            dict(type='vcta', say="Keep the receipts. Place IQ.", cap="Keep the receipts.", p=dict(v='stack', words=['KEEP', 'THE', 'RECEIPTS.']), energy=3, drop=True, hold=1)],
+    ig="Your project should come with a receipt.\n\nArchitecture notes, commits, tests, decisions, fixed bugs, a live demo. Itemised proof is easier to discuss than a one-line description.\n\nPlaciq collects that evidence as you build. learn.placiq.in",
+    tags=['#projects', '#github', '#softwareengineering', '#placiq'], yt='Projects Are Receipts', li='Treat projects as itemised evidence: architecture, commits, tests and decisions.')
+
+day(38, title='The README Test', pillar='GitHub evidence', fmt='music', style='arcade', root=50, pal=WHITE,
+    hooks=['final2.py, test (1).py, README (empty).', 'Can a stranger run your repo in 60 seconds?', 'The README glow-up.'],
+    scenes=[dict(type='vreadme', dur=9.5, cap='Messy repo -> README: what it is, how to run it, how it works, decisions, tests.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='If they cannot run it, they cannot see it.', p=dict(lines=["IF THEY CAN'T", 'RUN IT,', "THEY CAN'T *SEE IT."]), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='Document the work.'), energy=1)],
+    ig="final2.py, test (1).py, and an empty README.\n\nA five-section README (what, run, how, decisions, tests) makes your repo understandable in a minute.\n\nPlaciq's GitHub evidence view rewards depth like this. learn.placiq.in",
+    tags=['#readme', '#github', '#documentation', '#placiq'], yt='The README Test', li='Documentation is part of the work. A five-section README template, visualised.')
+
+day(39, title='Certificate Mountain', pillar='GitHub evidence', fmt='narrated', style='cinematic', root=40, pal=PAPER, voice='af_heart', speed=1.04,
+    hooks=['Twenty-six certificates. One question: can you build it?', 'Certificates are a start, not the finish.', 'The mountain vs the demo.'],
+    scenes=[dict(type='vmountain', say="Certificates are real learning, and they matter. But next to them, one working demo answers the question every interviewer has: can you build it?", cap="Certificates are real learning, and they matter. But one working demo answers: can you build it?", p=dict(), energy=1),
+            dict(type='vtype', say="Learn it. Then show it.", cap="Learn it. Then show it.", p=dict(lines=['LEARN IT.', '*SHOW IT.'], slam=True), energy=3, drop=True),
+            dict(type='vcta', say="Turn learning into proof with Place IQ.", cap="Turn learning into proof with Placiq.", p=dict(v='logo', tag='Learning, then proof.'), energy=1, hold=1)],
+    ig="26 certificates and one question: can you build it?\n\nCertificates represent real learning. Pair them with one working demo and the conversation changes.\n\nPlaciq helps turn what you learned into a project you can show. learn.placiq.in",
+    tags=['#certifications', '#learning', '#portfolio', '#placiq'], yt='Certificate Mountain vs One Demo', li='Certificates show learning; working demonstrations show applied skill. Both have value.')
+
+day(40, title='The Evidence Trail', pillar='GitHub evidence', fmt='music', style='house', root=45, pal=BLUE,
+    hooks=['Follow the trail from practice to proof.', 'Every step leaves evidence.', 'DSA to design, connected.'],
+    scenes=[dict(type='vtrail', dur=10.0, cap='DSA practice -> project milestone -> commit -> tests -> resume bullet -> mock interview.', p=dict(), energy=2),
+            dict(type='vtype', dur=3.0, cap='Connected steps become a story.', p=dict(lines=['CONNECTED STEPS', 'BECOME A', '*STORY.']), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='stack'), energy=1)],
+    ig="Practice, milestone, commit, tests, resume bullet, mock interview.\n\nWhen each step links to the next, your preparation becomes a story you can explain.\n\nThat is what Placiq connects. learn.placiq.in",
+    tags=['#careerprep', '#evidence', '#students', '#placiq'], yt='The Evidence Trail', li='Linking practice, project milestones and outcomes creates a coherent, explainable preparation record.')
+
+day(41, title='Interview Proof', pillar='GitHub evidence', fmt='narrated', style='industrial', root=42, pal=MONO, voice='am_michael', speed=1.05,
+    hooks=['"Why did you add a queue here?"', 'Rewind your own commits in an interview.', 'The best answer is in your git log.'],
+    scenes=[dict(type='vrewind', say="Why did you add a queue here? Aarav, a fictional candidate, rewinds his own history. Initial A P I. A benchmark: two point four seconds. A duplicate-charge bug. Then the retry queue. He doesn't recite. He remembers.", cap="\"Why add a queue?\" Aarav (fictional) rewinds his own history: benchmark, a duplicate-charge bug, then the retry queue.", p=dict(), energy=2),
+            dict(type='vcta', say="Build work you can explain. Place IQ.", cap="Build work you can explain.", p=dict(v='logo', tag='Work you can explain.'), energy=3, drop=True, hold=1)],
+    ig="\"Why did you add a queue here?\"\n\nWhen you actually built it, the answer is in your own history: the benchmark, the bug, the decision.\n\nPlaciq's guided projects keep that trail. learn.placiq.in",
+    tags=['#interviewprep', '#systemdesign', '#git', '#placiq'], yt='The Best Interview Answer Is in Your Git Log', li='Candidates who built their projects can reconstruct decisions from history. A fictional example.')
+
+day(42, title='Skill Passport', pillar='GitHub evidence', fmt='music', style='electro', root=48, pal=INK,
+    hooks=['Stamp by stamp, a readiness record.', 'Your skills, passport-verified.', 'One living record of your prep.'],
+    scenes=[dict(type='vpassport', dur=8.0, cap='DSA, project, resume, GitHub, mock: stamps in one living readiness record.', p=dict(), energy=2),
+            dict(type='vclip', dur=4.5, cap='Real Skill Passport in Placiq.', p=dict(clip='passport', pan=((0, 0), (.6, .4)), cw=.5, title='Skill Passport.'), energy=3, drop=True),
+            dict(type='vcta', dur=2.6, cap='Placiq - learn.placiq.in', p=dict(v='logo', tag='One living record.'), energy=1)],
+    ig="Stamp by stamp: DSA, projects, resume, GitHub, mock interviews.\n\nPlaciq's Skill Passport is one living readiness score across everything you have practised and shipped.\n\nlearn.placiq.in",
+    tags=['#skillpassport', '#readiness', '#placementprep', '#placiq'], yt='Skill Passport: One Living Record', li="Placiq's Skill Passport combines evidence from multiple modules into one readiness record.")

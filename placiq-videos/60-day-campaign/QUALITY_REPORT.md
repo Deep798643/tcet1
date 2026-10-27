@@ -34,3 +34,15 @@ Automated checks per film (ffprobe/ffmpeg): 1080x1920, 30fps, 1 AAC stream, inte
 | 28 | Project Builder Hero Film | ready_to_post | 17.34 | -15.8 | -2.2 | 0 | 0 | 0.749 |
 | 29 | Resume Claim vs Proof | ready_to_post | 16.82 | -15.5 | -2.5 | 0 | 0 | 0.693 |
 | 30 | The Generic Resume Machine | ready_to_post | 16.27 | -14.2 | -3.1 | 0 | 0 | None |
+| 31 | The Three-Second Resume | ready_to_post | 16.0 | -14.3 | -2.3 | 0 | 2 | None |
+| 32 | ATS Confusion | ready_to_post | 17.4 | -15.7 | -1.4 | 0 | 0 | 0.729 |
+| 33 | Your Project Deserves Better | ready_to_post | 15.97 | -15.9 | -3.1 | 0 | 1 | 0.715 |
+| 34 | Two Resumes, One Difference | ready_to_post | 17.22 | -15.0 | -2.4 | 0 | 3 | None |
+| 35 | Resume Intelligence Hero | ready_to_post | 16.41 | -15.5 | -2.4 | 0 | 0 | 0.726 |
+| 36 | Green Square Anxiety | ready_to_post | 18.21 | -15.7 | -3.1 | 0 | 0 | None |
+| 37 | Projects Are Receipts | ready_to_post | 14.09 | -16.2 | -2.6 | 0 | 1 | 0.719 |
+| 38 | The README Test | ready_to_post | 16.0 | -14.1 | -1.3 | 0 | 1 | None |
+| 39 | Certificate Mountain | ready_to_post | 16.67 | -16.6 | -3.2 | 0 | 0 | 0.598 |
+| 40 | The Evidence Trail | ready_to_post | 17.9 | -15.2 | -1.5 | 0 | 2 | None |
+| 41 | Interview Proof | ready_to_post | 20.85 | -15.1 | -2.5 | 0 | 1 | 0.683 |
+| 42 | Skill Passport | ready_to_post | 16.88 | -16.0 | -1.9 | 0 | 1 | None |

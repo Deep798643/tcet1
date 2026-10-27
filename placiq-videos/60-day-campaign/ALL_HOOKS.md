@@ -149,3 +149,63 @@
 1. Insert student. Receive "hardworking team player". **(selected)**
 2. The resume factory has one template.
 3. Why does every bullet sound the same?
+
+## Day 31 - The Three-Second Resume
+1. Where does the eye go on your resume? **(selected)**
+2. Messy resume vs clear resume, eye-tracked (fictional).
+3. Hierarchy is a skill.
+
+## Day 32 - ATS Confusion
+1. Keyword stuffing, as seen by a parser. **(selected)**
+2. You added 40 keywords. Now nobody can read it.
+3. More keywords is not more relevant.
+
+## Day 33 - Your Project Deserves Better
+1. "Worked on a web app project." Let's fix that. **(selected)**
+2. One vague bullet, rewritten live.
+3. Your project did more than this line says.
+
+## Day 34 - Two Resumes, One Difference
+1. Same student. Same internship. Two resumes. **(selected)**
+2. Spot the difference.
+3. Which one gets the follow-up question?
+
+## Day 35 - Resume Intelligence Hero
+1. Real footage: a resume, analysed. **(selected)**
+2. ATS view. Recruiter view. One report.
+3. This is Resume Intelligence 2.0.
+
+## Day 36 - Green Square Anxiety
+1. 365 green squares. So what? **(selected)**
+2. Your contribution graph is not your portfolio.
+3. Green does not explain anything.
+
+## Day 37 - Projects Are Receipts
+1. Your project should print a receipt. **(selected)**
+2. Itemised proof of what you built.
+3. Total: evidence.
+
+## Day 38 - The README Test
+1. final2.py, test (1).py, README (empty). **(selected)**
+2. Can a stranger run your repo in 60 seconds?
+3. The README glow-up.
+
+## Day 39 - Certificate Mountain
+1. Twenty-six certificates. One question: can you build it? **(selected)**
+2. Certificates are a start, not the finish.
+3. The mountain vs the demo.
+
+## Day 40 - The Evidence Trail
+1. Follow the trail from practice to proof. **(selected)**
+2. Every step leaves evidence.
+3. DSA to design, connected.
+
+## Day 41 - Interview Proof
+1. "Why did you add a queue here?" **(selected)**
+2. Rewind your own commits in an interview.
+3. The best answer is in your git log.
+
+## Day 42 - Skill Passport
+1. Stamp by stamp, a readiness record. **(selected)**
+2. Your skills, passport-verified.
+3. One living record of your prep.

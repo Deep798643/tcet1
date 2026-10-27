@@ -164,6 +164,22 @@ def sfx_for(S):
             ev += [(.1 + i * seg, 'notif', .5)] + [(.1 + i * seg + seg * .45 + k * .06, 'key', .6) for k in range(8)]
     elif ty == 'vres':
         ev += [(0, 'whoosh', .5), (dur * .25, 'stamp', .6), (dur * .5, 'glitch', .3)] + [(dur * .4 + i * dur * .1, 'click', .7) for i in range(5)]
+    elif ty == 'vgrid':
+        ev += [(dur * .45, 'glitch', .7), (dur * .45, 'impact', .5)] + [(dur * .55 + i * .3, 'pop', .6) for i in range(4)]
+    elif ty == 'vreceipt':
+        ev += [(.2 + k * .09, 'key', .5) for k in range(int(dur * .65 / .09))] + [(dur * .85, 'notif', .6)]
+    elif ty == 'vreadme':
+        ev += [(dur * .35, 'whoosh', .6)] + [(dur * .35 + i * .4, 'click', .7) for i in range(5)]
+    elif ty == 'vmountain':
+        ev += [(i * .12 + .25, 'pop', .25) for i in range(26)] + [(dur * .55, 'whoosh', .6), (dur * .75, 'bass', .5)]
+    elif ty == 'vtrail':
+        ev += [(rt, 'pop', .6) for rt in disp_reveal_times(S, len(p.get('nodes', [0] * 6)))]
+    elif ty == 'vrewind':
+        ev += [(.1, 'notif', .5), (dur * .3, 'whoosh_down', .6)] + [(dur * .3 + k * dur * .1, 'tick', .7) for k in range(5)]
+    elif ty == 'vpassport':
+        n = len(p.get('stamps', [0] * 6))
+        rts = disp_reveal_times(S, n) if S.get('vo') is not None else [.8 + i * (dur * .6 / n) for i in range(n)]
+        ev += [(.1, 'whoosh', .5)] + [(r, 'stamp', .7) for r in rts]
     if S['idx'] > 0:
         ev.append((-.38, 'whoosh', .45))
     return ev

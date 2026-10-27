@@ -570,7 +570,236 @@
     "narration_voiced_ratio": null
    },
    "title": "The Generic Resume Machine"
+  },
+  "31": {
+   "stage": "done",
+   "duration": 16.0,
+   "render_sec": 4.5,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -14.3,
+    "true_peak": -2.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 2,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Three-Second Resume"
+  },
+  "32": {
+   "stage": "done",
+   "duration": 17.4,
+   "render_sec": 4.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.4,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -1.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.729
+   },
+   "title": "ATS Confusion"
+  },
+  "33": {
+   "stage": "done",
+   "duration": 15.97,
+   "render_sec": 4.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.968,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.715
+   },
+   "title": "Your Project Deserves Better"
+  },
+  "34": {
+   "stage": "done",
+   "duration": 17.22,
+   "render_sec": 6.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.234,
+    "audio_streams": 1,
+    "lufs": -15.0,
+    "true_peak": -2.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 3,
+    "narration_voiced_ratio": null
+   },
+   "title": "Two Resumes, One Difference"
+  },
+  "35": {
+   "stage": "done",
+   "duration": 16.41,
+   "render_sec": 18.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.406,
+    "audio_streams": 1,
+    "lufs": -15.5,
+    "true_peak": -2.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.726
+   },
+   "title": "Resume Intelligence Hero"
+  },
+  "36": {
+   "stage": "done",
+   "duration": 18.21,
+   "render_sec": 10.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.207,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Green Square Anxiety"
+  },
+  "37": {
+   "stage": "done",
+   "duration": 14.09,
+   "render_sec": 4.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 14.1,
+    "audio_streams": 1,
+    "lufs": -16.2,
+    "true_peak": -2.6,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.719
+   },
+   "title": "Projects Are Receipts"
+  },
+  "38": {
+   "stage": "done",
+   "duration": 16.0,
+   "render_sec": 4.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -14.1,
+    "true_peak": -1.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "The README Test"
+  },
+  "39": {
+   "stage": "done",
+   "duration": 16.67,
+   "render_sec": 5.3,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.667,
+    "audio_streams": 1,
+    "lufs": -16.6,
+    "true_peak": -3.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.598
+   },
+   "title": "Certificate Mountain"
+  },
+  "40": {
+   "stage": "done",
+   "duration": 17.9,
+   "render_sec": 6.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.904,
+    "audio_streams": 1,
+    "lufs": -15.2,
+    "true_peak": -1.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 2,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Evidence Trail"
+  },
+  "41": {
+   "stage": "done",
+   "duration": 20.85,
+   "render_sec": 7.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.843,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.683
+   },
+   "title": "Interview Proof"
+  },
+  "42": {
+   "stage": "done",
+   "duration": 16.88,
+   "render_sec": 12.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.875,
+    "audio_streams": 1,
+    "lufs": -16.0,
+    "true_peak": -1.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null,
+    "relimited": true
+   },
+   "title": "Skill Passport"
   }
  },
- "updated": "2026-10-27T14:56:45.239210Z"
+ "updated": "2026-10-27T15:04:28.847630Z"
 }

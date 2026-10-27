@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T14:56:45.288565Z",
- "total": 30,
+ "generated": "2026-10-27T15:04:28.918413Z",
+ "total": 42,
  "planned": 60,
- "completed": 30,
+ "completed": 42,
  "videos": [
   {
    "day": 1,
@@ -873,6 +873,355 @@
    ],
    "youtube_title": "The Generic Resume Machine",
    "ig": "Insert student. Receive \"hardworking team player\".\n\nTemplates flatten real stories. A bus tracker, a hackathon win and an ML project should not all become the same sentence.\n\nPlaciq's Resume Intelligence flags generic bullets and gaps. learn.placiq.in\n\n#resume #careertips #freshers #placiq"
+  },
+  {
+   "day": 31,
+   "title": "The Three-Second Resume",
+   "pillar": "Resume",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_05/DAY_31",
+   "duration": 16.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -14.3,
+    "true_peak": -2.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 2,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Where does the eye go on your resume?",
+    "Messy resume vs clear resume, eye-tracked (fictional).",
+    "Hierarchy is a skill."
+   ],
+   "youtube_title": "Resume Hierarchy in 15 Seconds",
+   "ig": "Where does the eye go on your resume?\n\nNo single rule decides how long a reviewer looks, but a clear hierarchy helps anyone find what matters fast: role, impact, proof.\n\nCheck yours with Placiq Resume Intelligence. resume.placiq.in\n\n#resume #resumedesign #freshers #placiq"
+  },
+  {
+   "day": 32,
+   "title": "ATS Confusion",
+   "pillar": "Resume",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_05/DAY_32",
+   "duration": 17.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.4,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -1.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.729
+   },
+   "hooks": [
+    "Keyword stuffing, as seen by a parser.",
+    "You added 40 keywords. Now nobody can read it.",
+    "More keywords is not more relevant."
+   ],
+   "youtube_title": "Keyword Stuffing vs a Readable Resume",
+   "ig": "Added 40 keywords. Now nobody can read your experience.\n\nMatch the job description's language for skills you genuinely have, and keep each one tied to a project or result. A human reads it after any parser.\n\nPlaciq Resume Intelligence reviews like an ATS and a recruiter would. resume.placiq.in\n\n#ats #resumetips #jobsearch #placiq"
+  },
+  {
+   "day": 33,
+   "title": "Your Project Deserves Better",
+   "pillar": "Resume",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_05/DAY_33",
+   "duration": 15.97,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.968,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.715
+   },
+   "hooks": [
+    "\"Worked on a web app project.\" Let's fix that.",
+    "One vague bullet, rewritten live.",
+    "Your project did more than this line says."
+   ],
+   "youtube_title": "Rewrite One Vague Resume Bullet",
+   "ig": "\"Worked on a web app project.\" Your project deserves better.\n\nSay what you built, with which tools, and link the proof. Only claim what you did.\n\nPlaciq pulls your project evidence straight into your resume. learn.placiq.in\n\n#resumewriting #projects #cse #placiq"
+  },
+  {
+   "day": 34,
+   "title": "Two Resumes, One Difference",
+   "pillar": "Resume",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_05/DAY_34",
+   "duration": 17.22,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.234,
+    "audio_streams": 1,
+    "lufs": -15.0,
+    "true_peak": -2.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 3,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Same student. Same internship. Two resumes.",
+    "Spot the difference.",
+    "Which one gets the follow-up question?"
+   ],
+   "youtube_title": "Two Resumes, One Difference",
+   "ig": "Same student. Same internship. Two very different resumes.\n\nResume B is not exaggerating, it is specific: what was trained, what shipped, which tools.\n\nTry Placiq Resume Intelligence on yours. resume.placiq.in\n\n#resume #internship #careertips #placiq"
+  },
+  {
+   "day": 35,
+   "title": "Resume Intelligence Hero",
+   "pillar": "Resume",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_05/DAY_35",
+   "duration": 16.41,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.406,
+    "audio_streams": 1,
+    "lufs": -15.5,
+    "true_peak": -2.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.726
+   },
+   "hooks": [
+    "Real footage: a resume, analysed.",
+    "ATS view. Recruiter view. One report.",
+    "This is Resume Intelligence 2.0."
+   ],
+   "youtube_title": "Resume Intelligence 2.0: Real Footage",
+   "ig": "Your resume, read two ways: by an ATS and by a recruiter-style rubric.\n\nReal footage of Placiq Resume Intelligence 2.0: upload, scan, see classified skills and gaps, then act on the report.\n\nFree plan includes a basic ATS scan. resume.placiq.in\n\n#resumeintelligence #ats #ai #placiq"
+  },
+  {
+   "day": 36,
+   "title": "Green Square Anxiety",
+   "pillar": "GitHub evidence",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_06/DAY_36",
+   "duration": 18.21,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.207,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "365 green squares. So what?",
+    "Your contribution graph is not your portfolio.",
+    "Green does not explain anything."
+   ],
+   "youtube_title": "Green Squares Are Not a Portfolio",
+   "ig": "365 green squares and still anxious?\n\nThe contribution graph counts activity. Interviewers ask what you built, why you designed it that way, and what broke.\n\nPlaciq turns repos and commits into explainable evidence. learn.placiq.in\n\n#github #opensource #developers #placiq"
+  },
+  {
+   "day": 37,
+   "title": "Projects Are Receipts",
+   "pillar": "GitHub evidence",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_06/DAY_37",
+   "duration": 14.09,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 14.1,
+    "audio_streams": 1,
+    "lufs": -16.2,
+    "true_peak": -2.6,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.719
+   },
+   "hooks": [
+    "Your project should print a receipt.",
+    "Itemised proof of what you built.",
+    "Total: evidence."
+   ],
+   "youtube_title": "Projects Are Receipts",
+   "ig": "Your project should come with a receipt.\n\nArchitecture notes, commits, tests, decisions, fixed bugs, a live demo. Itemised proof is easier to discuss than a one-line description.\n\nPlaciq collects that evidence as you build. learn.placiq.in\n\n#projects #github #softwareengineering #placiq"
+  },
+  {
+   "day": 38,
+   "title": "The README Test",
+   "pillar": "GitHub evidence",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_06/DAY_38",
+   "duration": 16.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -14.1,
+    "true_peak": -1.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "final2.py, test (1).py, README (empty).",
+    "Can a stranger run your repo in 60 seconds?",
+    "The README glow-up."
+   ],
+   "youtube_title": "The README Test",
+   "ig": "final2.py, test (1).py, and an empty README.\n\nA five-section README (what, run, how, decisions, tests) makes your repo understandable in a minute.\n\nPlaciq's GitHub evidence view rewards depth like this. learn.placiq.in\n\n#readme #github #documentation #placiq"
+  },
+  {
+   "day": 39,
+   "title": "Certificate Mountain",
+   "pillar": "GitHub evidence",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_06/DAY_39",
+   "duration": 16.67,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.667,
+    "audio_streams": 1,
+    "lufs": -16.6,
+    "true_peak": -3.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.598
+   },
+   "hooks": [
+    "Twenty-six certificates. One question: can you build it?",
+    "Certificates are a start, not the finish.",
+    "The mountain vs the demo."
+   ],
+   "youtube_title": "Certificate Mountain vs One Demo",
+   "ig": "26 certificates and one question: can you build it?\n\nCertificates represent real learning. Pair them with one working demo and the conversation changes.\n\nPlaciq helps turn what you learned into a project you can show. learn.placiq.in\n\n#certifications #learning #portfolio #placiq"
+  },
+  {
+   "day": 40,
+   "title": "The Evidence Trail",
+   "pillar": "GitHub evidence",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_06/DAY_40",
+   "duration": 17.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.904,
+    "audio_streams": 1,
+    "lufs": -15.2,
+    "true_peak": -1.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 2,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Follow the trail from practice to proof.",
+    "Every step leaves evidence.",
+    "DSA to design, connected."
+   ],
+   "youtube_title": "The Evidence Trail",
+   "ig": "Practice, milestone, commit, tests, resume bullet, mock interview.\n\nWhen each step links to the next, your preparation becomes a story you can explain.\n\nThat is what Placiq connects. learn.placiq.in\n\n#careerprep #evidence #students #placiq"
+  },
+  {
+   "day": 41,
+   "title": "Interview Proof",
+   "pillar": "GitHub evidence",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_06/DAY_41",
+   "duration": 20.85,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.843,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.683
+   },
+   "hooks": [
+    "\"Why did you add a queue here?\"",
+    "Rewind your own commits in an interview.",
+    "The best answer is in your git log."
+   ],
+   "youtube_title": "The Best Interview Answer Is in Your Git Log",
+   "ig": "\"Why did you add a queue here?\"\n\nWhen you actually built it, the answer is in your own history: the benchmark, the bug, the decision.\n\nPlaciq's guided projects keep that trail. learn.placiq.in\n\n#interviewprep #systemdesign #git #placiq"
+  },
+  {
+   "day": 42,
+   "title": "Skill Passport",
+   "pillar": "GitHub evidence",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_06/DAY_42",
+   "duration": 16.88,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.875,
+    "audio_streams": 1,
+    "lufs": -16.0,
+    "true_peak": -1.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null,
+    "relimited": true
+   },
+   "hooks": [
+    "Stamp by stamp, a readiness record.",
+    "Your skills, passport-verified.",
+    "One living record of your prep."
+   ],
+   "youtube_title": "Skill Passport: One Living Record",
+   "ig": "Stamp by stamp: DSA, projects, resume, GitHub, mock interviews.\n\nPlaciq's Skill Passport is one living readiness score across everything you have practised and shipped.\n\nlearn.placiq.in\n\n#skillpassport #readiness #placementprep #placiq"
   }
  ]
 }

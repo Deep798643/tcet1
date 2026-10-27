@@ -454,3 +454,179 @@ Pillar: Resume  |  Format: comedy  |  Music: industrial 118 BPM  |  Duration: 16
 - [0.00s, 10.17s] vfactory: ON-SCREEN: Different students in. "Hardworking team player with good communication skills" out.
 - [10.17s, 3.05s] vtype: ON-SCREEN: Your bullet should only fit you.
 - [13.22s, 3.05s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 31 - The Three-Second Resume
+
+Pillar: Resume  |  Format: music  |  Music: minimal 120 BPM  |  Duration: 16.0s
+
+## Hooks
+1. Where does the eye go on your resume?  (SELECTED)
+2. Messy resume vs clear resume, eye-tracked (fictional).
+3. Hierarchy is a skill.
+
+## Scenes
+- [0.00s, 10.00s] vres: ON-SCREEN: A cluttered layout scatters attention. Clear hierarchy guides the eye.
+- [10.00s, 3.00s] vtype: ON-SCREEN: Make the important thing obvious.
+- [13.00s, 3.00s] vcta: ON-SCREEN: Placiq - resume.placiq.in
+
+
+# Day 32 - ATS Confusion
+
+Pillar: Resume  |  Format: narrated  |  Music: glitchhop 100 BPM  |  Duration: 17.4s
+
+## Hooks
+1. Keyword stuffing, as seen by a parser.  (SELECTED)
+2. You added 40 keywords. Now nobody can read it.
+3. More keywords is not more relevant.
+
+## Scenes
+- [0.00s, 9.60s] vres: VO: "Stuff every keyword in, and your real experience disappears under a wall of buzzwords. People still read the resume after the parser does."
+- [9.60s, 4.20s] vtype: VO: "Use the job's words, for skills you can actually prove."
+- [13.80s, 3.60s] vcta: VO: "Check it with Resume Intelligence."
+
+
+# Day 33 - Your Project Deserves Better
+
+Pillar: Resume  |  Format: narrated  |  Music: house 124 BPM  |  Duration: 16.0s
+
+## Hooks
+1. "Worked on a web app project." Let's fix that.  (SELECTED)
+2. One vague bullet, rewritten live.
+3. Your project did more than this line says.
+
+## Scenes
+- [0.00s, 11.61s] vres: VO: "Worked on a web app project. That says nothing. Try: built a group ledger A P I with FastAPI and Postgres, wrote eighteen tests, deployed it. What, with what, and the proof."
+- [11.61s, 4.35s] vcta: VO: "Specific. Truthful. Provable. Place IQ."
+
+
+# Day 34 - Two Resumes, One Difference
+
+Pillar: Resume  |  Format: music  |  Music: funk 108 BPM  |  Duration: 17.2s
+
+## Hooks
+1. Same student. Same internship. Two resumes.  (SELECTED)
+2. Spot the difference.
+3. Which one gets the follow-up question?
+
+## Scenes
+- [0.00s, 11.11s] vres: ON-SCREEN: Same internship, same student. Resume B uses specifics and evidence.
+- [11.11s, 3.33s] vtype: ON-SCREEN: Specifics invite better questions.
+- [14.44s, 2.78s] vcta: ON-SCREEN: Placiq - resume.placiq.in
+
+
+# Day 35 - Resume Intelligence Hero
+
+Pillar: Resume  |  Format: narrated  |  Music: electro 128 BPM  |  Duration: 16.4s
+
+## Hooks
+1. Real footage: a resume, analysed.  (SELECTED)
+2. ATS view. Recruiter view. One report.
+3. This is Resume Intelligence 2.0.
+
+## Scenes
+- [0.00s, 12.19s] vreel: VO: "Resume Intelligence two point oh. Upload your resume. Get an A T S scan and a recruiter-style rubric. See classified skills, gaps, and a report you can act on."
+- [12.19s, 4.22s] vcta: VO: "Try it at resume dot place I Q dot in."
+
+
+# Day 36 - Green Square Anxiety
+
+Pillar: GitHub evidence  |  Format: music  |  Music: trap 145 BPM  |  Duration: 18.2s
+
+## Hooks
+1. 365 green squares. So what?  (SELECTED)
+2. Your contribution graph is not your portfolio.
+3. Green does not explain anything.
+
+## Scenes
+- [0.00s, 9.93s] vgrid: ON-SCREEN: 365 green squares. What matters: what you built, why, what broke, can someone run it.
+- [9.93s, 4.97s] vclip: ON-SCREEN: Placiq GitHub evidence: repos and commits as proof.
+- [14.90s, 3.31s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 37 - Projects Are Receipts
+
+Pillar: GitHub evidence  |  Format: narrated  |  Music: breakbeat 132 BPM  |  Duration: 14.1s
+
+## Hooks
+1. Your project should print a receipt.  (SELECTED)
+2. Itemised proof of what you built.
+3. Total: evidence.
+
+## Scenes
+- [0.00s, 10.91s] vreceipt: VO: "A good project prints a receipt. An architecture doc. Sixty-one commits. Eighteen passing tests. Seven logged decisions. Twelve fixed bugs. One live demo."
+- [10.91s, 3.18s] vcta: VO: "Keep the receipts. Place IQ."
+
+
+# Day 38 - The README Test
+
+Pillar: GitHub evidence  |  Format: music  |  Music: arcade 150 BPM  |  Duration: 16.0s
+
+## Hooks
+1. final2.py, test (1).py, README (empty).  (SELECTED)
+2. Can a stranger run your repo in 60 seconds?
+3. The README glow-up.
+
+## Scenes
+- [0.00s, 9.60s] vreadme: ON-SCREEN: Messy repo -> README: what it is, how to run it, how it works, decisions, tests.
+- [9.60s, 3.20s] vtype: ON-SCREEN: If they cannot run it, they cannot see it.
+- [12.80s, 3.20s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 39 - Certificate Mountain
+
+Pillar: GitHub evidence  |  Format: narrated  |  Music: cinematic 90 BPM  |  Duration: 16.7s
+
+## Hooks
+1. Twenty-six certificates. One question: can you build it?  (SELECTED)
+2. Certificates are a start, not the finish.
+3. The mountain vs the demo.
+
+## Scenes
+- [0.00s, 10.67s] vmountain: VO: "Certificates are real learning, and they matter. But next to them, one working demo answers the question every interviewer has: can you build it?"
+- [10.67s, 2.00s] vtype: VO: "Learn it. Then show it."
+- [12.67s, 4.00s] vcta: VO: "Turn learning into proof with Place IQ."
+
+
+# Day 40 - The Evidence Trail
+
+Pillar: GitHub evidence  |  Format: music  |  Music: house 124 BPM  |  Duration: 17.9s
+
+## Hooks
+1. Follow the trail from practice to proof.  (SELECTED)
+2. Every step leaves evidence.
+3. DSA to design, connected.
+
+## Scenes
+- [0.00s, 11.61s] vtrail: ON-SCREEN: DSA practice -> project milestone -> commit -> tests -> resume bullet -> mock interview.
+- [11.61s, 3.39s] vtype: ON-SCREEN: Connected steps become a story.
+- [15.00s, 2.90s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 41 - Interview Proof
+
+Pillar: GitHub evidence  |  Format: narrated  |  Music: industrial 118 BPM  |  Duration: 20.8s
+
+## Hooks
+1. "Why did you add a queue here?"  (SELECTED)
+2. Rewind your own commits in an interview.
+3. The best answer is in your git log.
+
+## Scenes
+- [0.00s, 16.27s] vrewind: VO: "Why did you add a queue here? Aarav, a fictional candidate, rewinds his own history. Initial A P I. A benchmark: two point four seconds. A duplicate-charge bug. Then the retry queue. He doesn't recite. He remembers."
+- [16.27s, 4.58s] vcta: VO: "Build work you can explain. Place IQ."
+
+
+# Day 42 - Skill Passport
+
+Pillar: GitHub evidence  |  Format: music  |  Music: electro 128 BPM  |  Duration: 16.9s
+
+## Hooks
+1. Stamp by stamp, a readiness record.  (SELECTED)
+2. Your skills, passport-verified.
+3. One living record of your prep.
+
+## Scenes
+- [0.00s, 9.38s] vpassport: ON-SCREEN: DSA, project, resume, GitHub, mock: stamps in one living readiness record.
+- [9.38s, 4.69s] vclip: ON-SCREEN: Real Skill Passport in Placiq.
+- [14.06s, 2.81s] vcta: ON-SCREEN: Placiq - learn.placiq.in

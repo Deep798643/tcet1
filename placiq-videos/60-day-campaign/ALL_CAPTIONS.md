@@ -479,3 +479,195 @@ Placiq's Resume Intelligence flags generic bullets and gaps. learn.placiq.in
 **YouTube title:** The Generic Resume Machine
 
 **LinkedIn:** Generic phrasing hides distinct experience. Specific, evidence-based bullets communicate more.
+
+## Day 31 - The Three-Second Resume
+
+**Instagram**
+
+Where does the eye go on your resume?
+
+No single rule decides how long a reviewer looks, but a clear hierarchy helps anyone find what matters fast: role, impact, proof.
+
+Check yours with Placiq Resume Intelligence. resume.placiq.in
+
+#resume #resumedesign #freshers #placiq
+
+**YouTube title:** Resume Hierarchy in 15 Seconds
+
+**LinkedIn:** Visual hierarchy helps any reviewer find key information quickly. A fictional before/after.
+
+## Day 32 - ATS Confusion
+
+**Instagram**
+
+Added 40 keywords. Now nobody can read your experience.
+
+Match the job description's language for skills you genuinely have, and keep each one tied to a project or result. A human reads it after any parser.
+
+Placiq Resume Intelligence reviews like an ATS and a recruiter would. resume.placiq.in
+
+#ats #resumetips #jobsearch #placiq
+
+**YouTube title:** Keyword Stuffing vs a Readable Resume
+
+**LinkedIn:** Keyword stuffing reduces readability. Align terminology with the role for skills backed by evidence.
+
+## Day 33 - Your Project Deserves Better
+
+**Instagram**
+
+"Worked on a web app project." Your project deserves better.
+
+Say what you built, with which tools, and link the proof. Only claim what you did.
+
+Placiq pulls your project evidence straight into your resume. learn.placiq.in
+
+#resumewriting #projects #cse #placiq
+
+**YouTube title:** Rewrite One Vague Resume Bullet
+
+**LinkedIn:** Specific, truthful project descriptions with linked evidence communicate real contribution.
+
+## Day 34 - Two Resumes, One Difference
+
+**Instagram**
+
+Same student. Same internship. Two very different resumes.
+
+Resume B is not exaggerating, it is specific: what was trained, what shipped, which tools.
+
+Try Placiq Resume Intelligence on yours. resume.placiq.in
+
+#resume #internship #careertips #placiq
+
+**YouTube title:** Two Resumes, One Difference
+
+**LinkedIn:** Two fictional presentations of identical experience. Specificity changes how it is read.
+
+## Day 35 - Resume Intelligence Hero
+
+**Instagram**
+
+Your resume, read two ways: by an ATS and by a recruiter-style rubric.
+
+Real footage of Placiq Resume Intelligence 2.0: upload, scan, see classified skills and gaps, then act on the report.
+
+Free plan includes a basic ATS scan. resume.placiq.in
+
+#resumeintelligence #ats #ai #placiq
+
+**YouTube title:** Resume Intelligence 2.0: Real Footage
+
+**LinkedIn:** A walkthrough of Placiq Resume Intelligence 2.0: ATS scan, recruiter rubric, skill classification and gaps.
+
+## Day 36 - Green Square Anxiety
+
+**Instagram**
+
+365 green squares and still anxious?
+
+The contribution graph counts activity. Interviewers ask what you built, why you designed it that way, and what broke.
+
+Placiq turns repos and commits into explainable evidence. learn.placiq.in
+
+#github #opensource #developers #placiq
+
+**YouTube title:** Green Squares Are Not a Portfolio
+
+**LinkedIn:** Contribution counts measure activity, not depth. Evidence of design decisions matters more.
+
+## Day 37 - Projects Are Receipts
+
+**Instagram**
+
+Your project should come with a receipt.
+
+Architecture notes, commits, tests, decisions, fixed bugs, a live demo. Itemised proof is easier to discuss than a one-line description.
+
+Placiq collects that evidence as you build. learn.placiq.in
+
+#projects #github #softwareengineering #placiq
+
+**YouTube title:** Projects Are Receipts
+
+**LinkedIn:** Treat projects as itemised evidence: architecture, commits, tests and decisions.
+
+## Day 38 - The README Test
+
+**Instagram**
+
+final2.py, test (1).py, and an empty README.
+
+A five-section README (what, run, how, decisions, tests) makes your repo understandable in a minute.
+
+Placiq's GitHub evidence view rewards depth like this. learn.placiq.in
+
+#readme #github #documentation #placiq
+
+**YouTube title:** The README Test
+
+**LinkedIn:** Documentation is part of the work. A five-section README template, visualised.
+
+## Day 39 - Certificate Mountain
+
+**Instagram**
+
+26 certificates and one question: can you build it?
+
+Certificates represent real learning. Pair them with one working demo and the conversation changes.
+
+Placiq helps turn what you learned into a project you can show. learn.placiq.in
+
+#certifications #learning #portfolio #placiq
+
+**YouTube title:** Certificate Mountain vs One Demo
+
+**LinkedIn:** Certificates show learning; working demonstrations show applied skill. Both have value.
+
+## Day 40 - The Evidence Trail
+
+**Instagram**
+
+Practice, milestone, commit, tests, resume bullet, mock interview.
+
+When each step links to the next, your preparation becomes a story you can explain.
+
+That is what Placiq connects. learn.placiq.in
+
+#careerprep #evidence #students #placiq
+
+**YouTube title:** The Evidence Trail
+
+**LinkedIn:** Linking practice, project milestones and outcomes creates a coherent, explainable preparation record.
+
+## Day 41 - Interview Proof
+
+**Instagram**
+
+"Why did you add a queue here?"
+
+When you actually built it, the answer is in your own history: the benchmark, the bug, the decision.
+
+Placiq's guided projects keep that trail. learn.placiq.in
+
+#interviewprep #systemdesign #git #placiq
+
+**YouTube title:** The Best Interview Answer Is in Your Git Log
+
+**LinkedIn:** Candidates who built their projects can reconstruct decisions from history. A fictional example.
+
+## Day 42 - Skill Passport
+
+**Instagram**
+
+Stamp by stamp: DSA, projects, resume, GitHub, mock interviews.
+
+Placiq's Skill Passport is one living readiness score across everything you have practised and shipped.
+
+learn.placiq.in
+
+#skillpassport #readiness #placementprep #placiq
+
+**YouTube title:** Skill Passport: One Living Record
+
+**LinkedIn:** Placiq's Skill Passport combines evidence from multiple modules into one readiness record.
