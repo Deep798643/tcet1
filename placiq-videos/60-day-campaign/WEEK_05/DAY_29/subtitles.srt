@@ -1,0 +1,23 @@
+1
+00:00:00,150 --> 00:00:03,494
+"Built a scalable expense app." Prove
+
+2
+00:00:03,494 --> 00:00:06,594
+it: repo, tests, architecture, live demo,
+
+3
+00:00:06,594 --> 00:00:08,719
+numbers you actually measured.
+
+4
+00:00:11,209 --> 00:00:12,105
+Claims get questioned.
+
+5
+00:00:12,105 --> 00:00:13,636
+Proof gets discussed.
+
+6
+00:00:13,786 --> 00:00:14,938
+Back your resume with Placiq.
