@@ -1,0 +1,1674 @@
+{
+ "title": "YOU MEMORIZED THE CODE. - Placiq Proof Film",
+ "bpm": 172,
+ "style": "dnb",
+ "voice": "am_michael",
+ "tts": "Kokoro-82M (local, Apache-2.0)",
+ "duration": 69.07,
+ "scenes": [
+  {
+   "idx": 0,
+   "type": "kinetic",
+   "tag": "HOOK",
+   "start": 0.0,
+   "dur": 2.093,
+   "vo_start": 0.18,
+   "say": "You memorized the code.",
+   "caption": "You memorized the code.",
+   "words": [
+    [
+     "You",
+     0.18,
+     0.31695833333333334
+    ],
+    [
+     "memorized",
+     0.31695833333333334,
+     0.8794583333333332
+    ],
+    [
+     "the",
+     0.8794583333333332,
+     0.9794583333333333
+    ],
+    [
+     "code",
+     0.9794583333333333,
+     1.6669583333333333
+    ]
+   ],
+   "params": {
+    "lines": [
+     "YOU *MEMORIZED",
+     "THE CODE."
+    ],
+    "style": "slam",
+    "size": 190
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": "flash"
+  },
+  {
+   "idx": 1,
+   "type": "array",
+   "tag": "PATTERNS",
+   "start": 2.093,
+   "dur": 4.186,
+   "vo_start": 2.273,
+   "say": "Two pointers. Sliding window. Dynamic programming.",
+   "caption": "Two pointers. Sliding window. Dynamic programming.",
+   "words": [
+    [
+     "Two",
+     0.18,
+     0.3545416666666666
+    ],
+    [
+     "pointers",
+     0.3545416666666666,
+     0.9420416666666667
+    ],
+    [
+     "Sliding",
+     1.0295416666666666,
+     1.4920416666666665
+    ],
+    [
+     "window",
+     1.4920416666666665,
+     1.9670416666666666
+    ],
+    [
+     "Dynamic",
+     2.042041666666667,
+     2.5795416666666666
+    ],
+    [
+     "programming",
+     2.5795416666666666,
+     3.6170416666666667
+    ]
+   ],
+   "params": {
+    "title": "TWO POINTERS."
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 2,
+   "type": "array",
+   "tag": "CURVEBALL",
+   "start": 6.279,
+   "dur": 4.884,
+   "vo_start": 6.459,
+   "say": "Then the interviewer changed one line... and everything fell apart.",
+   "caption": "Then the interviewer changed one line... and everything fell apart.",
+   "words": [
+    [
+     "Then",
+     0.18,
+     0.32541666666666663
+    ],
+    [
+     "the",
+     0.32541666666666663,
+     0.4379166666666667
+    ],
+    [
+     "interviewer",
+     0.4379166666666667,
+     0.9004166666666666
+    ],
+    [
+     "changed",
+     0.9004166666666666,
+     1.4004166666666664
+    ],
+    [
+     "one",
+     1.4004166666666664,
+     1.6629166666666666
+    ],
+    [
+     "line",
+     1.6629166666666666,
+     2.3129166666666667
+    ],
+    [
+     "and",
+     2.4629166666666666,
+     2.600416666666667
+    ],
+    [
+     "everything",
+     2.600416666666667,
+     3.100416666666667
+    ],
+    [
+     "fell",
+     3.100416666666667,
+     3.3379166666666666
+    ],
+    [
+     "apart",
+     3.3379166666666666,
+     4.087916666666667
+    ]
+   ],
+   "params": {
+    "mode": "break"
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": "glitch"
+  },
+  {
+   "idx": 3,
+   "type": "kinetic",
+   "tag": "TRUTH",
+   "start": 11.163,
+   "dur": 2.791,
+   "vo_start": 11.343,
+   "say": "Memorizing... isn't understanding.",
+   "caption": "Memorizing... isn't understanding.",
+   "words": [
+    [
+     "Memorizing",
+     0.189625,
+     0.9396249999999999
+    ],
+    [
+     "isn't",
+     1.064625,
+     1.3271249999999999
+    ],
+    [
+     "understanding",
+     1.3271249999999999,
+     2.439625
+    ]
+   ],
+   "params": {
+    "lines": [
+     "~MEMORIZING",
+     "ISN'T *UNDERSTANDING."
+    ],
+    "size": 140
+   },
+   "energy": 0,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 4,
+   "type": "screen",
+   "tag": "DSA VISUALIZER",
+   "start": 13.953,
+   "dur": 6.977,
+   "vo_start": 14.303,
+   "say": "Place IQ's D S A Visualizer shows you every pointer, every swap, every invariant.",
+   "caption": "Placiq's DSA Visualizer shows you every pointer, every swap, every invariant.",
+   "words": [
+    [
+     "Place",
+     0.35,
+     0.5534583333333333
+    ],
+    [
+     "IQ's",
+     0.5534583333333333,
+     1.0034583333333333
+    ],
+    [
+     "D",
+     1.0034583333333333,
+     1.2284583333333332
+    ],
+    [
+     "S",
+     1.2284583333333332,
+     1.6909583333333336
+    ],
+    [
+     "A",
+     1.6909583333333336,
+     1.8159583333333336
+    ],
+    [
+     "Visualizer",
+     1.8159583333333336,
+     2.503458333333333
+    ],
+    [
+     "shows",
+     2.503458333333333,
+     2.8409583333333335
+    ],
+    [
+     "you",
+     2.8409583333333335,
+     3.003458333333333
+    ],
+    [
+     "every",
+     3.003458333333333,
+     3.353458333333333
+    ],
+    [
+     "pointer",
+     3.353458333333333,
+     4.090958333333333
+    ],
+    [
+     "every",
+     4.215958333333333,
+     4.565958333333333
+    ],
+    [
+     "swap",
+     4.565958333333333,
+     4.9909583333333325
+    ],
+    [
+     "every",
+     5.040958333333333,
+     5.3659583333333325
+    ],
+    [
+     "invariant",
+     5.3659583333333325,
+     6.390958333333333
+    ]
+   ],
+   "params": {
+    "shot": "dsa_visualizer",
+    "title": "See it|think.",
+    "sub": "every pointer, every swap",
+    "zoom": 1.6,
+    "focus": [
+     0.4,
+     0.55
+    ],
+    "callouts": [
+     [
+      "pointer state",
+      0.3,
+      0.5,
+      0.3
+     ],
+     [
+      "brute force vs optimal",
+      0.8,
+      0.3,
+      0.55
+     ],
+     [
+      "Socratic tutor",
+      0.75,
+      0.75,
+      0.75
+     ]
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "transition": "zoom"
+  },
+  {
+   "idx": 5,
+   "type": "counter",
+   "tag": "1,800+",
+   "start": 20.93,
+   "dur": 6.279,
+   "vo_start": 21.11,
+   "say": "Eighteen hundred plus animations. Speed it up. Slow it down. Break it, on purpose.",
+   "caption": "1,800+ animations. Speed it up. Slow it down. Break it, on purpose.",
+   "words": [
+    [
+     "Eighteen",
+     0.18,
+     0.5249999999999999
+    ],
+    [
+     "hundred",
+     0.5249999999999999,
+     0.825
+    ],
+    [
+     "plus",
+     0.825,
+     1.0999999999999999
+    ],
+    [
+     "animations",
+     1.0999999999999999,
+     1.8499999999999999
+    ],
+    [
+     "Speed",
+     1.9374999999999998,
+     2.2625
+    ],
+    [
+     "it",
+     2.2625,
+     2.35
+    ],
+    [
+     "up",
+     2.35,
+     2.7750000000000004
+    ],
+    [
+     "Slow",
+     2.9000000000000004,
+     3.2125000000000004
+    ],
+    [
+     "it",
+     3.2125000000000004,
+     3.35
+    ],
+    [
+     "down",
+     3.35,
+     3.8000000000000003
+    ],
+    [
+     "Break",
+     3.8875,
+     4.199999999999999
+    ],
+    [
+     "it",
+     4.199999999999999,
+     4.275
+    ],
+    [
+     "on",
+     4.3125,
+     4.512499999999999
+    ],
+    [
+     "purpose",
+     4.512499999999999,
+     5.375
+    ]
+   ],
+   "params": {
+    "n": 1800,
+    "suffix": "+",
+    "label": "SPEED IT UP. SLOW IT DOWN. BREAK IT."
+   },
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 6,
+   "type": "graveyard",
+   "tag": "PROJECTS",
+   "start": 27.209,
+   "dur": 5.581,
+   "vo_start": 27.389,
+   "say": "And your projects? Project final. Final v2. Final final... REAL.",
+   "caption": "And your projects? project-final. final-v2. final-final-REAL.",
+   "words": [
+    [
+     "And",
+     0.18,
+     0.2755416666666667
+    ],
+    [
+     "your",
+     0.2755416666666667,
+     0.3880416666666666
+    ],
+    [
+     "projects",
+     0.3880416666666666,
+     0.9380416666666667
+    ],
+    [
+     "Project",
+     1.0130416666666666,
+     1.4630416666666666
+    ],
+    [
+     "final",
+     1.4630416666666666,
+     1.8130416666666667
+    ],
+    [
+     "Final",
+     1.8755416666666667,
+     2.263041666666667
+    ],
+    [
+     "v2",
+     2.263041666666667,
+     2.938041666666667
+    ],
+    [
+     "Final",
+     3.075541666666667,
+     3.475541666666667
+    ],
+    [
+     "final",
+     3.475541666666667,
+     3.9130416666666665
+    ],
+    [
+     "REAL",
+     4.025541666666667,
+     4.738041666666666
+    ]
+   ],
+   "params": {},
+   "energy": 2,
+   "drop": false,
+   "transition": "wipe"
+  },
+  {
+   "idx": 7,
+   "type": "screen",
+   "tag": "AI PROJECT BUILDER",
+   "start": 32.791,
+   "dur": 6.279,
+   "vo_start": 32.971,
+   "say": "The AI Project Builder turns ideas into roadmaps... with checkpoints that actually ship.",
+   "caption": "The AI Project Builder turns ideas into roadmaps... with checkpoints that actually ship.",
+   "words": [
+    [
+     "The",
+     0.18,
+     0.2959583333333333
+    ],
+    [
+     "AI",
+     0.2959583333333333,
+     0.7209583333333334
+    ],
+    [
+     "Project",
+     0.7209583333333334,
+     1.1709583333333333
+    ],
+    [
+     "Builder",
+     1.1709583333333333,
+     1.5459583333333333
+    ],
+    [
+     "turns",
+     1.5459583333333333,
+     1.9084583333333331
+    ],
+    [
+     "ideas",
+     1.9084583333333331,
+     2.3834583333333335
+    ],
+    [
+     "into",
+     2.3834583333333335,
+     2.6334583333333335
+    ],
+    [
+     "roadmaps",
+     2.6334583333333335,
+     3.5709583333333335
+    ],
+    [
+     "with",
+     3.7209583333333334,
+     3.9334583333333333
+    ],
+    [
+     "checkpoints",
+     3.9334583333333333,
+     4.545958333333333
+    ],
+    [
+     "that",
+     4.545958333333333,
+     4.733458333333333
+    ],
+    [
+     "actually",
+     4.733458333333333,
+     5.1959583333333335
+    ],
+    [
+     "ship",
+     5.1959583333333335,
+     5.795958333333333
+    ]
+   ],
+   "params": {
+    "shot": "project_list",
+    "title": "Ideas >|roadmaps >|shipped.",
+    "zoom": 1.35,
+    "focus": [
+     0.5,
+     0.4
+    ],
+    "callouts": [
+     [
+      "guided steps",
+      0.3,
+      0.3,
+      0.35
+     ],
+     [
+      "open in IDE",
+      0.6,
+      0.55,
+      0.6
+     ]
+    ]
+   },
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 8,
+   "type": "screen",
+   "tag": "PROJECT ANALYZER",
+   "start": 39.07,
+   "dur": 5.581,
+   "vo_start": 39.25,
+   "say": "Then the Project Analyzer reads your repo... the way a recruiter would.",
+   "caption": "Then the Project Analyzer reads your repo... the way a recruiter would.",
+   "words": [
+    [
+     "Then",
+     0.18,
+     0.2680416666666667
+    ],
+    [
+     "the",
+     0.2680416666666667,
+     0.3555416666666667
+    ],
+    [
+     "Project",
+     0.3555416666666667,
+     0.8430416666666667
+    ],
+    [
+     "Analyzer",
+     0.8430416666666667,
+     1.4680416666666667
+    ],
+    [
+     "reads",
+     1.4680416666666667,
+     1.7930416666666666
+    ],
+    [
+     "your",
+     1.7930416666666666,
+     1.9305416666666666
+    ],
+    [
+     "repo",
+     1.9305416666666666,
+     2.6305416666666672
+    ],
+    [
+     "the",
+     2.805541666666667,
+     2.9430416666666672
+    ],
+    [
+     "way",
+     2.9430416666666672,
+     3.2555416666666672
+    ],
+    [
+     "a",
+     3.2555416666666672,
+     3.355541666666667
+    ],
+    [
+     "recruiter",
+     3.355541666666667,
+     3.918041666666667
+    ],
+    [
+     "would",
+     3.918041666666667,
+     4.555541666666667
+    ]
+   ],
+   "params": {
+    "shot": "analyzer",
+    "layout": "left",
+    "title": "Read like a|recruiter.",
+    "zoom": 1.4,
+    "focus": [
+     0.5,
+     0.35
+    ],
+    "callouts": [
+     [
+      "repository proof",
+      0.45,
+      0.35,
+      0.4
+     ],
+     [
+      "what recruiters inspect",
+      0.85,
+      0.5,
+      0.65
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 9,
+   "type": "grid",
+   "tag": "GITHUB",
+   "start": 44.651,
+   "dur": 4.186,
+   "vo_start": 45.001,
+   "say": "Your GitHub is green. So what? Show what's behind it.",
+   "caption": "Your GitHub is green. So what? Show what's behind it.",
+   "words": [
+    [
+     "Your",
+     0.35,
+     0.4390833333333333
+    ],
+    [
+     "GitHub",
+     0.4390833333333333,
+     0.7515833333333333
+    ],
+    [
+     "is",
+     0.7515833333333333,
+     0.9015833333333333
+    ],
+    [
+     "green",
+     0.9015833333333333,
+     1.3640833333333333
+    ],
+    [
+     "So",
+     1.4890833333333333,
+     1.7265833333333336
+    ],
+    [
+     "what",
+     1.7265833333333336,
+     2.1140833333333333
+    ],
+    [
+     "Show",
+     2.226583333333333,
+     2.4265833333333333
+    ],
+    [
+     "what's",
+     2.4265833333333333,
+     2.6140833333333333
+    ],
+    [
+     "behind",
+     2.6140833333333333,
+     3.0890833333333334
+    ],
+    [
+     "it",
+     3.0890833333333334,
+     3.539083333333333
+    ]
+   ],
+   "params": {},
+   "energy": 3,
+   "drop": true,
+   "transition": null
+  },
+  {
+   "idx": 10,
+   "type": "resume",
+   "tag": "RESUME",
+   "start": 48.837,
+   "dur": 4.884,
+   "vo_start": 49.017,
+   "say": "A resume is a claim. Place IQ helps you back it... with proof.",
+   "caption": "A resume is a claim. Placiq helps you back it... with proof.",
+   "words": [
+    [
+     "A",
+     0.18,
+     0.2422083333333333
+    ],
+    [
+     "resume",
+     0.2422083333333333,
+     0.6797083333333334
+    ],
+    [
+     "is",
+     0.6797083333333334,
+     0.7797083333333332
+    ],
+    [
+     "a",
+     0.7797083333333332,
+     0.8797083333333333
+    ],
+    [
+     "claim",
+     0.8797083333333333,
+     1.4172083333333334
+    ],
+    [
+     "Place",
+     1.5172083333333333,
+     1.8172083333333333
+    ],
+    [
+     "IQ",
+     1.8172083333333333,
+     2.2672083333333335
+    ],
+    [
+     "helps",
+     2.2672083333333335,
+     2.5047083333333333
+    ],
+    [
+     "you",
+     2.5047083333333333,
+     2.617208333333333
+    ],
+    [
+     "back",
+     2.617208333333333,
+     2.9422083333333333
+    ],
+    [
+     "it",
+     2.9422083333333333,
+     3.1672083333333334
+    ],
+    [
+     "with",
+     3.2797083333333332,
+     3.4547083333333335
+    ],
+    [
+     "proof",
+     3.4547083333333335,
+     4.192208333333333
+    ]
+   ],
+   "params": {},
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 11,
+   "type": "screen",
+   "tag": "PORTFOLIO",
+   "start": 53.721,
+   "dur": 4.884,
+   "vo_start": 53.901,
+   "say": "Then turn verified work into a portfolio. In minutes.",
+   "caption": "Then turn verified work into a portfolio. In minutes.",
+   "words": [
+    [
+     "Then",
+     0.18,
+     0.37783333333333335
+    ],
+    [
+     "turn",
+     0.37783333333333335,
+     0.7403333333333333
+    ],
+    [
+     "verified",
+     0.7403333333333333,
+     1.2903333333333333
+    ],
+    [
+     "work",
+     1.2903333333333333,
+     1.5278333333333332
+    ],
+    [
+     "into",
+     1.5278333333333332,
+     1.7528333333333332
+    ],
+    [
+     "a",
+     1.7528333333333332,
+     1.8153333333333332
+    ],
+    [
+     "portfolio",
+     1.8153333333333332,
+     2.7403333333333335
+    ],
+    [
+     "In",
+     2.8778333333333337,
+     3.0403333333333338
+    ],
+    [
+     "minutes",
+     3.0403333333333338,
+     3.7403333333333335
+    ]
+   ],
+   "params": {
+    "shot": "portfolio",
+    "layout": "center",
+    "title": "VERIFIED WORK > PORTFOLIO",
+    "zoom": 1.3,
+    "focus": [
+     0.55,
+     0.4
+    ],
+    "callouts": [
+     [
+      "live preview",
+      0.62,
+      0.35,
+      0.4
+     ],
+     [
+      "export & deploy",
+      0.35,
+      0.22,
+      0.65
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 12,
+   "type": "kinetic",
+   "tag": "MANIFESTO",
+   "start": 58.605,
+   "dur": 2.791,
+   "vo_start": 58.955,
+   "say": "Understand it. Build it. Prove it.",
+   "caption": "Understand it. Build it. Prove it.",
+   "words": [
+    [
+     "Understand",
+     0.35,
+     0.968625
+    ],
+    [
+     "it",
+     0.968625,
+     1.143625
+    ],
+    [
+     "Build",
+     1.231125,
+     1.543625
+    ],
+    [
+     "it",
+     1.543625,
+     1.668625
+    ],
+    [
+     "Prove",
+     1.731125,
+     2.0936250000000003
+    ],
+    [
+     "it",
+     2.0936250000000003,
+     2.543625
+    ]
+   ],
+   "params": {
+    "lines": [
+     "UNDERSTAND IT.",
+     "BUILD IT.",
+     "*PROVE IT."
+    ],
+    "style": "slam",
+    "size": 150
+   },
+   "energy": 3,
+   "drop": true,
+   "transition": null
+  },
+  {
+   "idx": 13,
+   "type": "cta",
+   "tag": "PLACIQ",
+   "start": 61.395,
+   "dur": 7.674,
+   "vo_start": 61.575,
+   "say": "Place IQ. Your work, connected. Learn dot place I Q dot in.",
+   "caption": "Placiq. Your work, connected. learn.placiq.in",
+   "words": [
+    [
+     "Place",
+     0.18,
+     0.4264166666666666
+    ],
+    [
+     "IQ",
+     0.4264166666666666,
+     1.0514166666666667
+    ],
+    [
+     "Your",
+     1.2264166666666665,
+     1.4014166666666668
+    ],
+    [
+     "work",
+     1.4014166666666668,
+     1.6514166666666668
+    ],
+    [
+     "connected",
+     1.7014166666666666,
+     2.4014166666666665
+    ],
+    [
+     "Learn",
+     2.513916666666667,
+     2.801416666666667
+    ],
+    [
+     "dot",
+     2.801416666666667,
+     3.076416666666667
+    ],
+    [
+     "place",
+     3.076416666666667,
+     3.426416666666667
+    ],
+    [
+     "I",
+     3.426416666666667,
+     3.613916666666667
+    ],
+    [
+     "Q",
+     3.613916666666667,
+     3.863916666666667
+    ],
+    [
+     "dot",
+     3.863916666666667,
+     4.201416666666666
+    ],
+    [
+     "in",
+     4.201416666666666,
+     4.751416666666667
+    ]
+   ],
+   "params": {
+    "tag": "Memorized is not mastered."
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": "flash"
+  }
+ ],
+ "sfx_events": [
+  {
+   "t": 0.12,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.12,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 0.257,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.257,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 0.819,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.819,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 0.919,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.919,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 2.093,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 1
+  },
+  {
+   "t": 2.616,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 1
+  },
+  {
+   "t": 3.14,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 1
+  },
+  {
+   "t": 3.663,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 1
+  },
+  {
+   "t": 4.186,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 1
+  },
+  {
+   "t": 4.709,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 1
+  },
+  {
+   "t": 1.673,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 1
+  },
+  {
+   "t": 6.279,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.89,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.5,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.11,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.721,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 9.331,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.965,
+   "kind": "glitch",
+   "gain": 0.8,
+   "scene": 2
+  },
+  {
+   "t": 9.065,
+   "kind": "impact",
+   "gain": 0.5,
+   "scene": 2
+  },
+  {
+   "t": 5.859,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 2
+  },
+  {
+   "t": 6.279,
+   "kind": "glitch",
+   "gain": 0.6,
+   "scene": 2
+  },
+  {
+   "t": 11.292,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 12.167,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 12.43,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 10.743,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 3
+  },
+  {
+   "t": 13.953,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 4
+  },
+  {
+   "t": 16.047,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 4
+  },
+  {
+   "t": 17.791,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 4
+  },
+  {
+   "t": 19.186,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 4
+  },
+  {
+   "t": 13.533,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 4
+  },
+  {
+   "t": 13.953,
+   "kind": "bass",
+   "gain": 0.6,
+   "scene": 4
+  },
+  {
+   "t": 21.03,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.085,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.143,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.204,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.267,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.334,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.404,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.478,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.555,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.637,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.722,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.812,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 21.906,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.004,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.108,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.217,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.331,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.451,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.578,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.71,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 22.83,
+   "kind": "bass",
+   "gain": 0.6,
+   "scene": 5
+  },
+  {
+   "t": 20.51,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 5
+  },
+  {
+   "t": 27.629,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 6
+  },
+  {
+   "t": 27.837,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 6
+  },
+  {
+   "t": 28.912,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 6
+  },
+  {
+   "t": 29.325,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 6
+  },
+  {
+   "t": 30.525,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 6
+  },
+  {
+   "t": 31.475,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 6
+  },
+  {
+   "t": 30.67,
+   "kind": "impact",
+   "gain": 0.55,
+   "scene": 6
+  },
+  {
+   "t": 26.789,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 6
+  },
+  {
+   "t": 32.791,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 7
+  },
+  {
+   "t": 34.988,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 7
+  },
+  {
+   "t": 36.558,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 7
+  },
+  {
+   "t": 32.371,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 7
+  },
+  {
+   "t": 39.07,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 8
+  },
+  {
+   "t": 41.302,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 8
+  },
+  {
+   "t": 42.698,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 8
+  },
+  {
+   "t": 38.65,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 8
+  },
+  {
+   "t": 46.116,
+   "kind": "bass",
+   "gain": 0.7,
+   "scene": 9
+  },
+  {
+   "t": 46.953,
+   "kind": "glitch",
+   "gain": 0.7,
+   "scene": 9
+  },
+  {
+   "t": 46.953,
+   "kind": "whoosh",
+   "gain": 0.5,
+   "scene": 9
+  },
+  {
+   "t": 44.231,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 9
+  },
+  {
+   "t": 50.302,
+   "kind": "impact",
+   "gain": 0.5,
+   "scene": 10
+  },
+  {
+   "t": 51.138,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 10
+  },
+  {
+   "t": 51.578,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 10
+  },
+  {
+   "t": 52.017,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 10
+  },
+  {
+   "t": 52.457,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 10
+  },
+  {
+   "t": 52.897,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 10
+  },
+  {
+   "t": 48.417,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 10
+  },
+  {
+   "t": 53.721,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 11
+  },
+  {
+   "t": 55.674,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 11
+  },
+  {
+   "t": 56.895,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 11
+  },
+  {
+   "t": 53.301,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 11
+  },
+  {
+   "t": 58.895,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 12
+  },
+  {
+   "t": 58.895,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 12
+  },
+  {
+   "t": 59.513,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 12
+  },
+  {
+   "t": 59.513,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 12
+  },
+  {
+   "t": 59.776,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 12
+  },
+  {
+   "t": 59.776,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 12
+  },
+  {
+   "t": 60.088,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 12
+  },
+  {
+   "t": 60.088,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 12
+  },
+  {
+   "t": 60.276,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 12
+  },
+  {
+   "t": 60.276,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 12
+  },
+  {
+   "t": 60.638,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 12
+  },
+  {
+   "t": 60.638,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 12
+  },
+  {
+   "t": 58.185,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 12
+  },
+  {
+   "t": 61.445,
+   "kind": "stinger",
+   "gain": 0.55,
+   "scene": 13
+  },
+  {
+   "t": 62.495,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 13
+  },
+  {
+   "t": 63.195,
+   "kind": "click",
+   "gain": 1.0,
+   "scene": 13
+  },
+  {
+   "t": 60.975,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 13
+  }
+ ]
+}

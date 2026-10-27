@@ -1,0 +1,2492 @@
+{
+ "title": "YOUR WORK, CONNECTED. - Placiq Brand Film",
+ "bpm": 124,
+ "style": "house",
+ "voice": "af_heart",
+ "tts": "Kokoro-82M (local, Apache-2.0)",
+ "duration": 80.323,
+ "scenes": [
+  {
+   "idx": 0,
+   "type": "kinetic",
+   "tag": "HOOK",
+   "start": 0.0,
+   "dur": 1.935,
+   "vo_start": 0.18,
+   "say": "Stop. Count your tabs.",
+   "caption": "Stop. Count your tabs.",
+   "words": [
+    [
+     "Stop",
+     0.21470833333333336,
+     0.5397083333333332
+    ],
+    [
+     "Count",
+     0.5897083333333333,
+     0.8022083333333334
+    ],
+    [
+     "your",
+     0.8022083333333334,
+     0.9147083333333332
+    ],
+    [
+     "tabs",
+     0.9147083333333332,
+     1.5897083333333333
+    ]
+   ],
+   "params": {
+    "lines": [
+     "STOP.",
+     "COUNT YOUR *TABS."
+    ],
+    "style": "slam",
+    "size": 190
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": "flash"
+  },
+  {
+   "idx": 1,
+   "type": "tabs",
+   "tag": "CHAOS",
+   "start": 1.935,
+   "dur": 3.871,
+   "vo_start": 2.115,
+   "say": "LeetCode. GitHub. A resume you rewrote... four times.",
+   "caption": "LeetCode. GitHub. A resume you rewrote... four times.",
+   "words": [
+    [
+     "LeetCode",
+     0.18,
+     0.7426666666666666
+    ],
+    [
+     "GitHub",
+     0.7926666666666666,
+     1.1926666666666665
+    ],
+    [
+     "A",
+     1.2676666666666667,
+     1.3426666666666665
+    ],
+    [
+     "resume",
+     1.3426666666666665,
+     1.6926666666666665
+    ],
+    [
+     "you",
+     1.6926666666666665,
+     1.7926666666666666
+    ],
+    [
+     "rewrote",
+     1.7926666666666666,
+     2.367666666666667
+    ],
+    [
+     "four",
+     2.530166666666667,
+     2.767666666666667
+    ],
+    [
+     "times",
+     2.767666666666667,
+     3.4426666666666668
+    ]
+   ],
+   "params": {
+    "n": 47
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 2,
+   "type": "chat",
+   "tag": "AMNESIA",
+   "start": 5.806,
+   "dur": 5.323,
+   "vo_start": 5.986,
+   "say": "A course you never finished. And an AI that forgets you... every single chat.",
+   "caption": "A course you never finished. And an AI that forgets you... every single chat.",
+   "words": [
+    [
+     "A",
+     0.18,
+     0.23912500000000003
+    ],
+    [
+     "course",
+     0.23912500000000003,
+     0.5391250000000001
+    ],
+    [
+     "you",
+     0.5391250000000001,
+     0.6391249999999999
+    ],
+    [
+     "never",
+     0.6391249999999999,
+     0.9516250000000002
+    ],
+    [
+     "finished",
+     0.9516250000000002,
+     1.589125
+    ],
+    [
+     "And",
+     1.689125,
+     1.8266250000000002
+    ],
+    [
+     "an",
+     1.8266250000000002,
+     1.964125
+    ],
+    [
+     "AI",
+     1.964125,
+     2.4141250000000003
+    ],
+    [
+     "that",
+     2.4141250000000003,
+     2.564125
+    ],
+    [
+     "forgets",
+     2.564125,
+     2.964125
+    ],
+    [
+     "you",
+     2.964125,
+     3.2641250000000004
+    ],
+    [
+     "every",
+     3.4141250000000003,
+     3.751625
+    ],
+    [
+     "single",
+     3.751625,
+     4.089125
+    ],
+    [
+     "chat",
+     4.089125,
+     4.639124999999999
+    ]
+   ],
+   "params": {
+    "label": "FORGOT YOU. AGAIN."
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": "glitch"
+  },
+  {
+   "idx": 3,
+   "type": "kinetic",
+   "tag": "TRUTH",
+   "start": 11.129,
+   "dur": 4.355,
+   "vo_start": 11.309,
+   "say": "That's not preparation. That's chaos.",
+   "caption": "That's not preparation. That's chaos.",
+   "words": [
+    [
+     "That's",
+     0.18,
+     0.4085833333333333
+    ],
+    [
+     "not",
+     0.4085833333333333,
+     0.5585833333333333
+    ],
+    [
+     "preparation",
+     0.5585833333333333,
+     1.3210833333333334
+    ],
+    [
+     "That's",
+     1.4210833333333333,
+     1.6960833333333334
+    ],
+    [
+     "chaos",
+     1.6960833333333334,
+     2.3960833333333333
+    ]
+   ],
+   "params": {
+    "lines": [
+     "THAT'S NOT ~PREPARATION.",
+     "THAT'S *CHAOS."
+    ],
+    "size": 130
+   },
+   "energy": 0,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 4,
+   "type": "screen",
+   "tag": "REVEAL",
+   "start": 15.484,
+   "dur": 4.839,
+   "vo_start": 15.834,
+   "say": "Meet Place IQ. The career OS... that actually remembers you.",
+   "caption": "Meet Placiq. The career OS... that actually remembers you.",
+   "words": [
+    [
+     "Meet",
+     0.3527916666666666,
+     0.5277916666666667
+    ],
+    [
+     "Place",
+     0.5277916666666667,
+     0.8277916666666667
+    ],
+    [
+     "IQ",
+     0.8277916666666667,
+     1.3027916666666668
+    ],
+    [
+     "The",
+     1.4027916666666669,
+     1.5027916666666665
+    ],
+    [
+     "career",
+     1.5027916666666665,
+     1.9402916666666665
+    ],
+    [
+     "OS",
+     1.9402916666666665,
+     2.6027916666666666
+    ],
+    [
+     "that",
+     2.7277916666666666,
+     2.902791666666667
+    ],
+    [
+     "actually",
+     2.902791666666667,
+     3.3277916666666667
+    ],
+    [
+     "remembers",
+     3.3277916666666667,
+     3.752791666666667
+    ],
+    [
+     "you",
+     3.752791666666667,
+     4.177791666666667
+    ]
+   ],
+   "params": {
+    "shot": "landing_hero",
+    "title": "Meet|Placiq.",
+    "sub": "the career OS that remembers you",
+    "zoom": 1.25,
+    "focus": [
+     0.35,
+     0.45
+    ],
+    "tagline": [
+     "AI-native",
+     "career intelligence",
+     "for engineers"
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "transition": "zoom"
+  },
+  {
+   "idx": 5,
+   "type": "screen",
+   "tag": "01 DIAGNOSE",
+   "start": 20.323,
+   "dur": 4.839,
+   "vo_start": 20.503,
+   "say": "It starts with a diagnosis. Where you are, right now, for the role you want.",
+   "caption": "It starts with a diagnosis. Where you are, right now, for the role you want.",
+   "words": [
+    [
+     "It",
+     0.18,
+     0.2635833333333333
+    ],
+    [
+     "starts",
+     0.2635833333333333,
+     0.5760833333333333
+    ],
+    [
+     "with",
+     0.5760833333333333,
+     0.6760833333333333
+    ],
+    [
+     "a",
+     0.6760833333333333,
+     0.7385833333333331
+    ],
+    [
+     "diagnosis",
+     0.7385833333333331,
+     1.813583333333333
+    ],
+    [
+     "Where",
+     1.9135833333333332,
+     2.0635833333333333
+    ],
+    [
+     "you",
+     2.0635833333333333,
+     2.2260833333333334
+    ],
+    [
+     "are",
+     2.2260833333333334,
+     2.4135833333333334
+    ],
+    [
+     "right",
+     2.4635833333333332,
+     2.6760833333333336
+    ],
+    [
+     "now",
+     2.6760833333333336,
+     2.9885833333333336
+    ],
+    [
+     "for",
+     3.0635833333333333,
+     3.1760833333333336
+    ],
+    [
+     "the",
+     3.1760833333333336,
+     3.2635833333333335
+    ],
+    [
+     "role",
+     3.2635833333333335,
+     3.5135833333333335
+    ],
+    [
+     "you",
+     3.5135833333333335,
+     3.6635833333333334
+    ],
+    [
+     "want",
+     3.6635833333333334,
+     4.213583333333333
+    ]
+   ],
+   "params": {
+    "shot": "readiness",
+    "layout": "left",
+    "title": "Diagnose.|Honestly.",
+    "sub": "readiness, not vanity scores",
+    "zoom": 1.45,
+    "focus": [
+     0.25,
+     0.3
+    ],
+    "callouts": [
+     [
+      "readiness score",
+      0.12,
+      0.3,
+      0.35
+     ],
+     [
+      "today's quests",
+      0.45,
+      0.2,
+      0.55
+     ],
+     [
+      "this week",
+      0.8,
+      0.3,
+      0.75
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 6,
+   "type": "loop",
+   "tag": "02 PRIORITIZE",
+   "start": 25.161,
+   "dur": 3.871,
+   "vo_start": 25.341,
+   "say": "Then it prioritizes. No more guessing what to learn next.",
+   "caption": "Then it prioritizes. No more guessing what to learn next.",
+   "words": [
+    [
+     "Then",
+     0.18,
+     0.2608333333333333
+    ],
+    [
+     "it",
+     0.2608333333333333,
+     0.34833333333333333
+    ],
+    [
+     "prioritizes",
+     0.34833333333333333,
+     1.4233333333333331
+    ],
+    [
+     "No",
+     1.5358333333333332,
+     1.7108333333333332
+    ],
+    [
+     "more",
+     1.7108333333333332,
+     1.9233333333333331
+    ],
+    [
+     "guessing",
+     1.9233333333333331,
+     2.2733333333333334
+    ],
+    [
+     "what",
+     2.2733333333333334,
+     2.4233333333333333
+    ],
+    [
+     "to",
+     2.4233333333333333,
+     2.5233333333333334
+    ],
+    [
+     "learn",
+     2.5233333333333334,
+     2.7483333333333335
+    ],
+    [
+     "next",
+     2.7483333333333335,
+     3.3733333333333335
+    ]
+   ],
+   "params": {
+    "steps": [
+     "Diagnose",
+     "Prioritize",
+     "Learn",
+     "Build",
+     "Evidence",
+     "Present",
+     "Reassess"
+    ],
+    "center": "no more guessing"
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 7,
+   "type": "array",
+   "tag": "03 LEARN",
+   "start": 29.032,
+   "dur": 4.839,
+   "vo_start": 29.212,
+   "say": "Learn D S A by watching it move. Every pointer. Every swap.",
+   "caption": "Learn DSA by watching it move. Every pointer. Every swap.",
+   "words": [
+    [
+     "Learn",
+     0.19266666666666665,
+     0.4426666666666667
+    ],
+    [
+     "D",
+     0.4426666666666667,
+     0.6176666666666666
+    ],
+    [
+     "S",
+     0.6176666666666666,
+     0.8176666666666668
+    ],
+    [
+     "A",
+     0.8176666666666668,
+     1.0426666666666666
+    ],
+    [
+     "by",
+     1.0426666666666666,
+     1.1926666666666665
+    ],
+    [
+     "watching",
+     1.1926666666666665,
+     1.5301666666666665
+    ],
+    [
+     "it",
+     1.5301666666666665,
+     1.6051666666666666
+    ],
+    [
+     "move",
+     1.6051666666666666,
+     2.1926666666666668
+    ],
+    [
+     "Every",
+     2.330166666666667,
+     2.642666666666667
+    ],
+    [
+     "pointer",
+     2.642666666666667,
+     3.1926666666666668
+    ],
+    [
+     "Every",
+     3.292666666666667,
+     3.592666666666667
+    ],
+    [
+     "swap",
+     3.592666666666667,
+     4.167666666666667
+    ]
+   ],
+   "params": {
+    "title": "WATCH IT MOVE."
+   },
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 8,
+   "type": "counter",
+   "tag": "DSA VISUALIZER",
+   "start": 33.871,
+   "dur": 3.387,
+   "vo_start": 34.051,
+   "say": "Over eighteen hundred interactive animations.",
+   "caption": "1,800+ interactive animations.",
+   "words": [
+    [
+     "Over",
+     0.18,
+     0.4340833333333333
+    ],
+    [
+     "eighteen",
+     0.4340833333333333,
+     0.9465833333333333
+    ],
+    [
+     "hundred",
+     0.9465833333333333,
+     1.3465833333333332
+    ],
+    [
+     "interactive",
+     1.3465833333333332,
+     1.9215833333333332
+    ],
+    [
+     "animations",
+     1.9215833333333332,
+     2.8215833333333333
+    ]
+   ],
+   "params": {
+    "n": 1800,
+    "suffix": "+",
+    "label": "INTERACTIVE DSA ANIMATIONS"
+   },
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 9,
+   "type": "screen",
+   "tag": "SOCRATIC TUTOR",
+   "start": 37.258,
+   "dur": 5.323,
+   "vo_start": 37.438,
+   "say": "With a Socratic tutor that asks you... before it tells you.",
+   "caption": "With a Socratic tutor that asks you... before it tells you.",
+   "words": [
+    [
+     "With",
+     0.18,
+     0.27399999999999997
+    ],
+    [
+     "a",
+     0.27399999999999997,
+     0.33649999999999997
+    ],
+    [
+     "Socratic",
+     0.33649999999999997,
+     0.9115
+    ],
+    [
+     "tutor",
+     0.9115,
+     1.2489999999999999
+    ],
+    [
+     "that",
+     1.2489999999999999,
+     1.3865
+    ],
+    [
+     "asks",
+     1.3865,
+     1.7115
+    ],
+    [
+     "you",
+     1.7115,
+     2.0365
+    ],
+    [
+     "before",
+     2.2115,
+     2.5490000000000004
+    ],
+    [
+     "it",
+     2.5490000000000004,
+     2.6365000000000003
+    ],
+    [
+     "tells",
+     2.6365000000000003,
+     2.9615
+    ],
+    [
+     "you",
+     2.9615,
+     3.3615000000000004
+    ]
+   ],
+   "params": {
+    "shot": "dsa_visualizer",
+    "title": "It asks|before it|tells.",
+    "zoom": 1.5,
+    "focus": [
+     0.45,
+     0.55
+    ],
+    "callouts": [
+     [
+      "step-through",
+      0.3,
+      0.55,
+      0.3
+     ],
+     [
+      "live code",
+      0.82,
+      0.4,
+      0.6
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 10,
+   "type": "screen",
+   "tag": "04 BUILD",
+   "start": 42.581,
+   "dur": 5.323,
+   "vo_start": 42.931,
+   "say": "Build real projects, checkpoint by checkpoint, with a tutor that knows your code.",
+   "caption": "Build real projects, checkpoint by checkpoint, with a tutor that knows your code.",
+   "words": [
+    [
+     "Build",
+     0.35,
+     0.6063333333333333
+    ],
+    [
+     "real",
+     0.6063333333333333,
+     0.8563333333333333
+    ],
+    [
+     "projects",
+     0.8563333333333333,
+     1.5813333333333333
+    ],
+    [
+     "checkpoint",
+     1.6938333333333335,
+     2.1688333333333336
+    ],
+    [
+     "by",
+     2.1688333333333336,
+     2.3438333333333334
+    ],
+    [
+     "checkpoint",
+     2.3438333333333334,
+     3.0563333333333333
+    ],
+    [
+     "with",
+     3.1313333333333335,
+     3.2688333333333333
+    ],
+    [
+     "a",
+     3.2688333333333333,
+     3.3438333333333334
+    ],
+    [
+     "tutor",
+     3.3438333333333334,
+     3.7063333333333333
+    ],
+    [
+     "that",
+     3.7063333333333333,
+     3.8563333333333336
+    ],
+    [
+     "knows",
+     3.8563333333333336,
+     4.093833333333333
+    ],
+    [
+     "your",
+     4.093833333333333,
+     4.206333333333333
+    ],
+    [
+     "code",
+     4.206333333333333,
+     4.806333333333333
+    ]
+   ],
+   "params": {
+    "shot": "editor",
+    "layout": "center",
+    "title": "BUILD REAL THINGS.",
+    "zoom": 1.35,
+    "focus": [
+     0.3,
+     0.4
+    ],
+    "callouts": [
+     [
+      "checkpoint 3/7",
+      0.2,
+      0.25,
+      0.3
+     ],
+     [
+      "project-aware tutor",
+      0.78,
+      0.35,
+      0.55
+     ]
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "transition": "wipe"
+  },
+  {
+   "idx": 11,
+   "type": "grid",
+   "tag": "05 EVIDENCE",
+   "start": 47.903,
+   "dur": 4.839,
+   "vo_start": 48.083,
+   "say": "Every commit. Every fix. Every decision... becomes evidence.",
+   "caption": "Every commit. Every fix. Every decision... becomes evidence.",
+   "words": [
+    [
+     "Every",
+     0.18,
+     0.46637499999999993
+    ],
+    [
+     "commit",
+     0.46637499999999993,
+     0.9163749999999999
+    ],
+    [
+     "Every",
+     0.9913750000000001,
+     1.3288749999999998
+    ],
+    [
+     "fix",
+     1.3288749999999998,
+     1.741375
+    ],
+    [
+     "Every",
+     1.841375,
+     2.166375
+    ],
+    [
+     "decision",
+     2.166375,
+     2.791375
+    ],
+    [
+     "becomes",
+     2.903875,
+     3.303875
+    ],
+    [
+     "evidence",
+     3.303875,
+     4.091375
+    ]
+   ],
+   "params": {},
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 12,
+   "type": "screen",
+   "tag": "RESUME INTELLIGENCE",
+   "start": 52.742,
+   "dur": 3.871,
+   "vo_start": 52.922,
+   "say": "Resume Intelligence checks your claims, with a recruiter's eye.",
+   "caption": "Resume Intelligence checks your claims, with a recruiter's eye.",
+   "words": [
+    [
+     "Resume",
+     0.18,
+     0.5570833333333334
+    ],
+    [
+     "Intelligence",
+     0.5570833333333334,
+     1.2320833333333334
+    ],
+    [
+     "checks",
+     1.2320833333333334,
+     1.4945833333333334
+    ],
+    [
+     "your",
+     1.4945833333333334,
+     1.6070833333333334
+    ],
+    [
+     "claims",
+     1.6070833333333334,
+     2.2570833333333336
+    ],
+    [
+     "with",
+     2.3570833333333336,
+     2.4945833333333334
+    ],
+    [
+     "a",
+     2.4945833333333334,
+     2.5570833333333334
+    ],
+    [
+     "recruiter's",
+     2.5570833333333334,
+     3.0320833333333335
+    ],
+    [
+     "eye",
+     3.0320833333333335,
+     3.5320833333333335
+    ]
+   ],
+   "params": {
+    "shot": "resume_intel",
+    "title": "Claims,|checked.",
+    "sub": "a technical recruiter's rubric",
+    "zoom": 1.4,
+    "focus": [
+     0.6,
+     0.55
+    ],
+    "callouts": [
+     [
+      "ATS + recruiter signals",
+      0.62,
+      0.45,
+      0.4
+     ],
+     [
+      "classified skills",
+      0.55,
+      0.8,
+      0.65
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 13,
+   "type": "screen",
+   "tag": "06 PRESENT",
+   "start": 56.613,
+   "dur": 5.323,
+   "vo_start": 56.793,
+   "say": "And your Skill Passport shows the work. Not just the words.",
+   "caption": "And your Skill Passport shows the work. Not just the words.",
+   "words": [
+    [
+     "And",
+     0.18,
+     0.2595
+    ],
+    [
+     "your",
+     0.2595,
+     0.4095
+    ],
+    [
+     "Skill",
+     0.4095,
+     0.722
+    ],
+    [
+     "Passport",
+     0.722,
+     1.2845
+    ],
+    [
+     "shows",
+     1.2845,
+     1.5845
+    ],
+    [
+     "the",
+     1.5845,
+     1.672
+    ],
+    [
+     "work",
+     1.672,
+     2.1220000000000003
+    ],
+    [
+     "Not",
+     2.2345,
+     2.4720000000000004
+    ],
+    [
+     "just",
+     2.4720000000000004,
+     2.6595000000000004
+    ],
+    [
+     "the",
+     2.6595000000000004,
+     2.7470000000000003
+    ],
+    [
+     "words",
+     2.7470000000000003,
+     3.3720000000000003
+    ]
+   ],
+   "params": {
+    "shot": "skill_passport",
+    "layout": "left",
+    "title": "Show the|work.",
+    "sub": "not just the words",
+    "zoom": 1.3,
+    "focus": [
+     0.5,
+     0.3
+    ],
+    "callouts": [
+     [
+      "verified badges",
+      0.4,
+      0.6,
+      0.5
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 14,
+   "type": "montage",
+   "tag": "07 REASSESS",
+   "start": 61.935,
+   "dur": 4.839,
+   "vo_start": 62.285,
+   "say": "Diagnose. Prioritize. Learn. Build. Prove. Present. Repeat.",
+   "caption": "Diagnose. Prioritize. Learn. Build. Prove. Present. Repeat.",
+   "words": [
+    [
+     "Diagnose",
+     0.35,
+     0.972625
+    ],
+    [
+     "Prioritize",
+     1.0226250000000001,
+     1.8726249999999998
+    ],
+    [
+     "Learn",
+     1.9601250000000001,
+     2.197625
+    ],
+    [
+     "Build",
+     2.247625,
+     2.622625
+    ],
+    [
+     "Prove",
+     2.710125,
+     3.147625
+    ],
+    [
+     "Present",
+     3.222625,
+     3.647625
+    ],
+    [
+     "Repeat",
+     3.697625,
+     4.372625
+    ]
+   ],
+   "params": {
+    "words": [
+     "DIAGNOSE",
+     "PRIORITIZE",
+     "LEARN",
+     "BUILD",
+     "PROVE",
+     "PRESENT",
+     "REPEAT"
+    ],
+    "shots": [
+     "readiness",
+     "copilot",
+     "dsa_visualizer",
+     "editor",
+     "analyzer",
+     "portfolio",
+     "level_up"
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "transition": null
+  },
+  {
+   "idx": 15,
+   "type": "graph",
+   "tag": "CONNECTED",
+   "start": 66.774,
+   "dur": 5.323,
+   "vo_start": 66.954,
+   "say": "Your D S A, your projects, your GitHub, your resume, your goals... finally, connected.",
+   "caption": "Your DSA, your projects, your GitHub, your resume, your goals... finally, connected.",
+   "words": [
+    [
+     "Your",
+     0.18,
+     0.2640416666666667
+    ],
+    [
+     "D",
+     0.2640416666666667,
+     0.4390416666666667
+    ],
+    [
+     "S",
+     0.4390416666666667,
+     0.6390416666666667
+    ],
+    [
+     "A",
+     0.6390416666666667,
+     0.8390416666666667
+    ],
+    [
+     "your",
+     0.8890416666666667,
+     1.0140416666666667
+    ],
+    [
+     "projects",
+     1.0140416666666667,
+     1.4890416666666668
+    ],
+    [
+     "your",
+     1.5265416666666665,
+     1.6390416666666667
+    ],
+    [
+     "GitHub",
+     1.6390416666666667,
+     1.9390416666666666
+    ],
+    [
+     "your",
+     1.9890416666666668,
+     2.114041666666667
+    ],
+    [
+     "resume",
+     2.114041666666667,
+     2.489041666666667
+    ],
+    [
+     "your",
+     2.526541666666667,
+     2.639041666666667
+    ],
+    [
+     "goals",
+     2.639041666666667,
+     3.3140416666666668
+    ],
+    [
+     "finally",
+     3.476541666666667,
+     3.964041666666667
+    ],
+    [
+     "connected",
+     4.039041666666667,
+     4.814041666666666
+    ]
+   ],
+   "params": {
+    "nodes": [
+     "DSA",
+     "Projects",
+     "GitHub",
+     "Resume",
+     "Career goals",
+     "Memory"
+    ],
+    "mesh": true
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 16,
+   "type": "cta",
+   "tag": "PLACIQ",
+   "start": 72.097,
+   "dur": 8.226,
+   "vo_start": 72.277,
+   "say": "Place IQ. Your work... connected. Start free, at learn dot place I Q dot in.",
+   "caption": "Placiq. Your work... connected. Start free at learn.placiq.in",
+   "words": [
+    [
+     "Place",
+     0.18,
+     0.3885
+    ],
+    [
+     "IQ",
+     0.3885,
+     0.776
+    ],
+    [
+     "Your",
+     0.851,
+     1.001
+    ],
+    [
+     "work",
+     1.001,
+     1.426
+    ],
+    [
+     "connected",
+     1.551,
+     2.301
+    ],
+    [
+     "Start",
+     2.4385000000000003,
+     2.7885
+    ],
+    [
+     "free",
+     2.7885,
+     3.1260000000000003
+    ],
+    [
+     "at",
+     3.201,
+     3.326
+    ],
+    [
+     "learn",
+     3.326,
+     3.576
+    ],
+    [
+     "dot",
+     3.576,
+     3.826
+    ],
+    [
+     "place",
+     3.826,
+     4.176
+    ],
+    [
+     "I",
+     4.176,
+     4.3260000000000005
+    ],
+    [
+     "Q",
+     4.3260000000000005,
+     4.526
+    ],
+    [
+     "dot",
+     4.526,
+     4.7635000000000005
+    ],
+    [
+     "in",
+     4.7635000000000005,
+     5.225999999999999
+    ]
+   ],
+   "params": {
+    "tag": "Your work, connected."
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": "flash"
+  }
+ ],
+ "sfx_events": [
+  {
+   "t": 0.155,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.155,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 0.53,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.53,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 0.742,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.742,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 0.855,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 0
+  },
+  {
+   "t": 0.855,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 2.185,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.204,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.231,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.263,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.299,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.337,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.377,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.42,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.464,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.511,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.558,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.607,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.658,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.71,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.763,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.817,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.872,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.929,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 2.986,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.044,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.103,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.163,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.224,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.286,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.349,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.412,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.476,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.541,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.607,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.673,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.74,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.808,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.876,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 3.945,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.015,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.085,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.156,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.228,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.3,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.372,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.445,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.519,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.593,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.668,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.744,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.819,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 4.896,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 1
+  },
+  {
+   "t": 1.515,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 1
+  },
+  {
+   "t": 5.906,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 5.963,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.024,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.109,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.166,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.251,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.312,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.362,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.413,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.493,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.542,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.615,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.681,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.744,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.831,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.883,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 6.943,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.018,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.07,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.132,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.206,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.289,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.366,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.436,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.518,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.594,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.669,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.749,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.812,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.865,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 7.947,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.106,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 2
+  },
+  {
+   "t": 8.006,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 8.453,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 8.899,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 9.345,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 9.791,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 10.237,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 10.683,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 5.386,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 2
+  },
+  {
+   "t": 5.806,
+   "kind": "glitch",
+   "gain": 0.6,
+   "scene": 2
+  },
+  {
+   "t": 11.249,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 11.478,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 11.628,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 12.49,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 12.765,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 3
+  },
+  {
+   "t": 10.709,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 3
+  },
+  {
+   "t": 15.484,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 4
+  },
+  {
+   "t": 15.064,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 4
+  },
+  {
+   "t": 15.484,
+   "kind": "bass",
+   "gain": 0.6,
+   "scene": 4
+  },
+  {
+   "t": 20.323,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 5
+  },
+  {
+   "t": 22.016,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 5
+  },
+  {
+   "t": 22.984,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 5
+  },
+  {
+   "t": 23.952,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 5
+  },
+  {
+   "t": 19.903,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 5
+  },
+  {
+   "t": 25.281,
+   "kind": "tick",
+   "gain": 1.0,
+   "scene": 6
+  },
+  {
+   "t": 25.45,
+   "kind": "tick",
+   "gain": 1.0,
+   "scene": 6
+  },
+  {
+   "t": 26.637,
+   "kind": "tick",
+   "gain": 1.0,
+   "scene": 6
+  },
+  {
+   "t": 26.812,
+   "kind": "tick",
+   "gain": 1.0,
+   "scene": 6
+  },
+  {
+   "t": 27.375,
+   "kind": "tick",
+   "gain": 1.0,
+   "scene": 6
+  },
+  {
+   "t": 27.625,
+   "kind": "tick",
+   "gain": 1.0,
+   "scene": 6
+  },
+  {
+   "t": 27.85,
+   "kind": "tick",
+   "gain": 1.0,
+   "scene": 6
+  },
+  {
+   "t": 24.741,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 6
+  },
+  {
+   "t": 29.032,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 7
+  },
+  {
+   "t": 29.637,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 7
+  },
+  {
+   "t": 30.242,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 7
+  },
+  {
+   "t": 30.847,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 7
+  },
+  {
+   "t": 31.452,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 7
+  },
+  {
+   "t": 32.056,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 7
+  },
+  {
+   "t": 28.612,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 7
+  },
+  {
+   "t": 33.971,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.026,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.084,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.144,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.208,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.275,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.345,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.419,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.496,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.577,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.663,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.752,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.846,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 34.945,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 35.049,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 35.158,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 35.272,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 35.392,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 35.518,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 35.651,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 35.771,
+   "kind": "bass",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 33.451,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 8
+  },
+  {
+   "t": 37.258,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 9
+  },
+  {
+   "t": 38.855,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 9
+  },
+  {
+   "t": 40.452,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 9
+  },
+  {
+   "t": 36.838,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 9
+  },
+  {
+   "t": 42.581,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 10
+  },
+  {
+   "t": 44.177,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 10
+  },
+  {
+   "t": 45.508,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 10
+  },
+  {
+   "t": 42.161,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 10
+  },
+  {
+   "t": 49.597,
+   "kind": "bass",
+   "gain": 0.7,
+   "scene": 11
+  },
+  {
+   "t": 50.565,
+   "kind": "glitch",
+   "gain": 0.7,
+   "scene": 11
+  },
+  {
+   "t": 50.565,
+   "kind": "whoosh",
+   "gain": 0.5,
+   "scene": 11
+  },
+  {
+   "t": 47.483,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 11
+  },
+  {
+   "t": 52.742,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 12
+  },
+  {
+   "t": 54.29,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 55.258,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 52.322,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 12
+  },
+  {
+   "t": 56.613,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 13
+  },
+  {
+   "t": 59.274,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 13
+  },
+  {
+   "t": 56.193,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 13
+  },
+  {
+   "t": 62.175,
+   "kind": "bass",
+   "gain": 0.45,
+   "scene": 14
+  },
+  {
+   "t": 62.175,
+   "kind": "click",
+   "gain": 0.7,
+   "scene": 14
+  },
+  {
+   "t": 62.848,
+   "kind": "bass",
+   "gain": 0.45,
+   "scene": 14
+  },
+  {
+   "t": 62.848,
+   "kind": "click",
+   "gain": 0.7,
+   "scene": 14
+  },
+  {
+   "t": 63.786,
+   "kind": "bass",
+   "gain": 0.45,
+   "scene": 14
+  },
+  {
+   "t": 63.786,
+   "kind": "click",
+   "gain": 0.7,
+   "scene": 14
+  },
+  {
+   "t": 64.073,
+   "kind": "bass",
+   "gain": 0.45,
+   "scene": 14
+  },
+  {
+   "t": 64.073,
+   "kind": "click",
+   "gain": 0.7,
+   "scene": 14
+  },
+  {
+   "t": 64.536,
+   "kind": "bass",
+   "gain": 0.45,
+   "scene": 14
+  },
+  {
+   "t": 64.536,
+   "kind": "click",
+   "gain": 0.7,
+   "scene": 14
+  },
+  {
+   "t": 65.048,
+   "kind": "bass",
+   "gain": 0.45,
+   "scene": 14
+  },
+  {
+   "t": 65.048,
+   "kind": "click",
+   "gain": 0.7,
+   "scene": 14
+  },
+  {
+   "t": 65.523,
+   "kind": "bass",
+   "gain": 0.45,
+   "scene": 14
+  },
+  {
+   "t": 65.523,
+   "kind": "click",
+   "gain": 0.7,
+   "scene": 14
+  },
+  {
+   "t": 61.515,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 14
+  },
+  {
+   "t": 66.894,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 15
+  },
+  {
+   "t": 67.353,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 15
+  },
+  {
+   "t": 67.728,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 15
+  },
+  {
+   "t": 68.703,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 15
+  },
+  {
+   "t": 69.241,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 15
+  },
+  {
+   "t": 70.753,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 15
+  },
+  {
+   "t": 66.354,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 15
+  },
+  {
+   "t": 72.147,
+   "kind": "stinger",
+   "gain": 0.55,
+   "scene": 16
+  },
+  {
+   "t": 73.197,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 16
+  },
+  {
+   "t": 73.897,
+   "kind": "click",
+   "gain": 1.0,
+   "scene": 16
+  },
+  {
+   "t": 71.677,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 16
+  }
+ ]
+}

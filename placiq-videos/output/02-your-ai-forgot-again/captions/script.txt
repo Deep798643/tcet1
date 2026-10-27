@@ -1,0 +1,14 @@
+"Hi! I'm a 3rd-year CSE student, preparing for placements..."
+Sound familiar? You've typed that intro... a hundred times.
+And every time... it says: "Nice to meet you!"
+47 tabs. Zero context.
+It doesn't know you cracked two-pointers last night.
+It doesn't know your project broke at checkpoint three.
+It doesn't know anything. So... it guesses.
+Placiq fixes that... with PCME. Persistent Context Memory.
+Your strengths. Your mistakes. Your progress. Stitched into one memory.
+So your Placement Copilot opens with you. Not with zero.
+Ask what to fix next... and get an answer built on your actual work.
+Your readiness. Your quests. Your next move.
+Your AI doesn't start from zero anymore. It starts... from you.
+Placiq. Stop repeating yourself. learn.placiq.in

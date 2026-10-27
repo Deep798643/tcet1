@@ -1,0 +1,33 @@
+{
+ "final": {
+  "integrated_lufs": -15.0,
+  "true_peak_dbtp": -1.3
+ },
+ "music_only": {
+  "integrated_lufs": -14.2,
+  "true_peak_dbtp": -1.2
+ },
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1"
+   },
+   {
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "r_frame_rate": "0/0"
+   }
+  ],
+  "format": {
+   "duration": "69.070000"
+  }
+ },
+ "narration_voiced_ratio": 0.648,
+ "music_rms_dbfs": -11.39,
+ "duration": 69.06976744186046
+}

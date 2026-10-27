@@ -1,0 +1,2200 @@
+{
+ "title": "YOUR AI FORGOT AGAIN. - Placiq x PCME",
+ "bpm": 140,
+ "style": "trap",
+ "voice": "am_puck",
+ "tts": "Kokoro-82M (local, Apache-2.0)",
+ "duration": 55.714,
+ "scenes": [
+  {
+   "idx": 0,
+   "type": "chat",
+   "tag": "SESSION #100",
+   "start": 0.0,
+   "dur": 4.286,
+   "vo_start": 0.18,
+   "say": "Hi! I'm a third-year C S E student, preparing for placements...",
+   "caption": "\"Hi! I'm a 3rd-year CSE student, preparing for placements...\"",
+   "words": [
+    [
+     "Hi",
+     0.18,
+     0.4257916666666667
+    ],
+    [
+     "I'm",
+     0.5007916666666667,
+     0.6382916666666667
+    ],
+    [
+     "a",
+     0.6382916666666667,
+     0.7382916666666666
+    ],
+    [
+     "third-year",
+     0.7382916666666666,
+     1.1882916666666665
+    ],
+    [
+     "C",
+     1.1882916666666665,
+     1.4507916666666667
+    ],
+    [
+     "S",
+     1.4507916666666667,
+     1.6507916666666667
+    ],
+    [
+     "E",
+     1.6507916666666667,
+     1.8007916666666666
+    ],
+    [
+     "student",
+     1.8007916666666666,
+     2.175791666666667
+    ],
+    [
+     "preparing",
+     2.225791666666667,
+     2.6507916666666667
+    ],
+    [
+     "for",
+     2.6507916666666667,
+     2.7757916666666667
+    ],
+    [
+     "placements",
+     2.7757916666666667,
+     3.800791666666667
+    ]
+   ],
+   "params": {
+    "recursion": false,
+    "type_dur": 2.6
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": "glitch"
+  },
+  {
+   "idx": 1,
+   "type": "counter",
+   "tag": "DEJA VU",
+   "start": 4.286,
+   "dur": 4.286,
+   "vo_start": 4.466,
+   "say": "Sound familiar? You've typed that intro... a hundred times.",
+   "caption": "Sound familiar? You've typed that intro... a hundred times.",
+   "words": [
+    [
+     "Sound",
+     0.18,
+     0.42770833333333336
+    ],
+    [
+     "familiar",
+     0.42770833333333336,
+     0.8777083333333333
+    ],
+    [
+     "You've",
+     0.9277083333333334,
+     1.0777083333333333
+    ],
+    [
+     "typed",
+     1.0777083333333333,
+     1.3152083333333333
+    ],
+    [
+     "that",
+     1.3152083333333333,
+     1.4402083333333333
+    ],
+    [
+     "intro",
+     1.4402083333333333,
+     1.8527083333333334
+    ],
+    [
+     "a",
+     1.9777083333333334,
+     2.0777083333333337
+    ],
+    [
+     "hundred",
+     2.0777083333333337,
+     2.4277083333333334
+    ],
+    [
+     "times",
+     2.4277083333333334,
+     3.3027083333333334
+    ]
+   ],
+   "params": {
+    "n": 100,
+    "suffix": "x",
+    "label": "SAME INTRO. SAME ADVICE."
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 2,
+   "type": "chat",
+   "tag": "LOOP",
+   "start": 8.571,
+   "dur": 3.429,
+   "vo_start": 8.751,
+   "say": "And every time... it says, nice to meet you!",
+   "caption": "And every time... it says: \"Nice to meet you!\"",
+   "words": [
+    [
+     "And",
+     0.18,
+     0.27999999999999997
+    ],
+    [
+     "every",
+     0.27999999999999997,
+     0.58
+    ],
+    [
+     "time",
+     0.58,
+     0.905
+    ],
+    [
+     "it",
+     0.9924999999999999,
+     1.08
+    ],
+    [
+     "says",
+     1.08,
+     1.28
+    ],
+    [
+     "nice",
+     1.3175,
+     1.555
+    ],
+    [
+     "to",
+     1.555,
+     1.6425
+    ],
+    [
+     "meet",
+     1.6425,
+     1.83
+    ],
+    [
+     "you",
+     1.83,
+     2.355
+    ]
+   ],
+   "params": {
+    "session0": 1,
+    "label": "NICE TO MEET YOU. AGAIN.",
+    "type_dur": 0.5
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 3,
+   "type": "tabs",
+   "tag": "47 TABS",
+   "start": 12.0,
+   "dur": 2.571,
+   "vo_start": 12.18,
+   "say": "Forty-seven tabs. Zero context.",
+   "caption": "47 tabs. Zero context.",
+   "words": [
+    [
+     "Forty-seven",
+     0.18,
+     0.7492916666666667
+    ],
+    [
+     "tabs",
+     0.7492916666666667,
+     1.0742916666666666
+    ],
+    [
+     "Zero",
+     1.1242916666666665,
+     1.3992916666666666
+    ],
+    [
+     "context",
+     1.3992916666666666,
+     2.324291666666667
+    ]
+   ],
+   "params": {
+    "n": 47
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": "wipe"
+  },
+  {
+   "idx": 4,
+   "type": "array",
+   "tag": "IT DOESN'T KNOW",
+   "start": 14.571,
+   "dur": 3.429,
+   "vo_start": 14.751,
+   "say": "It doesn't know you cracked two-pointers last night.",
+   "caption": "It doesn't know you cracked two-pointers last night.",
+   "words": [
+    [
+     "It",
+     0.18,
+     0.220625
+    ],
+    [
+     "doesn't",
+     0.220625,
+     0.445625
+    ],
+    [
+     "know",
+     0.445625,
+     0.608125
+    ],
+    [
+     "you",
+     0.608125,
+     0.733125
+    ],
+    [
+     "cracked",
+     0.733125,
+     1.058125
+    ],
+    [
+     "two-pointers",
+     1.058125,
+     1.658125
+    ],
+    [
+     "last",
+     1.658125,
+     1.945625
+    ],
+    [
+     "night",
+     1.945625,
+     2.6081250000000002
+    ]
+   ],
+   "params": {
+    "title": "IT DOESN'T KNOW..."
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 5,
+   "type": "graveyard",
+   "tag": "IT DOESN'T KNOW",
+   "start": 18.0,
+   "dur": 3.429,
+   "vo_start": 18.18,
+   "say": "It doesn't know your project broke at checkpoint three.",
+   "caption": "It doesn't know your project broke at checkpoint three.",
+   "words": [
+    [
+     "It",
+     0.18,
+     0.22183333333333333
+    ],
+    [
+     "doesn't",
+     0.22183333333333333,
+     0.4718333333333333
+    ],
+    [
+     "know",
+     0.4718333333333333,
+     0.6218333333333332
+    ],
+    [
+     "your",
+     0.6218333333333332,
+     0.7343333333333333
+    ],
+    [
+     "project",
+     0.7343333333333333,
+     1.1843333333333332
+    ],
+    [
+     "broke",
+     1.1843333333333332,
+     1.4218333333333333
+    ],
+    [
+     "at",
+     1.4218333333333333,
+     1.5093333333333332
+    ],
+    [
+     "checkpoint",
+     1.5093333333333332,
+     1.9593333333333334
+    ],
+    [
+     "three",
+     1.9593333333333334,
+     2.659333333333333
+    ]
+   ],
+   "params": {
+    "files": [
+     "chat-app/",
+     "checkpoint-1",
+     "checkpoint-2",
+     "checkpoint-3",
+     "auth-broken",
+     "help.txt"
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 6,
+   "type": "kinetic",
+   "tag": "SO IT GUESSES",
+   "start": 21.429,
+   "dur": 2.571,
+   "vo_start": 21.609,
+   "say": "It doesn't know anything. So... it guesses.",
+   "caption": "It doesn't know anything. So... it guesses.",
+   "words": [
+    [
+     "It",
+     0.18,
+     0.20795833333333333
+    ],
+    [
+     "doesn't",
+     0.20795833333333333,
+     0.43295833333333333
+    ],
+    [
+     "know",
+     0.43295833333333333,
+     0.5954583333333333
+    ],
+    [
+     "anything",
+     0.5954583333333333,
+     0.9954583333333333
+    ],
+    [
+     "So",
+     1.0454583333333334,
+     1.2704583333333332
+    ],
+    [
+     "it",
+     1.3829583333333333,
+     1.4704583333333334
+    ],
+    [
+     "guesses",
+     1.4704583333333334,
+     2.3454583333333336
+    ]
+   ],
+   "params": {
+    "lines": [
+     "IT DOESN'T KNOW _ANYTHING.",
+     "SO IT *GUESSES."
+    ],
+    "style": "slam",
+    "size": 120
+   },
+   "energy": 0,
+   "drop": false,
+   "transition": "glitch"
+  },
+  {
+   "idx": 7,
+   "type": "graph",
+   "tag": "PCME",
+   "start": 24.0,
+   "dur": 5.143,
+   "vo_start": 24.35,
+   "say": "Place IQ fixes that... with P, C, M, E. Persistent context memory.",
+   "caption": "Placiq fixes that... with PCME. Persistent Context Memory.",
+   "words": [
+    [
+     "Place",
+     0.35,
+     0.550125
+    ],
+    [
+     "IQ",
+     0.550125,
+     0.9126249999999999
+    ],
+    [
+     "fixes",
+     0.9126249999999999,
+     1.300125
+    ],
+    [
+     "that",
+     1.300125,
+     1.6251250000000002
+    ],
+    [
+     "with",
+     1.712625,
+     1.8876249999999999
+    ],
+    [
+     "P",
+     1.8876249999999999,
+     2.125125
+    ],
+    [
+     "C",
+     2.212625,
+     2.450125
+    ],
+    [
+     "M",
+     2.525125,
+     2.825125
+    ],
+    [
+     "E.",
+     2.900125,
+     3.050125
+    ],
+    [
+     "Persistent",
+     3.050125,
+     3.525125
+    ],
+    [
+     "context",
+     3.525125,
+     4.025125
+    ],
+    [
+     "memory",
+     4.025125,
+     4.900125
+    ]
+   ],
+   "params": {
+    "center": "PCME",
+    "nodes": [
+     "DSA",
+     "Resume",
+     "Projects",
+     "GitHub",
+     "Career",
+     "Chats"
+    ],
+    "title": "PERSISTENT CONTEXT MEMORY"
+   },
+   "energy": 3,
+   "drop": true,
+   "transition": "zoom"
+  },
+  {
+   "idx": 8,
+   "type": "notes",
+   "tag": "MEMORY",
+   "start": 29.143,
+   "dur": 4.286,
+   "vo_start": 29.323,
+   "say": "Your strengths. Your mistakes. Your progress. Stitched into one memory.",
+   "caption": "Your strengths. Your mistakes. Your progress. Stitched into one memory.",
+   "words": [
+    [
+     "Your",
+     0.18,
+     0.2612083333333334
+    ],
+    [
+     "strengths",
+     0.2612083333333334,
+     0.6362083333333333
+    ],
+    [
+     "Your",
+     0.6737083333333334,
+     0.7987083333333334
+    ],
+    [
+     "mistakes",
+     0.7987083333333334,
+     1.2362083333333334
+    ],
+    [
+     "Your",
+     1.2737083333333334,
+     1.4112083333333334
+    ],
+    [
+     "progress",
+     1.4112083333333334,
+     1.9362083333333333
+    ],
+    [
+     "Stitched",
+     1.9862083333333334,
+     2.2737083333333334
+    ],
+    [
+     "into",
+     2.2737083333333334,
+     2.5112083333333333
+    ],
+    [
+     "one",
+     2.5112083333333333,
+     2.7362083333333334
+    ],
+    [
+     "memory",
+     2.7362083333333334,
+     3.5862083333333334
+    ]
+   ],
+   "params": {
+    "notes": [
+     "strong: arrays",
+     "off-by-one: fixed",
+     "weak: DP, improving",
+     "movie app: M2 done",
+     "resume: +3 metrics",
+     "goal: SDE-1"
+    ]
+   },
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 9,
+   "type": "screen",
+   "tag": "PLACEMENT COPILOT",
+   "start": 33.429,
+   "dur": 3.429,
+   "vo_start": 33.609,
+   "say": "So your Placement Copilot opens with you. Not with zero.",
+   "caption": "So your Placement Copilot opens with you. Not with zero.",
+   "words": [
+    [
+     "So",
+     0.18,
+     0.22008333333333333
+    ],
+    [
+     "your",
+     0.22008333333333333,
+     0.33258333333333334
+    ],
+    [
+     "Placement",
+     0.33258333333333334,
+     0.7575833333333333
+    ],
+    [
+     "Copilot",
+     0.7575833333333333,
+     1.2325833333333334
+    ],
+    [
+     "opens",
+     1.2325833333333334,
+     1.6075833333333334
+    ],
+    [
+     "with",
+     1.6075833333333334,
+     1.7825833333333334
+    ],
+    [
+     "you",
+     1.7825833333333334,
+     2.032583333333333
+    ],
+    [
+     "Not",
+     2.1325833333333333,
+     2.3200833333333333
+    ],
+    [
+     "with",
+     2.3200833333333333,
+     2.4825833333333334
+    ],
+    [
+     "zero",
+     2.4825833333333334,
+     3.282583333333333
+    ]
+   ],
+   "params": {
+    "shot": "copilot",
+    "title": "Opens with|you.",
+    "sub": "not with zero",
+    "zoom": 1.5,
+    "focus": [
+     0.45,
+     0.3
+    ],
+    "callouts": [
+     [
+      "context in use",
+      0.86,
+      0.3,
+      0.35
+     ],
+     [
+      "plan from your work",
+      0.45,
+      0.25,
+      0.6
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 10,
+   "type": "screen",
+   "tag": "ASK ANYTHING",
+   "start": 36.857,
+   "dur": 4.286,
+   "vo_start": 37.037,
+   "say": "Ask what to fix next... and get an answer built on your actual work.",
+   "caption": "Ask what to fix next... and get an answer built on your actual work.",
+   "words": [
+    [
+     "Ask",
+     0.18,
+     0.4202083333333333
+    ],
+    [
+     "what",
+     0.4202083333333333,
+     0.5452083333333333
+    ],
+    [
+     "to",
+     0.5452083333333333,
+     0.6702083333333333
+    ],
+    [
+     "fix",
+     0.6702083333333333,
+     0.9827083333333333
+    ],
+    [
+     "next",
+     0.9827083333333333,
+     1.4327083333333333
+    ],
+    [
+     "and",
+     1.5327083333333333,
+     1.6577083333333333
+    ],
+    [
+     "get",
+     1.6577083333333333,
+     1.7952083333333333
+    ],
+    [
+     "an",
+     1.7952083333333333,
+     1.8827083333333332
+    ],
+    [
+     "answer",
+     1.8827083333333332,
+     2.2827083333333333
+    ],
+    [
+     "built",
+     2.2827083333333333,
+     2.5202083333333336
+    ],
+    [
+     "on",
+     2.5202083333333336,
+     2.6202083333333337
+    ],
+    [
+     "your",
+     2.6202083333333337,
+     2.7702083333333336
+    ],
+    [
+     "actual",
+     2.7702083333333336,
+     3.1577083333333333
+    ],
+    [
+     "work",
+     3.1577083333333333,
+     3.8827083333333334
+    ]
+   ],
+   "params": {
+    "shot": "copilot",
+    "layout": "center",
+    "title": "WHAT SHOULD I FIX NEXT?",
+    "zoom": 1.8,
+    "focus": [
+     0.5,
+     0.45
+    ],
+    "callouts": [
+     [
+      "remembers your DSA",
+      0.3,
+      0.4,
+      0.35
+     ],
+     [
+      "knows your projects",
+      0.65,
+      0.55,
+      0.6
+     ]
+    ]
+   },
+   "energy": 3,
+   "drop": false,
+   "transition": "wipe"
+  },
+  {
+   "idx": 11,
+   "type": "screen",
+   "tag": "READINESS",
+   "start": 41.143,
+   "dur": 2.571,
+   "vo_start": 41.323,
+   "say": "Your readiness. Your quests. Your next move.",
+   "caption": "Your readiness. Your quests. Your next move.",
+   "words": [
+    [
+     "Your",
+     0.18,
+     0.26104166666666667
+    ],
+    [
+     "readiness",
+     0.26104166666666667,
+     0.6610416666666667
+    ],
+    [
+     "Your",
+     0.6985416666666666,
+     0.8360416666666666
+    ],
+    [
+     "quests",
+     0.8360416666666666,
+     1.1860416666666664
+    ],
+    [
+     "Your",
+     1.2235416666666665,
+     1.3485416666666665
+    ],
+    [
+     "next",
+     1.3485416666666665,
+     1.6110416666666667
+    ],
+    [
+     "move",
+     1.6110416666666667,
+     2.311041666666667
+    ]
+   ],
+   "params": {
+    "shot": "readiness",
+    "layout": "left",
+    "title": "Your next|move.",
+    "zoom": 1.4,
+    "focus": [
+     0.35,
+     0.35
+    ],
+    "callouts": [
+     [
+      "readiness 40 > 60",
+      0.15,
+      0.35,
+      0.2
+     ],
+     [
+      "daily quests",
+      0.48,
+      0.3,
+      0.45
+     ],
+     [
+      "XP + streaks",
+      0.85,
+      0.25,
+      0.7
+     ]
+    ]
+   },
+   "energy": 3,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 12,
+   "type": "kinetic",
+   "tag": "FROM YOU",
+   "start": 43.714,
+   "dur": 4.286,
+   "vo_start": 43.894,
+   "say": "Your AI doesn't start from zero anymore. It starts... from you.",
+   "caption": "Your AI doesn't start from zero anymore. It starts... from you.",
+   "words": [
+    [
+     "Your",
+     0.18,
+     0.28370833333333334
+    ],
+    [
+     "AI",
+     0.28370833333333334,
+     0.6337083333333333
+    ],
+    [
+     "doesn't",
+     0.6337083333333333,
+     0.8962083333333333
+    ],
+    [
+     "start",
+     0.8962083333333333,
+     1.1837083333333331
+    ],
+    [
+     "from",
+     1.1837083333333331,
+     1.3337083333333333
+    ],
+    [
+     "zero",
+     1.3337083333333333,
+     1.6462083333333333
+    ],
+    [
+     "anymore",
+     1.6462083333333333,
+     2.0587083333333336
+    ],
+    [
+     "It",
+     2.0962083333333332,
+     2.2087083333333335
+    ],
+    [
+     "starts",
+     2.2087083333333335,
+     2.6337083333333333
+    ],
+    [
+     "from",
+     2.7587083333333333,
+     2.9712083333333332
+    ],
+    [
+     "you",
+     2.9712083333333332,
+     3.5337083333333332
+    ]
+   ],
+   "params": {
+    "lines": [
+     "YOUR AI DOESN'T START",
+     "FROM ~ZERO."
+    ],
+    "sub": "It starts from you.",
+    "size": 120
+   },
+   "energy": 2,
+   "drop": false,
+   "transition": null
+  },
+  {
+   "idx": 13,
+   "type": "cta",
+   "tag": "PLACIQ",
+   "start": 48.0,
+   "dur": 7.714,
+   "vo_start": 48.18,
+   "say": "Place IQ. Stop repeating yourself. Learn dot place I Q dot in.",
+   "caption": "Placiq. Stop repeating yourself. learn.placiq.in",
+   "words": [
+    [
+     "Place",
+     0.18,
+     0.38012500000000005
+    ],
+    [
+     "IQ",
+     0.38012500000000005,
+     0.780125
+    ],
+    [
+     "Stop",
+     0.830125,
+     1.1176249999999999
+    ],
+    [
+     "repeating",
+     1.1176249999999999,
+     1.517625
+    ],
+    [
+     "yourself",
+     1.517625,
+     2.0801250000000002
+    ],
+    [
+     "Learn",
+     2.1801250000000003,
+     2.4301250000000003
+    ],
+    [
+     "dot",
+     2.4301250000000003,
+     2.6801250000000003
+    ],
+    [
+     "place",
+     2.6801250000000003,
+     3.005125
+    ],
+    [
+     "I",
+     3.005125,
+     3.1801250000000003
+    ],
+    [
+     "Q",
+     3.1801250000000003,
+     3.405125
+    ],
+    [
+     "dot",
+     3.405125,
+     3.6426250000000002
+    ],
+    [
+     "in",
+     3.6426250000000002,
+     4.280125
+    ]
+   ],
+   "params": {
+    "tag": "Stop repeating yourself."
+   },
+   "energy": 1,
+   "drop": false,
+   "transition": "flash"
+  }
+ ],
+ "sfx_events": [
+  {
+   "t": 0.1,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.172,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.253,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.304,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.353,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.433,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.49,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.545,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.616,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.678,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.744,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.828,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.91,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 0.978,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.051,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.11,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.158,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.216,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.299,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.366,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.451,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.537,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.615,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.703,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.757,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.818,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.906,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 1.956,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.022,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.081,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.163,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.216,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.299,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.379,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.466,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.548,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 0
+  },
+  {
+   "t": 2.7,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 0.0,
+   "kind": "glitch",
+   "gain": 0.6,
+   "scene": 0
+  },
+  {
+   "t": 4.386,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.441,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.498,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.559,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.623,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.69,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.76,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.834,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.911,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 4.992,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.077,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.167,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.261,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.36,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.464,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.573,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.687,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.807,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 5.933,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 6.065,
+   "kind": "tick",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 6.186,
+   "kind": "bass",
+   "gain": 0.6,
+   "scene": 1
+  },
+  {
+   "t": 3.866,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 1
+  },
+  {
+   "t": 8.671,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.733,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.792,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.847,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.898,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 8.986,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 9.055,
+   "kind": "key",
+   "gain": 0.9,
+   "scene": 2
+  },
+  {
+   "t": 9.171,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 2
+  },
+  {
+   "t": 9.071,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 9.49,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 9.908,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 10.327,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 10.745,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 11.163,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 11.582,
+   "kind": "glitch",
+   "gain": 0.25,
+   "scene": 2
+  },
+  {
+   "t": 8.151,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 2
+  },
+  {
+   "t": 12.25,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.262,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.281,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.302,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.325,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.351,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.377,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.406,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.435,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.466,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.498,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.53,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.564,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.598,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.633,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.669,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.706,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.744,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.782,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.82,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.86,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.9,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.94,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 12.981,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.023,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.065,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.108,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.151,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.194,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.238,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.283,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.328,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.373,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.419,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.465,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.512,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.559,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.607,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.654,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.703,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.751,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.8,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.85,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.899,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 13.949,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 14.0,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 14.05,
+   "kind": "pop",
+   "gain": 0.22,
+   "scene": 3
+  },
+  {
+   "t": 11.58,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 3
+  },
+  {
+   "t": 14.571,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 4
+  },
+  {
+   "t": 15.0,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 4
+  },
+  {
+   "t": 15.429,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 4
+  },
+  {
+   "t": 15.857,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 4
+  },
+  {
+   "t": 16.286,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 4
+  },
+  {
+   "t": 16.714,
+   "kind": "tick",
+   "gain": 0.9,
+   "scene": 4
+  },
+  {
+   "t": 14.151,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 4
+  },
+  {
+   "t": 18.42,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 5
+  },
+  {
+   "t": 18.712,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 5
+  },
+  {
+   "t": 18.862,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 5
+  },
+  {
+   "t": 19.424,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 5
+  },
+  {
+   "t": 19.662,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 5
+  },
+  {
+   "t": 20.199,
+   "kind": "bass",
+   "gain": 0.4,
+   "scene": 5
+  },
+  {
+   "t": 20.126,
+   "kind": "impact",
+   "gain": 0.55,
+   "scene": 5
+  },
+  {
+   "t": 17.58,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 5
+  },
+  {
+   "t": 21.549,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 6
+  },
+  {
+   "t": 21.549,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 21.577,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 6
+  },
+  {
+   "t": 21.577,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 21.802,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 6
+  },
+  {
+   "t": 21.802,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 21.964,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 6
+  },
+  {
+   "t": 21.964,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 22.414,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 6
+  },
+  {
+   "t": 22.414,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 22.752,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 6
+  },
+  {
+   "t": 22.752,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 22.839,
+   "kind": "bass",
+   "gain": 0.35,
+   "scene": 6
+  },
+  {
+   "t": 22.839,
+   "kind": "click",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 21.009,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 6
+  },
+  {
+   "t": 21.429,
+   "kind": "glitch",
+   "gain": 0.6,
+   "scene": 6
+  },
+  {
+   "t": 24.29,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 7
+  },
+  {
+   "t": 24.853,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 7
+  },
+  {
+   "t": 25.653,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 7
+  },
+  {
+   "t": 26.465,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 7
+  },
+  {
+   "t": 26.99,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 7
+  },
+  {
+   "t": 27.965,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 7
+  },
+  {
+   "t": 23.58,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 7
+  },
+  {
+   "t": 24.0,
+   "kind": "bass",
+   "gain": 0.6,
+   "scene": 7
+  },
+  {
+   "t": 29.263,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 29.757,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 30.357,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 30.494,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 31.357,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 31.819,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 8
+  },
+  {
+   "t": 28.723,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 8
+  },
+  {
+   "t": 33.429,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 9
+  },
+  {
+   "t": 34.629,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 9
+  },
+  {
+   "t": 35.486,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 9
+  },
+  {
+   "t": 33.009,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 9
+  },
+  {
+   "t": 36.857,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 10
+  },
+  {
+   "t": 38.357,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 10
+  },
+  {
+   "t": 39.429,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 10
+  },
+  {
+   "t": 36.437,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 10
+  },
+  {
+   "t": 41.143,
+   "kind": "whoosh_down",
+   "gain": 0.5,
+   "scene": 11
+  },
+  {
+   "t": 41.657,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 11
+  },
+  {
+   "t": 42.3,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 11
+  },
+  {
+   "t": 42.943,
+   "kind": "click",
+   "gain": 0.8,
+   "scene": 11
+  },
+  {
+   "t": 40.723,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 11
+  },
+  {
+   "t": 43.834,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 44.288,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 44.838,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 45.3,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 45.863,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 46.625,
+   "kind": "tick",
+   "gain": 0.8,
+   "scene": 12
+  },
+  {
+   "t": 43.294,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 12
+  },
+  {
+   "t": 48.05,
+   "kind": "stinger",
+   "gain": 0.55,
+   "scene": 13
+  },
+  {
+   "t": 49.1,
+   "kind": "pop",
+   "gain": 0.6,
+   "scene": 13
+  },
+  {
+   "t": 49.8,
+   "kind": "click",
+   "gain": 1.0,
+   "scene": 13
+  },
+  {
+   "t": 47.58,
+   "kind": "whoosh",
+   "gain": 0.55,
+   "scene": 13
+  }
+ ]
+}
