@@ -1,0 +1,64 @@
+{
+ "day": 3,
+ "title": "The Productivity Graveyard",
+ "pillar": "Student pain",
+ "format": "music",
+ "narrated": false,
+ "voice": null,
+ "tts": null,
+ "music_style": "breakbeat",
+ "bpm": 132,
+ "duration": 20.0,
+ "hooks": {
+  "selected": "roadmap_v14.pdf",
+  "alternatives": [
+   "You have revised your roadmap more than you have followed it.",
+   "Planning is the most comfortable form of procrastination."
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "Roadmap v14 and Still on Step 1",
+ "hashtags": [
+  "#roadmap",
+  "#procrastination",
+  "#codingjourney",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 20.0,
+  "audio_streams": 1,
+  "lufs": -14.3,
+  "true_peak": -1.0,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 0,
+  "narration_voiced_ratio": null
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "metadata.json",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.NOT_APPLICABLE.txt",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}
