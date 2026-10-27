@@ -153,3 +153,155 @@ Pillar: AI memory  |  Format: music  |  Music: cinematic 90 BPM  |  Duration: 17
 - [0.00s, 10.67s] vboard: ON-SCREEN: A mentor who erases everything about you after every session.
 - [10.67s, 3.33s] vtype: ON-SCREEN: Good mentors remember. So should your AI.
 - [14.00s, 3.33s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 11 - AI Advice for Everyone
+
+Pillar: AI memory  |  Format: comedy  |  Music: funk 108 BPM  |  Duration: 22.2s
+
+## Hooks
+1. Four different students. One identical roadmap.  (SELECTED)
+2. The advice machine has one setting.
+3. Generic in, generic out.
+
+## Scenes
+- [0.00s, 11.11s] vfactory: ON-SCREEN: Four different students go in. One identical roadmap comes out.
+- [11.11s, 3.33s] vtype: ON-SCREEN: Your path should start from your work.
+- [14.44s, 5.00s] vclip: ON-SCREEN: Career Navigator builds a role-specific plan.
+- [19.44s, 2.78s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 12 - Your Work Should Connect
+
+Pillar: AI memory  |  Format: narrated  |  Music: house 124 BPM  |  Duration: 17.4s
+
+## Hooks
+1. You solved 3 sliding-window problems. Did your mentor notice?  (SELECTED)
+2. Your DSA practice should change your next recommendation.
+3. Practice that talks back.
+
+## Scenes
+- [0.00s, 7.74s] vclip: VO: "This is a real D S A session in Place IQ. Step by step, every pointer move is visible."
+- [7.74s, 6.77s] vclip: VO: "And the Placement Copilot sees that work. Its suggestions come from your progress, strengths and weak spots."
+- [14.52s, 2.90s] vcta: VO: "Your work, connected."
+
+
+# Day 13 - The AI Tutor Intervention
+
+Pillar: AI memory  |  Format: comedy  |  Music: glitchhop 100 BPM  |  Duration: 17.4s
+
+## Hooks
+1. Five AI tabs. Five different career plans.  (SELECTED)
+2. POV: asking every chatbot what to learn next.
+3. The group chat nobody asked for.
+
+## Scenes
+- [0.00s, 9.60s] vsplit: ON-SCREEN: Five AI tabs. Five confident, contradictory plans.
+- [9.60s, 4.80s] vclip: ON-SCREEN: A Copilot that reads your progress first.
+- [14.40s, 3.00s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 14 - PCME Product Reveal
+
+Pillar: AI memory  |  Format: narrated  |  Music: cinematic 90 BPM  |  Duration: 22.0s
+
+## Hooks
+1. Monday to Saturday. One memory.  (SELECTED)
+2. What if every session built on the last?
+3. Meet the memory behind Placiq.
+
+## Scenes
+- [0.00s, 8.00s] vtimeline: VO: "Monday, sliding window. Tuesday, an auth module. Thursday, a weak spot in D P. Scattered, until it isn't."
+- [8.00s, 8.67s] vclip: VO: "P C M E, the Persistent Context and Memory Engine, keeps that timeline. So every session builds on the last one."
+- [16.67s, 5.33s] vcta: VO: "Place IQ. The career OS that remembers you."
+
+
+# Day 15 - Two Sum Is Not Two Lines
+
+Pillar: DSA  |  Format: narrated  |  Music: electro 128 BPM  |  Duration: 17.3s
+
+## Hooks
+1. Two Sum in one pass. Here is the actual idea.  (SELECTED)
+2. You memorised the code. Do you know why it works?
+3. The one question that solves Two Sum.
+
+## Scenes
+- [0.00s, 7.50s] varr: VO: "Two Sum. Target nine. For each number, ask one question: have I already seen target minus me?"
+- [7.50s, 6.09s] varr: VO: "Store each value with its index in a hash map. Check before you store. One pass. O of n time."
+- [13.59s, 3.75s] vcta: VO: "Understand the pattern. Not just the code."
+
+
+# Day 16 - Pointer Chaos
+
+Pillar: DSA  |  Format: music  |  Music: breakbeat 132 BPM  |  Duration: 19.1s
+
+## Hooks
+1. Your pointer when you have not understood the loop.  (SELECTED)
+2. Where is p going? Nobody knows.
+3. Random jumps vs one clear rule.
+
+## Scenes
+- [0.00s, 9.09s] varr: ON-SCREEN: Pointer without a rule: random jumps. Pointer with a rule: p += 1, one step at a time.
+- [9.09s, 3.18s] vtype: ON-SCREEN: Every pointer needs a rule.
+- [12.27s, 4.09s] vclip: ON-SCREEN: See pointer state in the real DSA Visualizer.
+- [16.36s, 2.73s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 17 - The Dry-Run Nightmare
+
+Pillar: DSA  |  Format: narrated  |  Music: industrial 118 BPM  |  Duration: 18.8s
+
+## Hooks
+1. Dry-running a loop in your head feels like this.  (SELECTED)
+2. Lost in your own for-loop?
+3. The maze is just a loop without a trace table.
+
+## Scenes
+- [0.00s, 12.20s] vmaze: VO: "Dry-running a loop in your head feels like a maze. You lose track of i, the sum, everything. The fix is boring and powerful: write a trace table, one iteration per row."
+- [12.20s, 2.54s] vtype: VO: "Trace it. Then trust it."
+- [14.75s, 4.07s] vcta: VO: "Step through algorithms in Place IQ."
+
+
+# Day 18 - Watch the Algorithm Think
+
+Pillar: DSA  |  Format: music  |  Music: minimal 120 BPM  |  Duration: 17.5s
+
+## Hooks
+1. Sliding window, in 10 seconds.  (SELECTED)
+2. Add one in, drop one out.
+3. This is what O(n) looks like.
+
+## Scenes
+- [0.00s, 10.00s] varr: ON-SCREEN: Sliding window, k = 3: add the new element, drop the old one. Never recompute the whole sum.
+- [10.00s, 4.50s] vclip: ON-SCREEN: Patterns animated step by step in Placiq.
+- [14.50s, 3.00s] vcta: ON-SCREEN: Placiq - learn.placiq.in
+
+
+# Day 19 - Brute Force vs Optimized
+
+Pillar: DSA  |  Format: narrated  |  Music: dnb 172 BPM  |  Duration: 18.8s
+
+## Hooks
+1. Both solutions are correct. Only one survives n = 10,000.  (SELECTED)
+2. O(n squared) vs O(n), raced.
+3. Correct is not the same as scalable.
+
+## Scenes
+- [0.00s, 12.56s] vrace: VO: "Both are correct. Brute force checks every pair: about n squared over two operations. The hash map checks each number once: about n. At ten thousand, that's fifty million versus ten thousand."
+- [12.56s, 2.79s] vtype: VO: "Start brute. Then optimise. Explain both."
+- [15.35s, 3.49s] vcta: VO: "Compare approaches in Place IQ."
+
+
+# Day 20 - DSA Without Understanding
+
+Pillar: DSA  |  Format: music  |  Music: electro 128 BPM  |  Duration: 15.9s
+
+## Hooks
+1. 1,803 questions. About a handful of core patterns.  (SELECTED)
+2. Stop counting problems. Start counting patterns.
+3. The question bank is big. The idea bank is small.
+
+## Scenes
+- [0.00s, 9.38s] vcollapse: ON-SCREEN: Hundreds of problems collapse into a few reusable patterns.
+- [9.38s, 3.75s] vnumber: ON-SCREEN: 1,803 questions in Placiq's vault - learn the patterns behind them.
+- [13.12s, 2.81s] vcta: ON-SCREEN: Placiq - learn.placiq.in

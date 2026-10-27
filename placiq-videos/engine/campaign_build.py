@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw
 from core import *
 import build as B
 import audio2 as A2
-import vscenes3 as VS
+import vall as VS
 from scenes import disp_reveal_times
 from campaign import DAYS
 
@@ -118,6 +118,28 @@ def sfx_for(S):
     elif ty == 'vnumber':
         for k in range(14):
             ev.append((.1 + k * .1, 'tick', .5))
+    elif ty in ('vfactory',):
+        for k in range(int(dur / .5)):
+            ev.append((k * .5, 'tick', .4))
+        ev.append((dur * .55, 'stamp', .5))
+    elif ty == 'vsplit':
+        for i in range(5):
+            ev.append((.1 + i * .25, 'notif', .5))
+        ev += [(dur * p.get('win', .7), 'whoosh', .6), (dur * p.get('win', .7) + .5, 'bass', .6)]
+    elif ty == 'vtimeline':
+        for i in range(6):
+            ev.append((dur * p.get('snap', .3) + i * .18 + .4, 'click', .8))
+    elif ty in ('varr', 'vmaze'):
+        for k in range(int(dur / .45)):
+            ev.append((.5 + k * .45, 'tick', .7))
+        if p.get('mode') == 'chaos':
+            ev.append((dur * .45, 'glitch', .6))
+    elif ty == 'vrace':
+        for k in range(int(dur / .2)):
+            ev.append((.3 + k * .2, 'tick', .25))
+        ev.append((dur * .75, 'bass', .7))
+    elif ty == 'vcollapse':
+        ev += [(dur * .4, 'whoosh', .7), (dur * .75, 'impact', .5)]
     if S['idx'] > 0:
         ev.append((-.38, 'whoosh', .45))
     return ev
@@ -243,6 +265,12 @@ def produce(D, st):
     wr(od + '/script.md', '\n'.join(script) + '\n')
     # ---------------- QA
     qa = validate(od, total, narrated)
+    if not qa['pass'] and qa['true_peak'] > -1.0:  # AAC overshoot: re-limit harder and remux once
+        B.loudnorm(cache + '/mix_raw.wav', od + '/mix.wav', TP=-4.5); B.loudnorm(cache + '/mo_raw.wav', cache + '/mo.wav', TP=-4.5)
+        B.sh(f'ffmpeg -v error -y -i {od}/mix.wav -c:a pcm_s16le {od}/mix16.wav && mv {od}/mix16.wav {od}/mix.wav')
+        B.sh(f'ffmpeg -v error -y -i {silent} -i {od}/mix.wav -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -shortest -movflags +faststart {od}/final.mp4')
+        B.sh(f'ffmpeg -v error -y -i {silent} -i {cache}/mo.wav -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -shortest -movflags +faststart {od}/music_only.mp4')
+        qa = validate(od, total, narrated); qa['relimited'] = True
     tl = [dict(idx=S['idx'], type=S['type'], start=round(S['t0'], 3), dur=round(S['dur'], 3), say=S.get('say'), caption=S['cap'], params=S['p'],
                energy=S.get('energy'), drop=bool(S.get('drop')), words=S['words']) for S in scs]
     json.dump(dict(day=n, scenes=tl, sfx_events=events, bpm=bpm, style=D['style'], root=D.get('root')), open(od + '/source/timeline.json', 'w'), indent=1)

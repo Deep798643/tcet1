@@ -190,7 +190,197 @@
     "narration_voiced_ratio": null
    },
    "title": "The Context Eraser"
+  },
+  "11": {
+   "stage": "done",
+   "duration": 22.22,
+   "render_sec": 10.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 22.234,
+    "audio_streams": 1,
+    "lufs": -14.4,
+    "true_peak": -1.7,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "AI Advice for Everyone"
+  },
+  "12": {
+   "stage": "done",
+   "duration": 17.42,
+   "render_sec": 17.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.434,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -0.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.638
+   },
+   "title": "Your Work Should Connect"
+  },
+  "13": {
+   "stage": "done",
+   "duration": 17.4,
+   "render_sec": 10.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.4,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The AI Tutor Intervention"
+  },
+  "14": {
+   "stage": "done",
+   "duration": 22.0,
+   "render_sec": 13.3,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 22.0,
+    "audio_streams": 1,
+    "lufs": -16.3,
+    "true_peak": -3.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.711
+   },
+   "title": "PCME Product Reveal"
+  },
+  "15": {
+   "stage": "done",
+   "duration": 17.34,
+   "render_sec": 4.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.344,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -2.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.679
+   },
+   "title": "Two Sum Is Not Two Lines"
+  },
+  "16": {
+   "stage": "done",
+   "duration": 19.09,
+   "render_sec": 9.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 19.1,
+    "audio_streams": 1,
+    "lufs": -14.3,
+    "true_peak": -1.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Pointer Chaos"
+  },
+  "17": {
+   "stage": "done",
+   "duration": 18.81,
+   "render_sec": 5.5,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.814,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.686
+   },
+   "title": "The Dry-Run Nightmare"
+  },
+  "18": {
+   "stage": "done",
+   "duration": 17.5,
+   "render_sec": 9.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.5,
+    "audio_streams": 1,
+    "lufs": -14.2,
+    "true_peak": -2.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Watch the Algorithm Think"
+  },
+  "19": {
+   "stage": "done",
+   "duration": 18.84,
+   "render_sec": 6.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.838,
+    "audio_streams": 1,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.721
+   },
+   "title": "Brute Force vs Optimized"
+  },
+  "20": {
+   "stage": "done",
+   "duration": 15.94,
+   "render_sec": 7.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.936,
+    "audio_streams": 1,
+    "lufs": -15.3,
+    "true_peak": -3.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "DSA Without Understanding"
   }
  },
- "updated": "2026-10-27T14:37:00.041215Z"
+ "updated": "2026-10-27T14:48:52.069996Z"
 }

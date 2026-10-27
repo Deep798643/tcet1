@@ -49,3 +49,53 @@
 1. Imagine a mentor who erases the board every time you leave. **(selected)**
 2. Session 1. Session 2. Session 3. Same blank board.
 3. This is what forgetting looks like.
+
+## Day 11 - AI Advice for Everyone
+1. Four different students. One identical roadmap. **(selected)**
+2. The advice machine has one setting.
+3. Generic in, generic out.
+
+## Day 12 - Your Work Should Connect
+1. You solved 3 sliding-window problems. Did your mentor notice? **(selected)**
+2. Your DSA practice should change your next recommendation.
+3. Practice that talks back.
+
+## Day 13 - The AI Tutor Intervention
+1. Five AI tabs. Five different career plans. **(selected)**
+2. POV: asking every chatbot what to learn next.
+3. The group chat nobody asked for.
+
+## Day 14 - PCME Product Reveal
+1. Monday to Saturday. One memory. **(selected)**
+2. What if every session built on the last?
+3. Meet the memory behind Placiq.
+
+## Day 15 - Two Sum Is Not Two Lines
+1. Two Sum in one pass. Here is the actual idea. **(selected)**
+2. You memorised the code. Do you know why it works?
+3. The one question that solves Two Sum.
+
+## Day 16 - Pointer Chaos
+1. Your pointer when you have not understood the loop. **(selected)**
+2. Where is p going? Nobody knows.
+3. Random jumps vs one clear rule.
+
+## Day 17 - The Dry-Run Nightmare
+1. Dry-running a loop in your head feels like this. **(selected)**
+2. Lost in your own for-loop?
+3. The maze is just a loop without a trace table.
+
+## Day 18 - Watch the Algorithm Think
+1. Sliding window, in 10 seconds. **(selected)**
+2. Add one in, drop one out.
+3. This is what O(n) looks like.
+
+## Day 19 - Brute Force vs Optimized
+1. Both solutions are correct. Only one survives n = 10,000. **(selected)**
+2. O(n squared) vs O(n), raced.
+3. Correct is not the same as scalable.
+
+## Day 20 - DSA Without Understanding
+1. 1,803 questions. About a handful of core patterns. **(selected)**
+2. Stop counting problems. Start counting patterns.
+3. The question bank is big. The idea bank is small.

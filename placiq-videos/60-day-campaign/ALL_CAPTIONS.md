@@ -159,3 +159,163 @@ Placiq's PCME keeps the board. learn.placiq.in
 **YouTube title:** The Mentor Who Erases Everything
 
 **LinkedIn:** A visual metaphor for context loss in AI guidance, and why persistent memory matters for learners.
+
+## Day 11 - AI Advice for Everyone
+
+**Instagram**
+
+Four students. Four different goals. One copy-paste roadmap.
+
+Generic AI advice treats an ECE data lover and a backend-focused CSE student the same way.
+
+Placiq's Career Navigator starts from your role and your actual work. learn.placiq.in
+
+#careeradvice #roadmap #ai #placiq
+
+**YouTube title:** The Generic Advice Machine
+
+**LinkedIn:** Generic recommendations ignore context. Role-specific plans built from a student's real work are more useful.
+
+## Day 12 - Your Work Should Connect
+
+**Instagram**
+
+You did the practice. Your guidance should know about it.
+
+In Placiq, your DSA sessions and projects feed the Placement Copilot, so suggestions reflect your real strengths and weak spots.
+
+See it free at learn.placiq.in
+
+#dsa #ai #placementprep #placiq
+
+**YouTube title:** Your DSA Practice Should Change Your Next Step
+
+**LinkedIn:** Connected modules mean practice data informs guidance. A look at the DSA Visualizer and Placement Copilot together.
+
+## Day 13 - The AI Tutor Intervention
+
+**Instagram**
+
+Asked five AI tabs what to learn next. Got five different futures.
+
+When advice ignores your actual progress, it is just confident noise.
+
+Placiq's Copilot reads your work before it answers. learn.placiq.in
+
+#aihumor #codinglife #students #placiq
+
+**YouTube title:** Five AI Tabs, Five Different Plans
+
+**LinkedIn:** Contradictory AI advice is a real source of student confusion. Context-aware guidance reduces it.
+
+## Day 14 - PCME Product Reveal
+
+**Instagram**
+
+Monday: sliding window. Thursday: weak on DP. Saturday: README pushed.
+
+On their own, these are scattered moments. PCME, Placiq's Persistent Context & Memory Engine, keeps them as one timeline so every session builds on the last.
+
+learn.placiq.in
+
+#pcme #ai #careeros #placiq
+
+**YouTube title:** PCME: The Memory Behind Placiq
+
+**LinkedIn:** Persistent context turns scattered study sessions into a continuous record that guidance can build on.
+
+## Day 15 - Two Sum Is Not Two Lines
+
+**Instagram**
+
+Two Sum is not about two lines of code. It is one question.
+
+For each number: have I already seen target minus me? Check the hash map, then store. One pass, O(n).
+
+Practise patterns step by step in Placiq's DSA Visualizer. learn.placiq.in
+
+#twosum #leetcode #dsa #hashmap #placiq
+
+**YouTube title:** Two Sum Explained in One Question
+
+**LinkedIn:** The hash-map insight behind Two Sum, animated: check for the complement before storing each value.
+
+## Day 16 - Pointer Chaos
+
+**Instagram**
+
+Your pointer when you have not understood the loop invariant.
+
+A pointer should move by one clear rule. If you cannot state the rule, you cannot debug the loop.
+
+Watch pointer state step by step in Placiq's DSA Visualizer. learn.placiq.in
+
+#pointers #dsa #codingmemes #placiq
+
+**YouTube title:** Pointer Chaos vs One Clear Rule
+
+**LinkedIn:** Every pointer in an algorithm should move by a rule you can state. A short visual on invariants.
+
+## Day 17 - The Dry-Run Nightmare
+
+**Instagram**
+
+Dry-running a loop in your head feels like a maze.
+
+The fix is a trace table: one row per iteration, every variable written down. Boring, and it works in interviews too.
+
+Step through algorithms visually in Placiq. learn.placiq.in
+
+#dryrun #debugging #dsa #placiq
+
+**YouTube title:** How to Dry-Run Any Loop
+
+**LinkedIn:** Trace tables make loop behaviour explicit. A simple technique that improves interview problem solving.
+
+## Day 18 - Watch the Algorithm Think
+
+**Instagram**
+
+Sliding window in 10 seconds: add one in, drop one out.
+
+Instead of recomputing every window sum, update it as the window moves. That is the whole O(n) trick.
+
+Animate core patterns step by step in Placiq. learn.placiq.in
+
+#slidingwindow #algorithms #dsa #placiq
+
+**YouTube title:** Sliding Window in 10 Seconds
+
+**LinkedIn:** The sliding-window pattern visualised: incremental updates instead of recomputation.
+
+## Day 19 - Brute Force vs Optimized
+
+**Instagram**
+
+Both solutions pass the sample tests. Only one survives n = 10,000.
+
+Brute force checks about n^2/2 pairs. A hash map checks each value once. In interviews, start with brute force, then explain the optimisation.
+
+The DSA Visualizer shows brute force and optimised side by side. learn.placiq.in
+
+#timecomplexity #bigO #dsa #placiq
+
+**YouTube title:** Brute Force vs Optimised, Raced
+
+**LinkedIn:** Time complexity made visible: why O(n^2) and O(n) diverge as input grows.
+
+## Day 20 - DSA Without Understanding
+
+**Instagram**
+
+Stop counting problems. Start counting patterns.
+
+Most interview questions reuse a small set of ideas: two pointers, sliding window, hashing, BFS/DFS, binary search, DP.
+
+Placiq's vault has 1,803 questions, organised so the patterns stand out. learn.placiq.in
+
+#leetcode #dsapatterns #codinginterview #placiq
+
+**YouTube title:** 1,803 Questions, A Few Patterns
+
+**LinkedIn:** Pattern-based practice scales better than problem counting. A visual on consolidating DSA preparation.

@@ -1,6 +1,6 @@
 # Placiq 60-day campaign
 
-Vertical 1080x1920 / 30fps / H.264 + AAC shorts. Completed: 10 / 60 (see PRODUCTION_STATE.json).
+Vertical 1080x1920 / 30fps / H.264 + AAC shorts. Completed: 20 / 60 (see PRODUCTION_STATE.json).
 
 Resume production:
 

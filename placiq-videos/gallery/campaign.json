@@ -288,5 +288,295 @@
   ],
   "youtube_title": "The Mentor Who Erases Everything",
   "ig": "Imagine a mentor who wipes the board after every session.\n\nYour weak topics, your project, your goal: gone. That is how most AI chats work.\n\nPlaciq's PCME keeps the board. learn.placiq.in\n\n#mentorship #ai #engineering #placiq"
+ },
+ {
+  "day": 11,
+  "title": "AI Advice for Everyone",
+  "pillar": "AI memory",
+  "format": "comedy",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_02/DAY_11",
+  "duration": 22.22,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 22.234,
+   "audio_streams": 1,
+   "lufs": -14.4,
+   "true_peak": -1.7,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Four different students. One identical roadmap.",
+   "The advice machine has one setting.",
+   "Generic in, generic out."
+  ],
+  "youtube_title": "The Generic Advice Machine",
+  "ig": "Four students. Four different goals. One copy-paste roadmap.\n\nGeneric AI advice treats an ECE data lover and a backend-focused CSE student the same way.\n\nPlaciq's Career Navigator starts from your role and your actual work. learn.placiq.in\n\n#careeradvice #roadmap #ai #placiq"
+ },
+ {
+  "day": 12,
+  "title": "Your Work Should Connect",
+  "pillar": "AI memory",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_02/DAY_12",
+  "duration": 17.42,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.434,
+   "audio_streams": 1,
+   "lufs": -15.9,
+   "true_peak": -0.9,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.638
+  },
+  "hooks": [
+   "You solved 3 sliding-window problems. Did your mentor notice?",
+   "Your DSA practice should change your next recommendation.",
+   "Practice that talks back."
+  ],
+  "youtube_title": "Your DSA Practice Should Change Your Next Step",
+  "ig": "You did the practice. Your guidance should know about it.\n\nIn Placiq, your DSA sessions and projects feed the Placement Copilot, so suggestions reflect your real strengths and weak spots.\n\nSee it free at learn.placiq.in\n\n#dsa #ai #placementprep #placiq"
+ },
+ {
+  "day": 13,
+  "title": "The AI Tutor Intervention",
+  "pillar": "AI memory",
+  "format": "comedy",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_02/DAY_13",
+  "duration": 17.4,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.4,
+   "audio_streams": 1,
+   "lufs": -15.1,
+   "true_peak": -2.5,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Five AI tabs. Five different career plans.",
+   "POV: asking every chatbot what to learn next.",
+   "The group chat nobody asked for."
+  ],
+  "youtube_title": "Five AI Tabs, Five Different Plans",
+  "ig": "Asked five AI tabs what to learn next. Got five different futures.\n\nWhen advice ignores your actual progress, it is just confident noise.\n\nPlaciq's Copilot reads your work before it answers. learn.placiq.in\n\n#aihumor #codinglife #students #placiq"
+ },
+ {
+  "day": 14,
+  "title": "PCME Product Reveal",
+  "pillar": "AI memory",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_02/DAY_14",
+  "duration": 22.0,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 22.0,
+   "audio_streams": 1,
+   "lufs": -16.3,
+   "true_peak": -3.0,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.711
+  },
+  "hooks": [
+   "Monday to Saturday. One memory.",
+   "What if every session built on the last?",
+   "Meet the memory behind Placiq."
+  ],
+  "youtube_title": "PCME: The Memory Behind Placiq",
+  "ig": "Monday: sliding window. Thursday: weak on DP. Saturday: README pushed.\n\nOn their own, these are scattered moments. PCME, Placiq's Persistent Context & Memory Engine, keeps them as one timeline so every session builds on the last.\n\nlearn.placiq.in\n\n#pcme #ai #careeros #placiq"
+ },
+ {
+  "day": 15,
+  "title": "Two Sum Is Not Two Lines",
+  "pillar": "DSA",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_03/DAY_15",
+  "duration": 17.34,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.344,
+   "audio_streams": 1,
+   "lufs": -15.9,
+   "true_peak": -2.9,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.679
+  },
+  "hooks": [
+   "Two Sum in one pass. Here is the actual idea.",
+   "You memorised the code. Do you know why it works?",
+   "The one question that solves Two Sum."
+  ],
+  "youtube_title": "Two Sum Explained in One Question",
+  "ig": "Two Sum is not about two lines of code. It is one question.\n\nFor each number: have I already seen target minus me? Check the hash map, then store. One pass, O(n).\n\nPractise patterns step by step in Placiq's DSA Visualizer. learn.placiq.in\n\n#twosum #leetcode #dsa #hashmap #placiq"
+ },
+ {
+  "day": 16,
+  "title": "Pointer Chaos",
+  "pillar": "DSA",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_03/DAY_16",
+  "duration": 19.09,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 19.1,
+   "audio_streams": 1,
+   "lufs": -14.3,
+   "true_peak": -1.9,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Your pointer when you have not understood the loop.",
+   "Where is p going? Nobody knows.",
+   "Random jumps vs one clear rule."
+  ],
+  "youtube_title": "Pointer Chaos vs One Clear Rule",
+  "ig": "Your pointer when you have not understood the loop invariant.\n\nA pointer should move by one clear rule. If you cannot state the rule, you cannot debug the loop.\n\nWatch pointer state step by step in Placiq's DSA Visualizer. learn.placiq.in\n\n#pointers #dsa #codingmemes #placiq"
+ },
+ {
+  "day": 17,
+  "title": "The Dry-Run Nightmare",
+  "pillar": "DSA",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_03/DAY_17",
+  "duration": 18.81,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 18.814,
+   "audio_streams": 1,
+   "lufs": -15.1,
+   "true_peak": -3.1,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.686
+  },
+  "hooks": [
+   "Dry-running a loop in your head feels like this.",
+   "Lost in your own for-loop?",
+   "The maze is just a loop without a trace table."
+  ],
+  "youtube_title": "How to Dry-Run Any Loop",
+  "ig": "Dry-running a loop in your head feels like a maze.\n\nThe fix is a trace table: one row per iteration, every variable written down. Boring, and it works in interviews too.\n\nStep through algorithms visually in Placiq. learn.placiq.in\n\n#dryrun #debugging #dsa #placiq"
+ },
+ {
+  "day": 18,
+  "title": "Watch the Algorithm Think",
+  "pillar": "DSA",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_03/DAY_18",
+  "duration": 17.5,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 17.5,
+   "audio_streams": 1,
+   "lufs": -14.2,
+   "true_peak": -2.3,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "Sliding window, in 10 seconds.",
+   "Add one in, drop one out.",
+   "This is what O(n) looks like."
+  ],
+  "youtube_title": "Sliding Window in 10 Seconds",
+  "ig": "Sliding window in 10 seconds: add one in, drop one out.\n\nInstead of recomputing every window sum, update it as the window moves. That is the whole O(n) trick.\n\nAnimate core patterns step by step in Placiq. learn.placiq.in\n\n#slidingwindow #algorithms #dsa #placiq"
+ },
+ {
+  "day": 19,
+  "title": "Brute Force vs Optimized",
+  "pillar": "DSA",
+  "format": "narrated",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_03/DAY_19",
+  "duration": 18.84,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 18.838,
+   "audio_streams": 1,
+   "lufs": -16.0,
+   "true_peak": -1.5,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": 0.721
+  },
+  "hooks": [
+   "Both solutions are correct. Only one survives n = 10,000.",
+   "O(n squared) vs O(n), raced.",
+   "Correct is not the same as scalable."
+  ],
+  "youtube_title": "Brute Force vs Optimised, Raced",
+  "ig": "Both solutions pass the sample tests. Only one survives n = 10,000.\n\nBrute force checks about n^2/2 pairs. A hash map checks each value once. In interviews, start with brute force, then explain the optimisation.\n\nThe DSA Visualizer shows brute force and optimised side by side. learn.placiq.in\n\n#timecomplexity #bigO #dsa #placiq"
+ },
+ {
+  "day": 20,
+  "title": "DSA Without Understanding",
+  "pillar": "DSA",
+  "format": "music",
+  "status": "ready_to_post",
+  "dir": "60-day-campaign/WEEK_03/DAY_20",
+  "duration": 15.94,
+  "qa": {
+   "pass": true,
+   "width": 1080,
+   "height": 1920,
+   "fps": "30/1",
+   "duration": 15.936,
+   "audio_streams": 1,
+   "lufs": -15.3,
+   "true_peak": -3.2,
+   "black_segments": 0,
+   "frozen_segments_over_2_5s": 0,
+   "narration_voiced_ratio": null
+  },
+  "hooks": [
+   "1,803 questions. About a handful of core patterns.",
+   "Stop counting problems. Start counting patterns.",
+   "The question bank is big. The idea bank is small."
+  ],
+  "youtube_title": "1,803 Questions, A Few Patterns",
+  "ig": "Stop counting problems. Start counting patterns.\n\nMost interview questions reuse a small set of ideas: two pointers, sliding window, hashing, BFS/DFS, binary search, DP.\n\nPlaciq's vault has 1,803 questions, organised so the patterns stand out. learn.placiq.in\n\n#leetcode #dsapatterns #codinginterview #placiq"
  }
 ]
