@@ -1,0 +1,131 @@
+1
+00:00:00,180 --> 00:00:01,917
+You memorized the code.
+
+2
+00:00:02,273 --> 00:00:03,123
+Two pointers.
+
+3
+00:00:03,123 --> 00:00:04,135
+Sliding window.
+
+4
+00:00:04,135 --> 00:00:05,960
+Dynamic programming.
+
+5
+00:00:06,459 --> 00:00:08,742
+Then the interviewer changed one line...
+
+6
+00:00:08,742 --> 00:00:10,617
+and everything fell apart.
+
+7
+00:00:11,352 --> 00:00:13,852
+Memorizing... isn't understanding.
+
+8
+00:00:14,303 --> 00:00:16,957
+Placiq's DSA Visualizer shows you every pointer,
+
+9
+00:00:16,957 --> 00:00:19,569
+every swap, every invariant.
+
+10
+00:00:21,110 --> 00:00:21,755
+1,800+ animations.
+
+11
+00:00:21,755 --> 00:00:23,193
+Speed it up.
+
+12
+00:00:23,193 --> 00:00:24,280
+Slow it down.
+
+13
+00:00:24,280 --> 00:00:25,693
+Break it, on purpose.
+
+14
+00:00:27,389 --> 00:00:28,922
+And your projects?
+
+15
+00:00:29,085 --> 00:00:30,397
+project-final. final-v2.
+
+16
+00:00:30,685 --> 00:00:31,372
+final-final-REAL.
+
+17
+00:00:32,971 --> 00:00:35,424
+The AI Project Builder turns ideas into
+
+18
+00:00:35,424 --> 00:00:38,837
+roadmaps... with checkpoints that actually ship.
+
+19
+00:00:39,250 --> 00:00:41,875
+Then the Project Analyzer reads your repo...
+
+20
+00:00:41,875 --> 00:00:43,875
+the way a recruiter would.
+
+21
+00:00:45,001 --> 00:00:46,140
+Your GitHub is green.
+
+22
+00:00:46,140 --> 00:00:46,878
+So what?
+
+23
+00:00:46,878 --> 00:00:48,440
+Show what's behind it.
+
+24
+00:00:49,017 --> 00:00:50,354
+A resume is a claim.
+
+25
+00:00:50,354 --> 00:00:51,779
+Placiq helps you back it...
+
+26
+00:00:51,779 --> 00:00:52,542
+with proof.
+
+27
+00:00:53,901 --> 00:00:56,599
+Then turn verified work into a portfolio.
+
+28
+00:00:56,599 --> 00:00:57,711
+In minutes.
+
+29
+00:00:58,955 --> 00:00:59,836
+Understand it.
+
+30
+00:00:59,836 --> 00:01:00,336
+Build it.
+
+31
+00:01:00,336 --> 00:01:01,398
+Prove it.
+
+32
+00:01:01,575 --> 00:01:05,009
+Placiq. Your work, connected.
+
+33
+00:01:05,009 --> 00:01:05,509
+learn.placiq.in

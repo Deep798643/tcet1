@@ -1,0 +1,27 @@
+services:
+  app:
+    image: python:3.11-slim-bookworm
+    working_dir: /workspace
+    network_mode: host
+    volumes:
+      - .:/workspace
+      - pip-cache:/root/.cache/pip
+    environment:
+      IS_ALLOY: ${IS_ALLOY:-false}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY:-}
+    command: >
+      bash -lc "apt-get update && xargs -a packages.txt apt-get install -y --no-install-recommends &&
+      pip install -r requirements.txt &&
+      streamlit run app.py --server.port 8501 --server.address 0.0.0.0 --server.headless true"
+
+  # Placiq video gallery (static page with the rendered films + downloads)
+  placiq-videos:
+    image: python:3.11-slim-bookworm
+    working_dir: /workspace/placiq-videos
+    network_mode: host
+    volumes:
+      - .:/workspace
+    command: python -m http.server 3000 --bind 0.0.0.0
+volumes:
+  pip-cache:

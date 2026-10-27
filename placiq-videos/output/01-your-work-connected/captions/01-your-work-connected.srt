@@ -1,0 +1,167 @@
+1
+00:00:00,215 --> 00:00:01,840
+Stop. Count your tabs.
+
+2
+00:00:02,115 --> 00:00:03,203
+LeetCode. GitHub.
+
+3
+00:00:03,203 --> 00:00:04,466
+A resume you rewrote...
+
+4
+00:00:04,466 --> 00:00:05,628
+four times.
+
+5
+00:00:05,986 --> 00:00:07,496
+A course you never finished.
+
+6
+00:00:07,496 --> 00:00:09,221
+And an AI that forgets you...
+
+7
+00:00:09,221 --> 00:00:10,696
+every single chat.
+
+8
+00:00:11,309 --> 00:00:12,550
+That's not preparation.
+
+9
+00:00:12,550 --> 00:00:13,775
+That's chaos.
+
+10
+00:00:15,837 --> 00:00:16,312
+Meet Placiq.
+
+11
+00:00:16,312 --> 00:00:17,424
+The career OS...
+
+12
+00:00:17,424 --> 00:00:19,487
+that actually remembers you.
+
+13
+00:00:20,503 --> 00:00:22,236
+It starts with a diagnosis.
+
+14
+00:00:22,236 --> 00:00:23,586
+Where you are, right now, for the
+
+15
+00:00:23,586 --> 00:00:24,786
+role you want.
+
+16
+00:00:25,341 --> 00:00:26,697
+Then it prioritizes.
+
+17
+00:00:26,697 --> 00:00:28,785
+No more guessing what to learn next.
+
+18
+00:00:29,225 --> 00:00:30,637
+Learn DSA by watching it move.
+
+19
+00:00:30,637 --> 00:00:31,675
+Every pointer.
+
+20
+00:00:31,675 --> 00:00:32,875
+Every swap.
+
+21
+00:00:34,051 --> 00:00:36,043
+1,800+ interactive animations.
+
+22
+00:00:37,438 --> 00:00:39,470
+With a Socratic tutor that asks you...
+
+23
+00:00:39,470 --> 00:00:40,870
+before it tells you.
+
+24
+00:00:42,931 --> 00:00:45,849
+Build real projects, checkpoint by checkpoint, with
+
+25
+00:00:45,849 --> 00:00:47,637
+a tutor that knows your code.
+
+26
+00:00:48,083 --> 00:00:48,895
+Every commit.
+
+27
+00:00:48,895 --> 00:00:49,745
+Every fix.
+
+28
+00:00:49,745 --> 00:00:50,807
+Every decision...
+
+29
+00:00:50,807 --> 00:00:52,245
+becomes evidence.
+
+30
+00:00:52,922 --> 00:00:55,299
+Resume Intelligence checks your claims, with a
+
+31
+00:00:55,299 --> 00:00:56,524
+recruiter's eye.
+
+32
+00:00:56,793 --> 00:00:58,847
+And your Skill Passport shows the work.
+
+33
+00:00:58,847 --> 00:01:00,235
+Not just the words.
+
+34
+00:01:02,285 --> 00:01:03,896
+Diagnose. Prioritize.
+
+35
+00:01:03,896 --> 00:01:04,646
+Learn. Build.
+
+36
+00:01:04,646 --> 00:01:05,633
+Prove. Present.
+
+37
+00:01:05,633 --> 00:01:06,558
+Repeat.
+
+38
+00:01:06,954 --> 00:01:08,763
+Your DSA, your projects, your GitHub, your
+
+39
+00:01:08,763 --> 00:01:09,413
+resume, your goals...
+
+40
+00:01:09,413 --> 00:01:10,988
+finally, connected.
+
+41
+00:01:12,277 --> 00:01:13,773
+Placiq. Your work...
+
+42
+00:01:14,535 --> 00:01:17,110
+connected. Start free at learn.placiq.in

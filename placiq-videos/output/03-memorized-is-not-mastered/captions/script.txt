@@ -1,0 +1,14 @@
+You memorized the code.
+Two pointers. Sliding window. Dynamic programming.
+Then the interviewer changed one line... and everything fell apart.
+Memorizing... isn't understanding.
+Placiq's DSA Visualizer shows you every pointer, every swap, every invariant.
+1,800+ animations. Speed it up. Slow it down. Break it, on purpose.
+And your projects? project-final. final-v2. final-final-REAL.
+The AI Project Builder turns ideas into roadmaps... with checkpoints that actually ship.
+Then the Project Analyzer reads your repo... the way a recruiter would.
+Your GitHub is green. So what? Show what's behind it.
+A resume is a claim. Placiq helps you back it... with proof.
+Then turn verified work into a portfolio. In minutes.
+Understand it. Build it. Prove it.
+Placiq. Your work, connected. learn.placiq.in
