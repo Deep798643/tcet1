@@ -1,0 +1,63 @@
+{
+ "day": 47,
+ "title": "College Deadline Multiverse",
+ "pillar": "Career direction",
+ "format": "music",
+ "narrated": false,
+ "voice": null,
+ "tts": null,
+ "music_style": "industrial",
+ "bpm": 118,
+ "duration": 16.27,
+ "hooks": {
+  "selected": "Every deadline lands on the same Wednesday.",
+  "alternatives": [
+   "The calendar collapse.",
+   "Assignment + OA + review + mid-sem = Wednesday."
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "When Every Deadline Is Wednesday",
+ "hashtags": [
+  "#collegelife",
+  "#deadlines",
+  "#engineering",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 16.272,
+  "audio_streams": 1,
+  "lufs": -14.1,
+  "true_peak": -1.8,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 1,
+  "narration_voiced_ratio": null
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.NOT_APPLICABLE.txt",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}
