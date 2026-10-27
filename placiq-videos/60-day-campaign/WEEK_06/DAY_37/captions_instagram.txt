@@ -1,0 +1,7 @@
+Your project should come with a receipt.
+
+Architecture notes, commits, tests, decisions, fixed bugs, a live demo. Itemised proof is easier to discuss than a one-line description.
+
+Placiq collects that evidence as you build. learn.placiq.in
+
+#projects #github #softwareengineering #placiq

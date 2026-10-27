@@ -1,0 +1,15 @@
+TITLE: The README Test
+
+DESCRIPTION:
+final2.py, test (1).py, README (empty).
+
+Documentation is part of the work. A five-section README template, visualised.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #readme #github #documentation #placiq
+
+KEYWORDS: placiq, placement preparation, github evidence, engineering students, career os, the readme test
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

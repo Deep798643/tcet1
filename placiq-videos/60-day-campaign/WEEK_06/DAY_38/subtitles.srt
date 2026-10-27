@@ -1,0 +1,23 @@
+1
+00:00:00,200 --> 00:00:02,180
+Messy repo -> README: what it
+
+2
+00:00:02,180 --> 00:00:04,160
+is, how to run it, how
+
+3
+00:00:04,160 --> 00:00:05,730
+it works, decisions, tests.
+
+4
+00:00:09,800 --> 00:00:10,973
+If they cannot run it, they
+
+5
+00:00:10,973 --> 00:00:11,810
+cannot see it.
+
+6
+00:00:13,000 --> 00:00:14,410
+Placiq - learn.placiq.in

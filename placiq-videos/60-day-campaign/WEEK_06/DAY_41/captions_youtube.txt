@@ -1,0 +1,15 @@
+TITLE: The Best Interview Answer Is in Your Git Log
+
+DESCRIPTION:
+"Why did you add a queue here?"
+
+Candidates who built their projects can reconstruct decisions from history. A fictional example.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #interviewprep #systemdesign #git #placiq
+
+KEYWORDS: placiq, placement preparation, github evidence, engineering students, career os, interview proof
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.
