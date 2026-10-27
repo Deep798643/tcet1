@@ -5,12 +5,14 @@ from scipy.signal import resample_poly
 from PIL import Image, ImageDraw
 
 sys.path.insert(0, os.path.dirname(__file__))
+if '--campaign' in sys.argv:
+    os.environ['PLACIQ_FMT'] = 'v'
 from core import *
 import scenes as SC
 import audio as A
 from videos import VIDEOS
 
-OUT = os.path.join(ROOT, 'output')
+OUT = os.path.join(ROOT, 'original-films')
 BUILD = os.path.join(ROOT, 'build')
 _pipes = {}
 
@@ -209,7 +211,7 @@ def loudnorm(src, dst, tmp=False, I=-14, TP=-2.2):
                        capture_output=True, text=True)
     m = json.loads(r.stderr[r.stderr.rfind('{'):r.stderr.rfind('}') + 1])
     af = (f"loudnorm=I={I}:TP={TP}:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}:"
-          f"measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true,alimiter=limit=0.76:attack=1:release=60:level=false")
+          f"measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true,alimiter=limit={10 ** ((TP - 0.4) / 20):.3f}:attack=1:release=60:level=false")
     out = dst + '.tmp.wav' if tmp or src == dst else dst
     sh(f'ffmpeg -v error -y -i "{src}" -af "{af}" -ar 48000 -c:a pcm_s24le "{out}"')
     if out != dst:
@@ -345,4 +347,10 @@ def main(which=None):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1:] or None)
+    if '--campaign' in sys.argv:
+        import campaign_build
+        a = sys.argv
+        campaign_build.run(resume='--resume' in a, days=[int(x) for x in a[a.index('--days') + 1].split(',')] if '--days' in a else None,
+                           preview='--preview' in a)
+    else:
+        main(sys.argv[1:] or None)

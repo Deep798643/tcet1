@@ -1,0 +1,298 @@
+{
+ "generated": "2026-10-27T14:37:34.939673Z",
+ "total": 10,
+ "planned": 60,
+ "completed": 10,
+ "videos": [
+  {
+   "day": 1,
+   "title": "The 37-Tab Student",
+   "pillar": "Student pain",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_01/DAY_01",
+   "duration": 19.22,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 19.234,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -1.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.656
+   },
+   "hooks": [
+    "Your browser has 37 tabs. Your prep has zero connections.",
+    "Count your tabs. I will wait.",
+    "This is what placement prep looks like at 1 AM."
+   ],
+   "youtube_title": "Your Browser Has 37 Tabs. Your Prep Has 0 Connections.",
+   "ig": "37 tabs open and still no idea what to do next?\n\nLeetCode in one tab, your resume in another, a course you paused in the third. Each one knows a piece of you, and none of them talk.\n\nPlaciq connects DSA, projects, resume and GitHub into one workflow. Try it free at learn.placiq.in\n\n#placementprep #engineeringstudents #dsa #codinglife #placiq"
+  },
+  {
+   "day": 2,
+   "title": "Busy, But Going Where?",
+   "pillar": "Student pain",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_01/DAY_02",
+   "duration": 21.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 21.0,
+    "audio_streams": 1,
+    "lufs": -14.0,
+    "true_peak": -1.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "11 hours of studying. How much of it can you show?",
+    "Busy is not ready.",
+    "Activity and progress are not the same bar."
+   ],
+   "youtube_title": "11 Hours of Study vs Progress You Can Show",
+   "ig": "Studied 11 hours. Can you show any of it?\n\nHours feel like progress. Recruiters and interviewers see evidence: shipped projects, solved patterns, a resume that proves it.\n\nTrack proof, not hours. learn.placiq.in\n\n#studentlife #placements #productivity #placiq"
+  },
+  {
+   "day": 3,
+   "title": "The Productivity Graveyard",
+   "pillar": "Student pain",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_01/DAY_03",
+   "duration": 20.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.0,
+    "audio_streams": 1,
+    "lufs": -14.3,
+    "true_peak": -1.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "roadmap_v14.pdf",
+    "You have revised your roadmap more than you have followed it.",
+    "Planning is the most comfortable form of procrastination."
+   ],
+   "youtube_title": "Roadmap v14 and Still on Step 1",
+   "ig": "roadmap_final_v14.pdf (still on step 1)\n\nPlanning feels productive. Execution is what shows up in interviews.\n\nPlaciq breaks your goal into small daily quests so you start today. learn.placiq.in\n\n#roadmap #procrastination #codingjourney #placiq"
+  },
+  {
+   "day": 4,
+   "title": "One Internship, Ten Platforms",
+   "pillar": "Student pain",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_01/DAY_04",
+   "duration": 15.97,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.968,
+    "audio_streams": 1,
+    "lufs": -14.8,
+    "true_peak": -2.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.621
+   },
+   "hooks": [
+    "One internship. Ten platforms pulling at you.",
+    "Your prep is being pulled in ten directions.",
+    "Which app is your career living in?"
+   ],
+   "youtube_title": "One Internship, Ten Platforms",
+   "ig": "One internship. Ten platforms. Zero shared context.\n\nWhen your DSA, resume, projects and goals live in separate apps, you become the integration layer.\n\nPlaciq connects them into one picture of you. learn.placiq.in\n\n#internship #placementseason #cse #placiq"
+  },
+  {
+   "day": 5,
+   "title": "Student Browser Horror",
+   "pillar": "Student pain",
+   "format": "comedy",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_01/DAY_05",
+   "duration": 20.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.4,
+    "audio_streams": 1,
+    "lufs": -14.9,
+    "true_peak": -1.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "2:07 AM. Assignment due 9 AM. OA at 10.",
+    "A horror story in one terminal.",
+    "POV: placement season at 2 AM."
+   ],
+   "youtube_title": "Placement Prep Horror at 2:07 AM",
+   "ig": "POV: it's 2:07 AM and every deadline just remembered you exist.\n\nAssignment at 9, OA at 10, resume from last year. We have all been there.\n\nPlaciq keeps your prep in one place so 2 AM is less horror, more plan. learn.placiq.in\n\n#codinghumor #engineeringlife #placementseason #placiq"
+  },
+  {
+   "day": 6,
+   "title": "The Skill Gap You Cannot See",
+   "pillar": "Student pain",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_01/DAY_06",
+   "duration": 22.67,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 22.667,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.605
+   },
+   "hooks": [
+    "Your dashboard says 90%. One bar is lying.",
+    "The weakness you never practise does not show up in your streak.",
+    "Green everywhere. Except where it matters."
+   ],
+   "youtube_title": "The Skill Gap Your Streak Hides",
+   "ig": "Your dashboard is 90% green. One bar is lying to you.\n\nStreaks reward what you already like practising. The topic you avoid is often the one that shows up in the interview.\n\nPlaciq's free readiness audit highlights your primary bottleneck. learn.placiq.in\n\n#dsa #interviewprep #skillgap #placiq"
+  },
+  {
+   "day": 7,
+   "title": "Send This to Your Coding Friend",
+   "pillar": "Student pain",
+   "format": "comedy",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_01/DAY_07",
+   "duration": 19.44,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 19.435,
+    "audio_streams": 1,
+    "lufs": -14.4,
+    "true_peak": -1.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Which one are you? Tag the friend.",
+    "Three coders. Every hostel has them.",
+    "Collect all three cards."
+   ],
+   "youtube_title": "3 Types of Coding Students (Which One Are You?)",
+   "ig": "Tag the friend who is card #2.\n\nThe Tutorial Collector, the DSA Grinder and the Endless Starter all work hard. What they are missing is a way to connect that effort into proof.\n\nThat is what Placiq is built for. learn.placiq.in\n\n#codingmemes #developers #engineeringstudents #placiq"
+  },
+  {
+   "day": 8,
+   "title": "New Chat, Same Introduction",
+   "pillar": "AI memory",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_02/DAY_08",
+   "duration": 20.69,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.7,
+    "audio_streams": 1,
+    "lufs": -14.0,
+    "true_peak": -1.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "You have introduced yourself to AI more than to your batchmates.",
+    "New chat. Same intro. Again.",
+    "Ctrl+C, Ctrl+V: my entire AI relationship."
+   ],
+   "youtube_title": "New Chat, Same Introduction",
+   "ig": "New chat. Same introduction. Again.\n\n\"Hi, I'm a 3rd-year CSE student...\" Typed so many times it lives in your clipboard.\n\nPlaciq's PCME memory carries your context across sessions. Introduce yourself once. learn.placiq.in\n\n#ai #chatgpt #studentlife #placiq"
+  },
+  {
+   "day": 9,
+   "title": "The Reset Button",
+   "pillar": "AI memory",
+   "format": "narrated",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_02/DAY_09",
+   "duration": 15.76,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.767,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.686
+   },
+   "hooks": [
+    "Your work keeps growing. Your AI keeps resetting.",
+    "Every new project. Every new chat. Context: deleted.",
+    "Watch the right side reset."
+   ],
+   "youtube_title": "Your AI Keeps Hitting Reset",
+   "ig": "Your work keeps growing. Your AI keeps hitting reset.\n\n140 problems, a half-built chat app, resume v4, and every new conversation starts at zero.\n\nPlaciq keeps context across sessions so advice grows with you. learn.placiq.in\n\n#aitools #placementprep #cse #placiq"
+  },
+  {
+   "day": 10,
+   "title": "The Context Eraser",
+   "pillar": "AI memory",
+   "format": "music",
+   "status": "ready_to_post",
+   "dir": "60-day-campaign/WEEK_02/DAY_10",
+   "duration": 17.33,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.334,
+    "audio_streams": 1,
+    "lufs": -16.1,
+    "true_peak": -1.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "hooks": [
+    "Imagine a mentor who erases the board every time you leave.",
+    "Session 1. Session 2. Session 3. Same blank board.",
+    "This is what forgetting looks like."
+   ],
+   "youtube_title": "The Mentor Who Erases Everything",
+   "ig": "Imagine a mentor who wipes the board after every session.\n\nYour weak topics, your project, your goal: gone. That is how most AI chats work.\n\nPlaciq's PCME keeps the board. learn.placiq.in\n\n#mentorship #ai #engineering #placiq"
+  }
+ ]
+}
