@@ -11,6 +11,38 @@ h1{font-size:44px;margin:0 0 6px;letter-spacing:-.03em}h2{margin:40px 0 12px}.su
 .pend{aspect-ratio:9/16;border-radius:10px;background:#E9E4DA;display:flex;align-items:center;justify-content:center;font:13px monospace;color:#8A877F}
 nav a{font:12px monospace;margin-right:6px;color:#3151EE}
 </style></head><body><main>
+<section class="launch">
+ <div class="lk">// new · SaaS launch film · 1920×1080 · 30fps · H.264</div>
+ <h1 class="lh">Your work, <em>connected.</em></h1>
+ <p class="sub">The Placiq launch explainer: chaos → one workspace → diagnose, prioritize, learn, build → evidence, resume, skill passport, PCME → one connected loop. Built from real Placiq product footage.</p>
+ <div class="tabs" id="cuts"></div>
+ <video id="lv" controls playsinline preload="metadata" crossorigin="anonymous"></video>
+ <div class="dl" id="ldl"></div>
+ <div class="m" id="lmeta"></div>
+</section>
+<style>
+.launch{background:#0F1117;color:#F5F2EC;border-radius:20px;padding:32px;margin:0 0 40px;display:flex;flex-direction:column;gap:14px}
+.launch .sub{color:#A9ADBB;max-width:760px}.lk{font:13px monospace;color:#7C8194}
+.lh{font-size:56px;margin:0}.lh em{font-family:Georgia,serif;font-weight:400;color:#AFC0FF}
+.launch video{width:100%;aspect-ratio:16/9;border-radius:14px;background:#000}
+.tabs{display:flex;gap:8px}.tabs button{font:13px monospace;padding:8px 14px;border-radius:999px;border:1px solid #3A3F4E;background:transparent;color:#F5F2EC;cursor:pointer}
+.tabs button.on{background:#3151EE;border-color:#3151EE}
+.launch .dl a{background:#262A35}.launch .dl a.p{background:#3151EE;font-size:14px;padding:10px 16px}
+</style>
+<script>
+const L='output/04-placiq-saas-launch/';
+const CUTS=[
+ {k:'A',name:'Cut A · male VO · electro 128',dir:L,f:'04-placiq-saas-launch'},
+ {k:'B',name:'Cut B · female VO · house 124',dir:L+'ab-variant-B/',f:'04-placiq-saas-launch_B'},
+];
+function cut(i){const c=CUTS[i];const v=document.getElementById('lv');
+ v.removeAttribute('src');v.innerHTML=`<source src="${c.dir+c.f}_FINAL.mp4" type="video/mp4"><source src="${c.dir+c.f}_preview.webm" type="video/webm">`;v.poster=c.dir+'thumbnails/thumbnail.png';
+ const tr=document.createElement('track');tr.kind='captions';tr.label='English';tr.srclang='en';tr.src=c.dir+'captions/04-placiq-saas-launch.vtt';v.appendChild(tr);v.load();
+ document.getElementById('cuts').innerHTML=CUTS.map((x,j)=>`<button class="${j==i?'on':''}" onclick="cut(${j})">${x.name}</button>`).join('');
+ document.getElementById('ldl').innerHTML=`<a class="p" download href="${c.dir+c.f}_FINAL.mp4">⬇ Download MP4 (1080p)</a><a download href="${c.dir+c.f}_MUSIC_ONLY.mp4">Music-only MP4</a><a download href="${c.dir}audio/narration.wav">Narration WAV</a><a download href="${c.dir}audio/music.wav">Music WAV</a><a download href="${c.dir}audio/sfx.wav">SFX WAV</a><a download href="${c.dir}audio/full_mix.wav">Full mix WAV</a><a download href="${c.dir}captions/04-placiq-saas-launch.srt">SRT</a><a download href="${c.dir}captions/04-placiq-saas-launch.vtt">VTT</a><a download href="${c.dir}thumbnails/thumbnail.png">Thumbnail</a><a href="${c.dir}thumbnails/storyboard.png" target="_blank">Storyboard</a><a download href="${c.dir}source/timeline.json">Timeline JSON</a><a href="${c.dir}source/launch.py" target="_blank">Source</a>`;
+ fetch(c.dir+'verify.json?'+Date.now()).then(r=>r.json()).then(j=>document.getElementById('lmeta').textContent=`${j.duration}s · ${j.final.integrated_lufs} LUFS · ${j.final.true_peak_dbtp} dBTP`).catch(()=>{});}
+cut(0);
+</script>
 <h1>Placiq video studio</h1><p class="sub">Kokoro-82M narration (local) · procedural music + SFX · real Placiq product footage. <a href="https://github.com/Deep798643/tcet1/tree/motionless-marmoset-akyf/set-up-this-codebase-for-Ed0WPD/placiq-videos">Source on GitHub</a></p>
 <h2>60-day campaign <span id="cnt" class="m"></span></h2><nav id="nav"></nav><div class="f" id="filters"></div><div id="weeks"></div>
 <h2>Original films (1920×1080)</h2><div class="orig" id="orig"></div>

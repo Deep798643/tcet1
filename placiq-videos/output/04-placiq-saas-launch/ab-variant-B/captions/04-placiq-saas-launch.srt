@@ -1,0 +1,99 @@
+1
+00:00:00,550 --> 00:00:01,996
+You learn in one place.
+
+2
+00:00:02,106 --> 00:00:03,204
+Build in another.
+
+3
+00:00:03,314 --> 00:00:05,107
+Track your progress nowhere.
+
+4
+00:00:05,216 --> 00:00:07,894
+And every AI conversation starts from zero.
+
+5
+00:00:10,127 --> 00:00:11,348
+Meet Placiq.
+
+6
+00:00:11,398 --> 00:00:13,952
+Your AI-native Career Intelligence OS.
+
+7
+00:00:16,477 --> 00:00:19,281
+One workspace, where everything you do connects.
+
+8
+00:00:20,348 --> 00:00:21,870
+It starts with where you stand.
+
+9
+00:00:21,920 --> 00:00:23,743
+Career Readiness finds your gaps.
+
+10
+00:00:24,703 --> 00:00:27,681
+Career Navigator prioritizes what to do next.
+
+11
+00:00:28,574 --> 00:00:32,283
+Interactive DSA visualizations make concepts click.
+
+12
+00:00:33,413 --> 00:00:36,503
+And the AI Project Builder turns
+
+13
+00:00:36,353 --> 00:00:39,285
+an idea into guided, milestone-by-milestone development.
+
+14
+00:00:40,187 --> 00:00:41,826
+Then, learning becomes proof.
+
+15
+00:00:43,987 --> 00:00:46,473
+Your GitHub work becomes project evidence.
+
+16
+00:00:47,787 --> 00:00:51,376
+Resume Intelligence analyzes every skill and every claim.
+
+17
+00:00:52,142 --> 00:00:54,170
+Your Skill Passport organizes what
+
+18
+00:00:54,020 --> 00:00:55,744
+you can actually demonstrate.
+
+19
+00:00:56,497 --> 00:00:58,640
+And PCME ties it all together,
+
+20
+00:00:58,690 --> 00:01:02,395
+remembering your progress and context across every interaction.
+
+21
+00:01:04,321 --> 00:01:08,695
+Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess.
+
+22
+00:01:11,171 --> 00:01:13,021
+Every step feeds the next,
+
+23
+00:01:12,871 --> 00:01:14,314
+in one connected system.
+
+24
+00:01:15,971 --> 00:01:18,048
+Placiq. Your work, connected.
+
+25
+00:01:18,098 --> 00:01:20,766
+Start free at learn.placiq.in
