@@ -1,0 +1,23 @@
+1
+00:00:00,200 --> 00:00:01,900
+Four different students go in.
+
+2
+00:00:01,900 --> 00:00:03,850
+One identical roadmap comes out.
+
+3
+00:00:11,311 --> 00:00:12,883
+Your path should start from your
+
+4
+00:00:12,883 --> 00:00:13,683
+work.
+
+5
+00:00:14,644 --> 00:00:17,014
+Career Navigator builds a role-specific plan.
+
+6
+00:00:19,644 --> 00:00:21,054
+Placiq - learn.placiq.in

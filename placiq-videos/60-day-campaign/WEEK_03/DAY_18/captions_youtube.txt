@@ -1,0 +1,15 @@
+TITLE: Sliding Window in 10 Seconds
+
+DESCRIPTION:
+Sliding window, in 10 seconds.
+
+The sliding-window pattern visualised: incremental updates instead of recomputation.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #slidingwindow #algorithms #dsa #placiq
+
+KEYWORDS: placiq, placement preparation, dsa, engineering students, career os, watch the algorithm think
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

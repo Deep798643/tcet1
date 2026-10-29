@@ -1,0 +1,236 @@
+{
+ "day": 31,
+ "scenes": [
+  {
+   "idx": 0,
+   "type": "vres",
+   "start": 0.0,
+   "dur": 10.0,
+   "say": null,
+   "caption": "A cluttered layout scatters attention. Clear hierarchy guides the eye.",
+   "params": {
+    "mode": "scan"
+   },
+   "energy": 2,
+   "drop": false,
+   "words": [
+    [
+     "A",
+     0.2,
+     0.54
+    ],
+    [
+     "cluttered",
+     0.54,
+     0.8800000000000001
+    ],
+    [
+     "layout",
+     0.8800000000000001,
+     1.22
+    ],
+    [
+     "scatters",
+     1.22,
+     1.56
+    ],
+    [
+     "attention.",
+     1.56,
+     1.9
+    ],
+    [
+     "Clear",
+     1.9,
+     2.24
+    ],
+    [
+     "hierarchy",
+     2.24,
+     2.5800000000000005
+    ],
+    [
+     "guides",
+     2.5800000000000005,
+     2.9200000000000004
+    ],
+    [
+     "the",
+     2.9200000000000004,
+     3.2600000000000002
+    ],
+    [
+     "eye.",
+     3.2600000000000002,
+     3.6
+    ]
+   ]
+  },
+  {
+   "idx": 1,
+   "type": "vtype",
+   "start": 10.0,
+   "dur": 3.0,
+   "say": null,
+   "caption": "Make the important thing obvious.",
+   "params": {
+    "lines": [
+     "MAKE THE",
+     "IMPORTANT THING",
+     "*OBVIOUS."
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "words": [
+    [
+     "Make",
+     0.2,
+     0.53
+    ],
+    [
+     "the",
+     0.53,
+     0.8600000000000001
+    ],
+    [
+     "important",
+     0.8600000000000001,
+     1.19
+    ],
+    [
+     "thing",
+     1.19,
+     1.52
+    ],
+    [
+     "obvious.",
+     1.52,
+     1.8499999999999999
+    ]
+   ]
+  },
+  {
+   "idx": 2,
+   "type": "vcta",
+   "start": 13.0,
+   "dur": 3.0,
+   "say": null,
+   "caption": "Placiq - resume.placiq.in",
+   "params": {
+    "v": "logo",
+    "tag": "Readable at a glance.",
+    "url": "resume.placiq.in"
+   },
+   "energy": 1,
+   "drop": false,
+   "words": [
+    [
+     "Placiq",
+     0.2,
+     0.5866666666666667
+    ],
+    [
+     "-",
+     0.5866666666666667,
+     0.9733333333333334
+    ],
+    [
+     "resume.placiq.in",
+     0.9733333333333334,
+     1.3599999999999999
+    ]
+   ]
+  }
+ ],
+ "sfx_events": [
+  [
+   0.0,
+   "whoosh",
+   0.5
+  ],
+  [
+   2.5,
+   "stamp",
+   0.6
+  ],
+  [
+   5.0,
+   "glitch",
+   0.3
+  ],
+  [
+   4.0,
+   "click",
+   0.7
+  ],
+  [
+   5.0,
+   "click",
+   0.7
+  ],
+  [
+   6.0,
+   "click",
+   0.7
+  ],
+  [
+   7.0,
+   "click",
+   0.7
+  ],
+  [
+   8.0,
+   "click",
+   0.7
+  ],
+  [
+   10.14,
+   "tick",
+   0.8
+  ],
+  [
+   10.47,
+   "tick",
+   0.8
+  ],
+  [
+   10.8,
+   "tick",
+   0.8
+  ],
+  [
+   11.13,
+   "tick",
+   0.8
+  ],
+  [
+   11.46,
+   "tick",
+   0.8
+  ],
+  [
+   9.62,
+   "whoosh",
+   0.45
+  ],
+  [
+   13.05,
+   "stinger",
+   0.5
+  ],
+  [
+   13.9,
+   "pop",
+   0.6
+  ],
+  [
+   12.62,
+   "whoosh",
+   0.45
+  ]
+ ],
+ "bpm": 120,
+ "style": "minimal",
+ "root": 48
+}

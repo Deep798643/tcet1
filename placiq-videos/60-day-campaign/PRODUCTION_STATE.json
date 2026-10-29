@@ -1,0 +1,1149 @@
+{
+ "days": {
+  "1": {
+   "stage": "done",
+   "duration": 19.22,
+   "render_sec": 5.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 19.234,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -1.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.656
+   },
+   "title": "The 37-Tab Student"
+  },
+  "2": {
+   "stage": "done",
+   "duration": 21.0,
+   "render_sec": 10.5,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 21.0,
+    "audio_streams": 1,
+    "lufs": -14.0,
+    "true_peak": -1.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "Busy, But Going Where?"
+  },
+  "3": {
+   "stage": "done",
+   "duration": 20.0,
+   "render_sec": 9.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.0,
+    "audio_streams": 1,
+    "lufs": -14.3,
+    "true_peak": -1.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Productivity Graveyard"
+  },
+  "4": {
+   "stage": "done",
+   "duration": 15.97,
+   "render_sec": 4.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.968,
+    "audio_streams": 1,
+    "lufs": -14.8,
+    "true_peak": -2.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.621
+   },
+   "title": "One Internship, Ten Platforms"
+  },
+  "5": {
+   "stage": "done",
+   "duration": 20.4,
+   "render_sec": 12.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.4,
+    "audio_streams": 1,
+    "lufs": -14.9,
+    "true_peak": -1.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Student Browser Horror"
+  },
+  "6": {
+   "stage": "done",
+   "duration": 22.67,
+   "render_sec": 10.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 22.667,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.605
+   },
+   "title": "The Skill Gap You Cannot See"
+  },
+  "7": {
+   "stage": "done",
+   "duration": 19.44,
+   "render_sec": 5.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 19.435,
+    "audio_streams": 1,
+    "lufs": -14.4,
+    "true_peak": -1.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Send This to Your Coding Friend"
+  },
+  "8": {
+   "stage": "done",
+   "duration": 20.69,
+   "render_sec": 11.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.7,
+    "audio_streams": 1,
+    "lufs": -14.0,
+    "true_peak": -1.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "New Chat, Same Introduction"
+  },
+  "9": {
+   "stage": "done",
+   "duration": 15.76,
+   "error": "list index out of range",
+   "render_sec": 4.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.767,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.686
+   },
+   "title": "The Reset Button"
+  },
+  "10": {
+   "stage": "done",
+   "duration": 17.33,
+   "render_sec": 5.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.334,
+    "audio_streams": 1,
+    "lufs": -16.1,
+    "true_peak": -1.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Context Eraser"
+  },
+  "11": {
+   "stage": "done",
+   "duration": 22.22,
+   "render_sec": 10.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 22.234,
+    "audio_streams": 1,
+    "lufs": -14.4,
+    "true_peak": -1.7,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "AI Advice for Everyone"
+  },
+  "12": {
+   "stage": "done",
+   "duration": 17.42,
+   "render_sec": 17.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.434,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -0.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.638
+   },
+   "title": "Your Work Should Connect"
+  },
+  "13": {
+   "stage": "done",
+   "duration": 17.4,
+   "render_sec": 10.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.4,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The AI Tutor Intervention"
+  },
+  "14": {
+   "stage": "done",
+   "duration": 22.0,
+   "render_sec": 13.3,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 22.0,
+    "audio_streams": 1,
+    "lufs": -16.3,
+    "true_peak": -3.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.711
+   },
+   "title": "PCME Product Reveal"
+  },
+  "15": {
+   "stage": "done",
+   "duration": 17.34,
+   "render_sec": 4.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.344,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -2.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.679
+   },
+   "title": "Two Sum Is Not Two Lines"
+  },
+  "16": {
+   "stage": "done",
+   "duration": 19.09,
+   "render_sec": 9.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 19.1,
+    "audio_streams": 1,
+    "lufs": -14.3,
+    "true_peak": -1.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Pointer Chaos"
+  },
+  "17": {
+   "stage": "done",
+   "duration": 18.81,
+   "render_sec": 5.5,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.814,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.686
+   },
+   "title": "The Dry-Run Nightmare"
+  },
+  "18": {
+   "stage": "done",
+   "duration": 17.5,
+   "render_sec": 9.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.5,
+    "audio_streams": 1,
+    "lufs": -14.2,
+    "true_peak": -2.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Watch the Algorithm Think"
+  },
+  "19": {
+   "stage": "done",
+   "duration": 18.84,
+   "render_sec": 6.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.838,
+    "audio_streams": 1,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.721
+   },
+   "title": "Brute Force vs Optimized"
+  },
+  "20": {
+   "stage": "done",
+   "duration": 15.94,
+   "render_sec": 7.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.936,
+    "audio_streams": 1,
+    "lufs": -15.3,
+    "true_peak": -3.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "DSA Without Understanding"
+  },
+  "21": {
+   "stage": "done",
+   "duration": 16.74,
+   "render_sec": 17.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.745,
+    "audio_streams": 1,
+    "lufs": -14.9,
+    "true_peak": -1.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "DSA Visualizer Hero Film"
+  },
+  "22": {
+   "stage": "done",
+   "duration": 14.07,
+   "render_sec": 4.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 14.069,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -2.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.633
+   },
+   "title": "Tutorial Hell"
+  },
+  "23": {
+   "stage": "done",
+   "duration": 20.8,
+   "render_sec": 12.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.8,
+    "audio_streams": 1,
+    "lufs": -14.7,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "Your Eighth TODO App"
+  },
+  "24": {
+   "stage": "done",
+   "duration": 20.0,
+   "render_sec": 5.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.0,
+    "audio_streams": 1,
+    "lufs": -16.6,
+    "true_peak": -2.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Abandoned Repository"
+  },
+  "25": {
+   "stage": "done",
+   "duration": 16.0,
+   "render_sec": 5.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -15.2,
+    "true_peak": -3.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.684
+   },
+   "title": "Blank Editor Fear"
+  },
+  "26": {
+   "stage": "done",
+   "duration": 17.9,
+   "render_sec": 10.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.904,
+    "audio_streams": 1,
+    "lufs": -14.6,
+    "true_peak": -1.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "From Idea to Implementation"
+  },
+  "27": {
+   "stage": "done",
+   "duration": 17.22,
+   "render_sec": 5.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.234,
+    "audio_streams": 1,
+    "lufs": -16.3,
+    "true_peak": -2.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.599
+   },
+   "title": "The AI That Asks First"
+  },
+  "28": {
+   "stage": "done",
+   "duration": 17.34,
+   "render_sec": 14.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.344,
+    "audio_streams": 1,
+    "lufs": -15.8,
+    "true_peak": -2.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.749
+   },
+   "title": "Project Builder Hero Film"
+  },
+  "29": {
+   "stage": "done",
+   "duration": 16.82,
+   "render_sec": 6.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.834,
+    "audio_streams": 1,
+    "lufs": -15.5,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.693
+   },
+   "title": "Resume Claim vs Proof"
+  },
+  "30": {
+   "stage": "done",
+   "duration": 16.27,
+   "render_sec": 4.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.272,
+    "audio_streams": 1,
+    "lufs": -14.2,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Generic Resume Machine"
+  },
+  "31": {
+   "stage": "done",
+   "duration": 16.0,
+   "render_sec": 4.5,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -14.3,
+    "true_peak": -2.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 2,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Three-Second Resume"
+  },
+  "32": {
+   "stage": "done",
+   "duration": 17.4,
+   "render_sec": 4.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.4,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -1.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.729
+   },
+   "title": "ATS Confusion"
+  },
+  "33": {
+   "stage": "done",
+   "duration": 15.97,
+   "render_sec": 4.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.968,
+    "audio_streams": 1,
+    "lufs": -15.9,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.715
+   },
+   "title": "Your Project Deserves Better"
+  },
+  "34": {
+   "stage": "done",
+   "duration": 17.22,
+   "render_sec": 6.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.234,
+    "audio_streams": 1,
+    "lufs": -15.0,
+    "true_peak": -2.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 3,
+    "narration_voiced_ratio": null
+   },
+   "title": "Two Resumes, One Difference"
+  },
+  "35": {
+   "stage": "done",
+   "duration": 16.41,
+   "render_sec": 18.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.406,
+    "audio_streams": 1,
+    "lufs": -15.5,
+    "true_peak": -2.4,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.726
+   },
+   "title": "Resume Intelligence Hero"
+  },
+  "36": {
+   "stage": "done",
+   "duration": 18.21,
+   "render_sec": 10.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.207,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -3.1,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "Green Square Anxiety"
+  },
+  "37": {
+   "stage": "done",
+   "duration": 14.09,
+   "render_sec": 4.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 14.1,
+    "audio_streams": 1,
+    "lufs": -16.2,
+    "true_peak": -2.6,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.719
+   },
+   "title": "Projects Are Receipts"
+  },
+  "38": {
+   "stage": "done",
+   "duration": 16.0,
+   "render_sec": 4.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.0,
+    "audio_streams": 1,
+    "lufs": -14.1,
+    "true_peak": -1.3,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "The README Test"
+  },
+  "39": {
+   "stage": "done",
+   "duration": 16.67,
+   "render_sec": 5.3,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.667,
+    "audio_streams": 1,
+    "lufs": -16.6,
+    "true_peak": -3.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.598
+   },
+   "title": "Certificate Mountain"
+  },
+  "40": {
+   "stage": "done",
+   "duration": 17.9,
+   "render_sec": 6.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.904,
+    "audio_streams": 1,
+    "lufs": -15.2,
+    "true_peak": -1.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 2,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Evidence Trail"
+  },
+  "41": {
+   "stage": "done",
+   "duration": 20.85,
+   "render_sec": 7.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.843,
+    "audio_streams": 1,
+    "lufs": -15.1,
+    "true_peak": -2.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.683
+   },
+   "title": "Interview Proof"
+  },
+  "42": {
+   "stage": "done",
+   "duration": 16.88,
+   "render_sec": 12.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.875,
+    "audio_streams": 1,
+    "lufs": -16.0,
+    "true_peak": -1.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null,
+    "relimited": true
+   },
+   "title": "Skill Passport"
+  },
+  "43": {
+   "stage": "done",
+   "duration": 24.5,
+   "render_sec": 11.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 24.5,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -2.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": 0.688
+   },
+   "title": "AI Engineer or Data Scientist?"
+  },
+  "44": {
+   "stage": "done",
+   "duration": 15.0,
+   "render_sec": 5.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.0,
+    "audio_streams": 1,
+    "lufs": -14.7,
+    "true_peak": -0.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Random Roadmap"
+  },
+  "45": {
+   "stage": "done",
+   "duration": 15.48,
+   "render_sec": 5.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 15.5,
+    "audio_streams": 1,
+    "lufs": -16.1,
+    "true_peak": -2.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.738
+   },
+   "title": "What Should I Learn Next?"
+  },
+  "46": {
+   "stage": "done",
+   "duration": 17.22,
+   "render_sec": 6.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.234,
+    "audio_streams": 1,
+    "lufs": -14.7,
+    "true_peak": -2.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "LinkedIn Comparison Mode"
+  },
+  "47": {
+   "stage": "done",
+   "duration": 16.27,
+   "render_sec": 5.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.272,
+    "audio_streams": 1,
+    "lufs": -14.1,
+    "true_peak": -1.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 1,
+    "narration_voiced_ratio": null
+   },
+   "title": "College Deadline Multiverse"
+  },
+  "48": {
+   "stage": "done",
+   "duration": 17.33,
+   "render_sec": 4.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.334,
+    "audio_streams": 1,
+    "lufs": -16.0,
+    "true_peak": -2.7,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 2,
+    "narration_voiced_ratio": 0.621
+   },
+   "title": "Don't Train for Every Role"
+  },
+  "49": {
+   "stage": "done",
+   "duration": 17.81,
+   "render_sec": 15.9,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.813,
+    "audio_streams": 1,
+    "lufs": -17.0,
+    "true_peak": -4.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null,
+    "relimited": true
+   },
+   "title": "Career Navigator Hero"
+  },
+  "50": {
+   "stage": "done",
+   "duration": 18.0,
+   "render_sec": 6.7,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 18.0,
+    "audio_streams": 1,
+    "lufs": -15.0,
+    "true_peak": -1.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Broken Workflow"
+  },
+  "51": {
+   "stage": "done",
+   "duration": 19.03,
+   "render_sec": 7.2,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 19.035,
+    "audio_streams": 1,
+    "lufs": -15.6,
+    "true_peak": -3.0,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.655
+   },
+   "title": "One Student, Many Systems"
+  },
+  "52": {
+   "stage": "done",
+   "duration": 21.33,
+   "render_sec": 7.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 21.334,
+    "audio_streams": 1,
+    "lufs": -15.7,
+    "true_peak": -3.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.716
+   },
+   "title": "The Aarav Story"
+  },
+  "53": {
+   "stage": "done",
+   "duration": 14.52,
+   "render_sec": 20.3,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 14.507,
+    "audio_streams": 1,
+    "lufs": -15.5,
+    "true_peak": -2.6,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.717
+   },
+   "title": "What Connected Really Means"
+  },
+  "54": {
+   "stage": "done",
+   "duration": 9.84,
+   "render_sec": 3.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 9.835,
+    "audio_streams": 1,
+    "lufs": -16.2,
+    "true_peak": -2.8,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.699
+   },
+   "title": "The Placiq Loop"
+  },
+  "55": {
+   "stage": "done",
+   "duration": 17.44,
+   "render_sec": 8.8,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 17.442,
+    "audio_streams": 1,
+    "lufs": -14.9,
+    "true_peak": -2.7,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "From Fragments to Progress"
+  },
+  "56": {
+   "stage": "done",
+   "duration": 16.94,
+   "render_sec": 19.5,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 16.936,
+    "audio_streams": 1,
+    "lufs": -16.2,
+    "true_peak": -2.6,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.669
+   },
+   "title": "Placiq OS Reveal"
+  },
+  "57": {
+   "stage": "done",
+   "duration": 23.02,
+   "error": "x1 must be greater than or equal to x0",
+   "render_sec": 21.0,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 23.034,
+    "audio_streams": 1,
+    "lufs": -15.8,
+    "true_peak": -1.5,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The No-Narration Masterpiece"
+  },
+  "58": {
+   "stage": "done",
+   "duration": 20.8,
+   "render_sec": 10.1,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.8,
+    "audio_streams": 1,
+    "lufs": -14.1,
+    "true_peak": -1.2,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": null
+   },
+   "title": "The Funniest Developer Reel"
+  },
+  "59": {
+   "stage": "done",
+   "duration": 20.67,
+   "render_sec": 6.4,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 20.667,
+    "audio_streams": 1,
+    "lufs": -16.2,
+    "true_peak": -2.7,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.625
+   },
+   "title": "The Most Relatable Student Film"
+  },
+  "60": {
+   "stage": "done",
+   "duration": 23.71,
+   "render_sec": 17.6,
+   "qa": {
+    "pass": true,
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": 23.702,
+    "audio_streams": 1,
+    "lufs": -15.6,
+    "true_peak": -2.9,
+    "black_segments": 0,
+    "frozen_segments_over_2_5s": 0,
+    "narration_voiced_ratio": 0.692
+   },
+   "title": "The Flagship Launch Ad"
+  }
+ },
+ "updated": "2026-10-27T15:17:15.810005Z"
+}

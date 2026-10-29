@@ -1,0 +1,23 @@
+1
+00:00:00,200 --> 00:00:01,200
+365 green squares.
+
+2
+00:00:01,200 --> 00:00:03,200
+What matters: what you built, why,
+
+3
+00:00:03,200 --> 00:00:05,450
+what broke, can someone run it.
+
+4
+00:00:10,131 --> 00:00:12,179
+Placiq GitHub evidence: repos and commits
+
+5
+00:00:12,179 --> 00:00:13,112
+as proof.
+
+6
+00:00:15,097 --> 00:00:16,507
+Placiq - learn.placiq.in

@@ -1,0 +1,19 @@
+1
+00:00:00,200 --> 00:00:01,601
+Press play on an algorithm.
+
+2
+00:00:02,991 --> 00:00:04,986
+Real Placiq DSA Visualizer: pick a
+
+3
+00:00:04,986 --> 00:00:06,981
+pattern, step through it, read the
+
+4
+00:00:06,981 --> 00:00:08,561
+live code and variables.
+
+5
+00:00:14,153 --> 00:00:15,563
+Placiq - learn.placiq.in

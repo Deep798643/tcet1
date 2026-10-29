@@ -1,0 +1,323 @@
+{
+ "day": 30,
+ "scenes": [
+  {
+   "idx": 0,
+   "type": "vfactory",
+   "start": 0.0,
+   "dur": 10.169,
+   "say": null,
+   "caption": "Different students in. \"Hardworking team player with good communication skills\" out.",
+   "params": {
+    "machine": "RESUME-O-TRON",
+    "output": "Hardworking team player with good communication skills",
+    "inputs": [
+     "Riya: built a bus tracker",
+     "Kabir: led hackathon team",
+     "Meera: ML on crop data",
+     "Arjun: fixed college site"
+    ],
+    "verdict": "Real stories in. Same bullet out."
+   },
+   "energy": 2,
+   "drop": false,
+   "words": [
+    [
+     "Different",
+     0.2,
+     0.5381818181818182
+    ],
+    [
+     "students",
+     0.5381818181818182,
+     0.8763636363636365
+    ],
+    [
+     "in.",
+     0.8763636363636365,
+     1.2145454545454546
+    ],
+    [
+     "\"Hardworking",
+     1.2145454545454546,
+     1.5527272727272727
+    ],
+    [
+     "team",
+     1.5527272727272727,
+     1.890909090909091
+    ],
+    [
+     "player",
+     1.890909090909091,
+     2.2290909090909095
+    ],
+    [
+     "with",
+     2.2290909090909095,
+     2.567272727272728
+    ],
+    [
+     "good",
+     2.567272727272728,
+     2.9054545454545457
+    ],
+    [
+     "communication",
+     2.9054545454545457,
+     3.243636363636364
+    ],
+    [
+     "skills\"",
+     3.243636363636364,
+     3.5818181818181825
+    ],
+    [
+     "out.",
+     3.5818181818181825,
+     3.9200000000000004
+    ]
+   ]
+  },
+  {
+   "idx": 1,
+   "type": "vtype",
+   "start": 10.169,
+   "dur": 3.051,
+   "say": null,
+   "caption": "Your bullet should only fit you.",
+   "params": {
+    "lines": [
+     "A BULLET SHOULD",
+     "*ONLY FIT",
+     "YOU."
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "words": [
+    [
+     "Your",
+     0.2,
+     0.47966101694915253
+    ],
+    [
+     "bullet",
+     0.47966101694915253,
+     0.7593220338983051
+    ],
+    [
+     "should",
+     0.7593220338983051,
+     1.0389830508474576
+    ],
+    [
+     "only",
+     1.0389830508474576,
+     1.31864406779661
+    ],
+    [
+     "fit",
+     1.31864406779661,
+     1.5983050847457627
+    ],
+    [
+     "you.",
+     1.5983050847457627,
+     1.8779661016949152
+    ]
+   ]
+  },
+  {
+   "idx": 2,
+   "type": "vcta",
+   "start": 13.22,
+   "dur": 3.051,
+   "say": null,
+   "caption": "Placiq - learn.placiq.in",
+   "params": {
+    "v": "logo",
+    "tag": "Write your own bullets."
+   },
+   "energy": 1,
+   "drop": false,
+   "words": [
+    [
+     "Placiq",
+     0.2,
+     0.5866666666666667
+    ],
+    [
+     "-",
+     0.5866666666666667,
+     0.9733333333333334
+    ],
+    [
+     "learn.placiq.in",
+     0.9733333333333334,
+     1.3599999999999999
+    ]
+   ]
+  }
+ ],
+ "sfx_events": [
+  [
+   0.0,
+   "tick",
+   0.4
+  ],
+  [
+   0.5,
+   "tick",
+   0.4
+  ],
+  [
+   1.0,
+   "tick",
+   0.4
+  ],
+  [
+   1.5,
+   "tick",
+   0.4
+  ],
+  [
+   2.0,
+   "tick",
+   0.4
+  ],
+  [
+   2.5,
+   "tick",
+   0.4
+  ],
+  [
+   3.0,
+   "tick",
+   0.4
+  ],
+  [
+   3.5,
+   "tick",
+   0.4
+  ],
+  [
+   4.0,
+   "tick",
+   0.4
+  ],
+  [
+   4.5,
+   "tick",
+   0.4
+  ],
+  [
+   5.0,
+   "tick",
+   0.4
+  ],
+  [
+   5.5,
+   "tick",
+   0.4
+  ],
+  [
+   6.0,
+   "tick",
+   0.4
+  ],
+  [
+   6.5,
+   "tick",
+   0.4
+  ],
+  [
+   7.0,
+   "tick",
+   0.4
+  ],
+  [
+   7.5,
+   "tick",
+   0.4
+  ],
+  [
+   8.0,
+   "tick",
+   0.4
+  ],
+  [
+   8.5,
+   "tick",
+   0.4
+  ],
+  [
+   9.0,
+   "tick",
+   0.4
+  ],
+  [
+   9.5,
+   "tick",
+   0.4
+  ],
+  [
+   5.593,
+   "stamp",
+   0.5
+  ],
+  [
+   10.309,
+   "tick",
+   0.8
+  ],
+  [
+   10.589,
+   "tick",
+   0.8
+  ],
+  [
+   10.869,
+   "tick",
+   0.8
+  ],
+  [
+   11.148,
+   "tick",
+   0.8
+  ],
+  [
+   11.428,
+   "tick",
+   0.8
+  ],
+  [
+   11.708,
+   "tick",
+   0.8
+  ],
+  [
+   9.789,
+   "whoosh",
+   0.45
+  ],
+  [
+   13.27,
+   "stinger",
+   0.5
+  ],
+  [
+   14.12,
+   "pop",
+   0.6
+  ],
+  [
+   12.84,
+   "whoosh",
+   0.45
+  ]
+ ],
+ "bpm": 118,
+ "style": "industrial",
+ "root": 40
+}

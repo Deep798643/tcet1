@@ -1,0 +1,330 @@
+{
+ "day": 12,
+ "scenes": [
+  {
+   "idx": 0,
+   "type": "vclip",
+   "start": 0.0,
+   "dur": 7.742,
+   "say": "This is a real D S A session in Place IQ. Step by step, every pointer move is visible.",
+   "caption": "This is a real DSA session in Placiq. Step by step, every pointer move is visible.",
+   "params": {
+    "clip": "dsa_run",
+    "pan": [
+     [
+      0.2,
+      0.2
+     ],
+     [
+      0.75,
+      0.4
+     ]
+    ],
+    "cw": 0.55,
+    "title": "Practice, step by step.",
+    "callouts": [
+     [
+      "step-through",
+      0.5,
+      0.55,
+      0.5
+     ]
+    ]
+   },
+   "energy": 2,
+   "drop": false,
+   "words": [
+    [
+     "This",
+     0.15,
+     0.29337499999999994
+    ],
+    [
+     "is",
+     0.29337499999999994,
+     0.405875
+    ],
+    [
+     "a",
+     0.405875,
+     0.493375
+    ],
+    [
+     "real",
+     0.493375,
+     0.780875
+    ],
+    [
+     "D",
+     0.780875,
+     1.030875
+    ],
+    [
+     "S",
+     1.030875,
+     1.230875
+    ],
+    [
+     "A",
+     1.230875,
+     1.3308749999999998
+    ],
+    [
+     "session",
+     1.3308749999999998,
+     1.743375
+    ],
+    [
+     "in",
+     1.743375,
+     1.843375
+    ],
+    [
+     "Place",
+     1.843375,
+     2.118375
+    ],
+    [
+     "IQ",
+     2.118375,
+     2.868375
+    ],
+    [
+     "Step",
+     3.080875,
+     3.368375
+    ],
+    [
+     "by",
+     3.368375,
+     3.580875
+    ],
+    [
+     "step",
+     3.580875,
+     4.0683750000000005
+    ],
+    [
+     "every",
+     4.168375,
+     4.468375
+    ],
+    [
+     "pointer",
+     4.468375,
+     4.893375000000001
+    ],
+    [
+     "move",
+     4.893375000000001,
+     5.155875
+    ],
+    [
+     "is",
+     5.155875,
+     5.268375000000001
+    ],
+    [
+     "visible",
+     5.268375000000001,
+     5.918375
+    ]
+   ]
+  },
+  {
+   "idx": 1,
+   "type": "vclip",
+   "start": 7.742,
+   "dur": 6.774,
+   "say": "And the Placement Copilot sees that work. Its suggestions come from your progress, strengths and weak spots.",
+   "caption": "And the Placement Copilot sees that work. Its suggestions come from your progress, strengths and weak spots.",
+   "params": {
+    "clip": "copilot",
+    "pan": [
+     [
+      0,
+      0.1
+     ],
+     [
+      0.5,
+      0.4
+     ]
+    ],
+    "cw": 0.5,
+    "title": "Advice that knows it.",
+    "callouts": [
+     [
+      "your progress in context",
+      0.5,
+      0.45,
+      0.4
+     ]
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "words": [
+    [
+     "And",
+     0.3,
+     0.3795
+    ],
+    [
+     "the",
+     0.3795,
+     0.467
+    ],
+    [
+     "Placement",
+     0.467,
+     0.917
+    ],
+    [
+     "Copilot",
+     0.917,
+     1.4420000000000002
+    ],
+    [
+     "sees",
+     1.4420000000000002,
+     1.7420000000000002
+    ],
+    [
+     "that",
+     1.7420000000000002,
+     1.9545000000000001
+    ],
+    [
+     "work",
+     1.9545000000000001,
+     2.542
+    ],
+    [
+     "Its",
+     2.642,
+     2.8169999999999997
+    ],
+    [
+     "suggestions",
+     2.8169999999999997,
+     3.467
+    ],
+    [
+     "come",
+     3.467,
+     3.717
+    ],
+    [
+     "from",
+     3.717,
+     3.8545
+    ],
+    [
+     "your",
+     3.8545,
+     3.967
+    ],
+    [
+     "progress",
+     3.967,
+     4.6419999999999995
+    ],
+    [
+     "strengths",
+     4.754499999999999,
+     5.2669999999999995
+    ],
+    [
+     "and",
+     5.2669999999999995,
+     5.3919999999999995
+    ],
+    [
+     "weak",
+     5.3919999999999995,
+     5.616999999999999
+    ],
+    [
+     "spots",
+     5.616999999999999,
+     6.316999999999999
+    ]
+   ]
+  },
+  {
+   "idx": 2,
+   "type": "vcta",
+   "start": 14.516,
+   "dur": 2.903,
+   "say": "Your work, connected.",
+   "caption": "Your work, connected.",
+   "params": {
+    "v": "stack"
+   },
+   "energy": 1,
+   "drop": false,
+   "words": [
+    [
+     "Your",
+     0.153,
+     0.278
+    ],
+    [
+     "work",
+     0.278,
+     0.553
+    ],
+    [
+     "connected",
+     0.603,
+     1.353
+    ]
+   ]
+  }
+ ],
+ "sfx_events": [
+  [
+   0.0,
+   "whoosh_down",
+   0.5
+  ],
+  [
+   3.871,
+   "click",
+   0.9
+  ],
+  [
+   7.742,
+   "whoosh_down",
+   0.5
+  ],
+  [
+   10.452,
+   "click",
+   0.9
+  ],
+  [
+   7.362,
+   "whoosh",
+   0.45
+  ],
+  [
+   14.566,
+   "stinger",
+   0.5
+  ],
+  [
+   15.416,
+   "pop",
+   0.6
+  ],
+  [
+   14.136,
+   "whoosh",
+   0.45
+  ]
+ ],
+ "bpm": 124,
+ "style": "house",
+ "root": 49
+}

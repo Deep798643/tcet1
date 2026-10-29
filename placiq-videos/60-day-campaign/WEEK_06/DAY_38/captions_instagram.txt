@@ -1,0 +1,7 @@
+final2.py, test (1).py, and an empty README.
+
+A five-section README (what, run, how, decisions, tests) makes your repo understandable in a minute.
+
+Placiq's GitHub evidence view rewards depth like this. learn.placiq.in
+
+#readme #github #documentation #placiq

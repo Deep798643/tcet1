@@ -1,0 +1,5 @@
+Every pointer in an algorithm should move by a rule you can state. A short visual on invariants.
+
+Day 16 of our 60-day series on connected career preparation. Placiq brings DSA practice, project evidence, resume intelligence and career direction into one learner workspace.
+
+https://learn.placiq.in/

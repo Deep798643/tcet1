@@ -1,0 +1,63 @@
+{
+ "day": 38,
+ "title": "The README Test",
+ "pillar": "GitHub evidence",
+ "format": "music",
+ "narrated": false,
+ "voice": null,
+ "tts": null,
+ "music_style": "arcade",
+ "bpm": 150,
+ "duration": 16.0,
+ "hooks": {
+  "selected": "final2.py, test (1).py, README (empty).",
+  "alternatives": [
+   "Can a stranger run your repo in 60 seconds?",
+   "The README glow-up."
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "The README Test",
+ "hashtags": [
+  "#readme",
+  "#github",
+  "#documentation",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 16.0,
+  "audio_streams": 1,
+  "lufs": -14.1,
+  "true_peak": -1.3,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 1,
+  "narration_voiced_ratio": null
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.NOT_APPLICABLE.txt",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}

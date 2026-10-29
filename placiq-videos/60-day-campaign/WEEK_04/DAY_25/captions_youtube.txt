@@ -1,0 +1,15 @@
+TITLE: How to Beat Blank Editor Fear
+
+DESCRIPTION:
+untitled.py. Cursor blinking. Panic rising.
+
+A simple method for starting projects: sketch architecture, define milestones, complete the first one.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #coding #projectplanning #softwaredesign #placiq
+
+KEYWORDS: placiq, placement preparation, projects, engineering students, career os, blank editor fear
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

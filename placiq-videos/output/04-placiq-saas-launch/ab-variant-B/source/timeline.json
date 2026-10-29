@@ -1,0 +1,1671 @@
+{
+ "title": "Placiq - Your work, connected (Launch film, cut B)",
+ "variant": "B",
+ "resolution": "1920x1080",
+ "fps": 30,
+ "duration": 82.071,
+ "bpm": 124.0,
+ "style": "house",
+ "voice": "af_heart",
+ "tts": "Kokoro-82M (local, Apache-2.0)",
+ "shots": [
+  {
+   "idx": 0,
+   "id": "chaos",
+   "kind": "chaos",
+   "start": 0.0,
+   "dur": 9.677,
+   "background": "#F5F2EC",
+   "label": "// the problem",
+   "headline": null,
+   "clip": null,
+   "clip2": null,
+   "lines": [
+    {
+     "say": "You learn in one place.",
+     "caption": "You learn in one place.",
+     "vo_start": 0.55
+    },
+    {
+     "say": "Build in another.",
+     "caption": "Build in another.",
+     "vo_start": 2.106
+    },
+    {
+     "say": "Track your progress... nowhere.",
+     "caption": "Track your progress nowhere.",
+     "vo_start": 3.314
+    },
+    {
+     "say": "And every AI conversation starts from zero.",
+     "caption": "And every AI conversation starts from zero.",
+     "vo_start": 5.216
+    }
+   ],
+   "words": [
+    [
+     "You",
+     0.55,
+     0.647
+    ],
+    [
+     "learn",
+     0.647,
+     0.922
+    ],
+    [
+     "in",
+     0.922,
+     1.072
+    ],
+    [
+     "one",
+     1.072,
+     1.297
+    ],
+    [
+     "place",
+     1.297,
+     1.872
+    ],
+    [
+     "Build",
+     2.106,
+     2.395
+    ],
+    [
+     "in",
+     2.395,
+     2.483
+    ],
+    [
+     "another",
+     2.483,
+     3.12
+    ],
+    [
+     "Track",
+     3.314,
+     3.538
+    ],
+    [
+     "your",
+     3.538,
+     3.651
+    ],
+    [
+     "progress",
+     3.651,
+     4.251
+    ],
+    [
+     "nowhere",
+     4.376,
+     5.026
+    ],
+    [
+     "And",
+     5.216,
+     5.351
+    ],
+    [
+     "every",
+     5.351,
+     5.701
+    ],
+    [
+     "AI",
+     5.701,
+     6.063
+    ],
+    [
+     "conversation",
+     6.063,
+     6.738
+    ],
+    [
+     "starts",
+     6.738,
+     7.051
+    ],
+    [
+     "from",
+     7.051,
+     7.238
+    ],
+    [
+     "zero",
+     7.238,
+     7.813
+    ]
+   ],
+   "energy": 1,
+   "drop": false
+  },
+  {
+   "idx": 1,
+   "id": "reveal",
+   "kind": "reveal",
+   "start": 9.677,
+   "dur": 6.5,
+   "background": "#3151EE",
+   "label": "// introducing",
+   "headline": null,
+   "clip": null,
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Meet Place IQ.",
+     "caption": "Meet Placiq.",
+     "vo_start": 10.127
+    },
+    {
+     "say": "Your AI-native, Career Intelligence OS.",
+     "caption": "Your AI-native Career Intelligence OS.",
+     "vo_start": 11.398
+    }
+   ],
+   "words": [
+    [
+     "Meet",
+     10.141,
+     10.341
+    ],
+    [
+     "Place",
+     10.341,
+     10.604
+    ],
+    [
+     "IQ",
+     10.604,
+     11.241
+    ],
+    [
+     "Your",
+     11.398,
+     11.501
+    ],
+    [
+     "AI-native",
+     11.501,
+     12.176
+    ],
+    [
+     "Career",
+     12.251,
+     12.588
+    ],
+    [
+     "Intelligence",
+     12.588,
+     13.188
+    ],
+    [
+     "OS",
+     13.188,
+     13.851
+    ]
+   ],
+   "energy": 3,
+   "drop": true
+  },
+  {
+   "idx": 2,
+   "id": "workspace",
+   "kind": "workspace",
+   "start": 16.177,
+   "dur": 3.871,
+   "background": "#F5F2EC",
+   "label": "// one workspace",
+   "headline": null,
+   "clip": "welcome",
+   "clip2": null,
+   "lines": [
+    {
+     "say": "One workspace, where everything you do... connects.",
+     "caption": "One workspace, where everything you do connects.",
+     "vo_start": 16.477
+    }
+   ],
+   "words": [
+    [
+     "One",
+     16.477,
+     16.699
+    ],
+    [
+     "workspace",
+     16.699,
+     17.224
+    ],
+    [
+     "where",
+     17.262,
+     17.424
+    ],
+    [
+     "everything",
+     17.424,
+     17.824
+    ],
+    [
+     "you",
+     17.824,
+     17.974
+    ],
+    [
+     "do",
+     17.974,
+     18.349
+    ],
+    [
+     "connects",
+     18.499,
+     19.174
+    ]
+   ],
+   "energy": 2,
+   "drop": false
+  },
+  {
+   "idx": 3,
+   "id": "readiness",
+   "kind": "product",
+   "start": 20.048,
+   "dur": 4.355,
+   "background": "#F5F2EC",
+   "label": "// 01  diagnose",
+   "headline": "Know where|you *stand.*",
+   "clip": "readiness_a",
+   "clip2": null,
+   "lines": [
+    {
+     "say": "It starts with where you stand.",
+     "caption": "It starts with where you stand.",
+     "vo_start": 20.348
+    },
+    {
+     "say": "Career Readiness finds your gaps.",
+     "caption": "Career Readiness finds your gaps.",
+     "vo_start": 21.92
+    }
+   ],
+   "words": [
+    [
+     "It",
+     20.348,
+     20.44
+    ],
+    [
+     "starts",
+     20.44,
+     20.752
+    ],
+    [
+     "with",
+     20.752,
+     20.877
+    ],
+    [
+     "where",
+     20.877,
+     21.015
+    ],
+    [
+     "you",
+     21.015,
+     21.14
+    ],
+    [
+     "stand",
+     21.14,
+     21.765
+    ],
+    [
+     "Career",
+     21.92,
+     22.262
+    ],
+    [
+     "Readiness",
+     22.262,
+     22.637
+    ],
+    [
+     "finds",
+     22.637,
+     22.924
+    ],
+    [
+     "your",
+     22.924,
+     23.037
+    ],
+    [
+     "gaps",
+     23.037,
+     23.637
+    ]
+   ],
+   "energy": 2,
+   "drop": false
+  },
+  {
+   "idx": 4,
+   "id": "navigator",
+   "kind": "product",
+   "start": 24.403,
+   "dur": 3.871,
+   "background": "#E8ECFB",
+   "label": "// 02  prioritize",
+   "headline": "Do the *right*|thing next.",
+   "clip": "navigator_a",
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Career Navigator prioritizes what to do next.",
+     "caption": "Career Navigator prioritizes what to do next.",
+     "vo_start": 24.703
+    }
+   ],
+   "words": [
+    [
+     "Career",
+     24.703,
+     25.069
+    ],
+    [
+     "Navigator",
+     25.069,
+     25.757
+    ],
+    [
+     "prioritizes",
+     25.757,
+     26.569
+    ],
+    [
+     "what",
+     26.569,
+     26.707
+    ],
+    [
+     "to",
+     26.707,
+     26.794
+    ],
+    [
+     "do",
+     26.794,
+     26.969
+    ],
+    [
+     "next",
+     26.969,
+     27.594
+    ]
+   ],
+   "energy": 2,
+   "drop": false
+  },
+  {
+   "idx": 5,
+   "id": "dsa",
+   "kind": "product",
+   "start": 28.274,
+   "dur": 4.839,
+   "background": "#F5F2EC",
+   "label": "// 03  learn",
+   "headline": "Watch the|concept *click.*",
+   "clip": "dsa_viz",
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Interactive D S A visualizations make concepts click.",
+     "caption": "Interactive DSA visualizations make concepts click.",
+     "vo_start": 28.574
+    }
+   ],
+   "words": [
+    [
+     "Interactive",
+     28.574,
+     29.132
+    ],
+    [
+     "D",
+     29.132,
+     29.644
+    ],
+    [
+     "S",
+     29.644,
+     30.044
+    ],
+    [
+     "A",
+     30.044,
+     30.119
+    ],
+    [
+     "visualizations",
+     30.119,
+     30.944
+    ],
+    [
+     "make",
+     30.944,
+     31.169
+    ],
+    [
+     "concepts",
+     31.169,
+     31.719
+    ],
+    [
+     "click",
+     31.719,
+     32.219
+    ]
+   ],
+   "energy": 2,
+   "drop": false
+  },
+  {
+   "idx": 6,
+   "id": "builder",
+   "kind": "split",
+   "start": 33.113,
+   "dur": 6.774,
+   "background": "#ECE6DA",
+   "label": "// 04  build",
+   "headline": "From idea to|*milestones.*",
+   "clip": "builder",
+   "clip2": "roadmap_a",
+   "lines": [
+    {
+     "say": "And the AI Project Builder turns an idea... into guided, milestone by milestone development.",
+     "caption": "And the AI Project Builder turns an idea into guided, milestone-by-milestone development.",
+     "vo_start": 33.413
+    }
+   ],
+   "words": [
+    [
+     "And",
+     33.413,
+     33.478
+    ],
+    [
+     "the",
+     33.478,
+     33.603
+    ],
+    [
+     "AI",
+     33.603,
+     33.965
+    ],
+    [
+     "Project",
+     33.965,
+     34.415
+    ],
+    [
+     "Builder",
+     34.415,
+     34.765
+    ],
+    [
+     "turns",
+     34.765,
+     35.078
+    ],
+    [
+     "an",
+     35.078,
+     35.178
+    ],
+    [
+     "idea",
+     35.178,
+     35.915
+    ],
+    [
+     "into",
+     36.09,
+     36.353
+    ],
+    [
+     "guided",
+     36.353,
+     36.94
+    ],
+    [
+     "milestone",
+     37.053,
+     37.715
+    ],
+    [
+     "by",
+     37.715,
+     37.89
+    ],
+    [
+     "milestone",
+     37.89,
+     38.39
+    ],
+    [
+     "development",
+     38.39,
+     39.215
+    ]
+   ],
+   "energy": 2,
+   "drop": false
+  },
+  {
+   "idx": 7,
+   "id": "proof",
+   "kind": "statement",
+   "start": 39.887,
+   "dur": 3.8,
+   "background": "#0F1117",
+   "label": "// from learning to proof",
+   "headline": null,
+   "clip": null,
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Then, learning becomes proof.",
+     "caption": "Then, learning becomes proof.",
+     "vo_start": 40.187
+    }
+   ],
+   "words": [
+    [
+     "Then",
+     40.187,
+     40.453
+    ],
+    [
+     "learning",
+     40.503,
+     40.791
+    ],
+    [
+     "becomes",
+     40.791,
+     41.128
+    ],
+    [
+     "proof",
+     41.128,
+     41.728
+    ]
+   ],
+   "energy": 1,
+   "drop": false
+  },
+  {
+   "idx": 8,
+   "id": "github",
+   "kind": "product",
+   "start": 43.687,
+   "dur": 3.8,
+   "background": "#0F1117",
+   "label": "// 05  evidence",
+   "headline": "Commits become|*evidence.*",
+   "clip": "github",
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Your GitHub work becomes project evidence.",
+     "caption": "Your GitHub work becomes project evidence.",
+     "vo_start": 43.987
+    }
+   ],
+   "words": [
+    [
+     "Your",
+     43.987,
+     44.11
+    ],
+    [
+     "GitHub",
+     44.11,
+     44.497
+    ],
+    [
+     "work",
+     44.497,
+     44.772
+    ],
+    [
+     "becomes",
+     44.772,
+     45.185
+    ],
+    [
+     "project",
+     45.185,
+     45.672
+    ],
+    [
+     "evidence",
+     45.672,
+     46.372
+    ]
+   ],
+   "energy": 3,
+   "drop": false
+  },
+  {
+   "idx": 9,
+   "id": "resume",
+   "kind": "product",
+   "start": 47.487,
+   "dur": 4.355,
+   "background": "#0F1117",
+   "label": "// 06  present",
+   "headline": "Every claim,|*checked.*",
+   "clip": "resume",
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Resume Intelligence analyzes every skill, and every claim.",
+     "caption": "Resume Intelligence analyzes every skill and every claim.",
+     "vo_start": 47.787
+    }
+   ],
+   "words": [
+    [
+     "Resume",
+     47.787,
+     48.114
+    ],
+    [
+     "Intelligence",
+     48.114,
+     48.739
+    ],
+    [
+     "analyzes",
+     48.739,
+     49.327
+    ],
+    [
+     "every",
+     49.327,
+     49.639
+    ],
+    [
+     "skill",
+     49.639,
+     50.202
+    ],
+    [
+     "and",
+     50.302,
+     50.427
+    ],
+    [
+     "every",
+     50.427,
+     50.727
+    ],
+    [
+     "claim",
+     50.727,
+     51.352
+    ]
+   ],
+   "energy": 3,
+   "drop": false
+  },
+  {
+   "idx": 10,
+   "id": "passport",
+   "kind": "product",
+   "start": 51.842,
+   "dur": 4.355,
+   "background": "#0F1117",
+   "label": "// 07  skill passport",
+   "headline": "Skills you can|*demonstrate.*",
+   "clip": "passport",
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Your Skill Passport organizes what you can actually demonstrate.",
+     "caption": "Your Skill Passport organizes what you can actually demonstrate.",
+     "vo_start": 52.142
+    }
+   ],
+   "words": [
+    [
+     "Your",
+     52.142,
+     52.232
+    ],
+    [
+     "Skill",
+     52.232,
+     52.545
+    ],
+    [
+     "Passport",
+     52.545,
+     53.095
+    ],
+    [
+     "organizes",
+     53.095,
+     54.02
+    ],
+    [
+     "what",
+     54.02,
+     54.17
+    ],
+    [
+     "you",
+     54.17,
+     54.27
+    ],
+    [
+     "can",
+     54.27,
+     54.432
+    ],
+    [
+     "actually",
+     54.432,
+     54.87
+    ],
+    [
+     "demonstrate",
+     54.87,
+     55.77
+    ]
+   ],
+   "energy": 3,
+   "drop": false
+  },
+  {
+   "idx": 11,
+   "id": "pcme",
+   "kind": "pcme",
+   "start": 56.197,
+   "dur": 7.674,
+   "background": "#0F1117",
+   "label": "// PCME  persistent context & memory engine",
+   "headline": null,
+   "clip": "pcme_a",
+   "clip2": "copilot_a",
+   "lines": [
+    {
+     "say": "And P C M E ties it all together,",
+     "caption": "And PCME ties it all together,",
+     "vo_start": 56.497
+    },
+    {
+     "say": "remembering your progress and context, across every interaction.",
+     "caption": "remembering your progress and context across every interaction.",
+     "vo_start": 58.69
+    }
+   ],
+   "words": [
+    [
+     "And",
+     56.497,
+     56.579
+    ],
+    [
+     "P",
+     56.579,
+     56.792
+    ],
+    [
+     "C",
+     56.792,
+     57.067
+    ],
+    [
+     "M",
+     57.067,
+     57.304
+    ],
+    [
+     "E",
+     57.304,
+     57.479
+    ],
+    [
+     "ties",
+     57.479,
+     57.717
+    ],
+    [
+     "it",
+     57.717,
+     57.792
+    ],
+    [
+     "all",
+     57.792,
+     57.954
+    ],
+    [
+     "together",
+     57.954,
+     58.579
+    ],
+    [
+     "remembering",
+     58.69,
+     59.173
+    ],
+    [
+     "your",
+     59.173,
+     59.285
+    ],
+    [
+     "progress",
+     59.285,
+     59.723
+    ],
+    [
+     "and",
+     59.723,
+     59.835
+    ],
+    [
+     "context",
+     59.835,
+     60.685
+    ],
+    [
+     "across",
+     60.785,
+     61.198
+    ],
+    [
+     "every",
+     61.198,
+     61.498
+    ],
+    [
+     "interaction",
+     61.498,
+     62.36
+    ]
+   ],
+   "energy": 3,
+   "drop": false
+  },
+  {
+   "idx": 12,
+   "id": "loop",
+   "kind": "loop",
+   "start": 63.871,
+   "dur": 7.0,
+   "background": "#F5F2EC",
+   "label": "// one connected loop",
+   "headline": null,
+   "clip": null,
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess.",
+     "caption": "Diagnose. Prioritize. Learn. Build. Evidence. Present. Reassess.",
+     "vo_start": 64.321
+    }
+   ],
+   "words": [
+    [
+     "Diagnose",
+     64.321,
+     64.892
+    ],
+    [
+     "Prioritize",
+     64.942,
+     65.742
+    ],
+    [
+     "Learn",
+     65.829,
+     66.117
+    ],
+    [
+     "Build",
+     66.167,
+     66.492
+    ],
+    [
+     "Evidence",
+     66.542,
+     67.167
+    ],
+    [
+     "Present",
+     67.267,
+     67.742
+    ],
+    [
+     "Reassess",
+     67.817,
+     68.592
+    ]
+   ],
+   "energy": 3,
+   "drop": true
+  },
+  {
+   "idx": 13,
+   "id": "resolve",
+   "kind": "resolve",
+   "start": 70.871,
+   "dur": 4.8,
+   "background": "#F5F2EC",
+   "label": "// one system",
+   "headline": null,
+   "clip": null,
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Every step feeds the next, in one connected system.",
+     "caption": "Every step feeds the next, in one connected system.",
+     "vo_start": 71.171
+    }
+   ],
+   "words": [
+    [
+     "Every",
+     71.171,
+     71.421
+    ],
+    [
+     "step",
+     71.421,
+     71.721
+    ],
+    [
+     "feeds",
+     71.721,
+     71.984
+    ],
+    [
+     "the",
+     71.984,
+     72.071
+    ],
+    [
+     "next",
+     72.071,
+     72.621
+    ],
+    [
+     "in",
+     72.721,
+     72.871
+    ],
+    [
+     "one",
+     72.871,
+     73.121
+    ],
+    [
+     "connected",
+     73.121,
+     73.621
+    ],
+    [
+     "system",
+     73.621,
+     74.296
+    ]
+   ],
+   "energy": 2,
+   "drop": false
+  },
+  {
+   "idx": 14,
+   "id": "end",
+   "kind": "end",
+   "start": 75.671,
+   "dur": 6.4,
+   "background": "#0F1117",
+   "label": "",
+   "headline": null,
+   "clip": null,
+   "clip2": null,
+   "lines": [
+    {
+     "say": "Place IQ. Your work, connected.",
+     "caption": "Placiq. Your work, connected.",
+     "vo_start": 75.971
+    },
+    {
+     "say": "Start free, at learn dot place IQ dot in.",
+     "caption": "Start free at learn.placiq.in",
+     "vo_start": 78.098
+    }
+   ],
+   "words": [
+    [
+     "Place",
+     75.971,
+     76.193
+    ],
+    [
+     "IQ",
+     76.193,
+     76.693
+    ],
+    [
+     "Your",
+     76.818,
+     76.968
+    ],
+    [
+     "work",
+     76.968,
+     77.168
+    ],
+    [
+     "connected",
+     77.218,
+     77.968
+    ],
+    [
+     "Start",
+     78.109,
+     78.384
+    ],
+    [
+     "free",
+     78.384,
+     78.759
+    ],
+    [
+     "at",
+     78.859,
+     78.947
+    ],
+    [
+     "learn",
+     78.947,
+     79.184
+    ],
+    [
+     "dot",
+     79.184,
+     79.434
+    ],
+    [
+     "place",
+     79.434,
+     79.709
+    ],
+    [
+     "IQ",
+     79.709,
+     80.034
+    ],
+    [
+     "dot",
+     80.034,
+     80.272
+    ],
+    [
+     "in",
+     80.272,
+     80.709
+    ]
+   ],
+   "energy": 1,
+   "drop": false
+  }
+ ],
+ "sfx_events": [
+  [
+   0.55,
+   "pop",
+   0.45
+  ],
+  [
+   0.9,
+   "pop",
+   0.45
+  ],
+  [
+   2.106,
+   "pop",
+   0.45
+  ],
+  [
+   2.406,
+   "pop",
+   0.45
+  ],
+  [
+   2.656,
+   "pop",
+   0.45
+  ],
+  [
+   3.314,
+   "pop",
+   0.45
+  ],
+  [
+   3.464,
+   "pop",
+   0.45
+  ],
+  [
+   3.614,
+   "pop",
+   0.45
+  ],
+  [
+   3.734,
+   "pop",
+   0.45
+  ],
+  [
+   3.834,
+   "pop",
+   0.45
+  ],
+  [
+   3.934,
+   "pop",
+   0.45
+  ],
+  [
+   4.034,
+   "pop",
+   0.45
+  ],
+  [
+   5.316,
+   "key",
+   0.5
+  ],
+  [
+   5.361,
+   "key",
+   0.5
+  ],
+  [
+   5.406,
+   "key",
+   0.5
+  ],
+  [
+   5.451,
+   "key",
+   0.5
+  ],
+  [
+   5.496,
+   "key",
+   0.5
+  ],
+  [
+   5.541,
+   "key",
+   0.5
+  ],
+  [
+   5.586,
+   "key",
+   0.5
+  ],
+  [
+   5.631,
+   "key",
+   0.5
+  ],
+  [
+   5.676,
+   "key",
+   0.5
+  ],
+  [
+   5.721,
+   "key",
+   0.5
+  ],
+  [
+   5.766,
+   "key",
+   0.5
+  ],
+  [
+   5.811,
+   "key",
+   0.5
+  ],
+  [
+   5.856,
+   "key",
+   0.5
+  ],
+  [
+   5.901,
+   "key",
+   0.5
+  ],
+  [
+   5.946,
+   "key",
+   0.5
+  ],
+  [
+   5.991,
+   "key",
+   0.5
+  ],
+  [
+   6.036,
+   "key",
+   0.5
+  ],
+  [
+   6.081,
+   "key",
+   0.5
+  ],
+  [
+   6.126,
+   "key",
+   0.5
+  ],
+  [
+   6.171,
+   "key",
+   0.5
+  ],
+  [
+   6.216,
+   "key",
+   0.5
+  ],
+  [
+   6.261,
+   "key",
+   0.5
+  ],
+  [
+   6.306,
+   "key",
+   0.5
+  ],
+  [
+   6.351,
+   "key",
+   0.5
+  ],
+  [
+   6.396,
+   "key",
+   0.5
+  ],
+  [
+   6.441,
+   "key",
+   0.5
+  ],
+  [
+   6.617,
+   "notif",
+   0.5
+  ],
+  [
+   7.216,
+   "glitch",
+   0.55
+  ],
+  [
+   9.677,
+   "impact",
+   0.9
+  ],
+  [
+   10.397,
+   "bass",
+   0.6
+  ],
+  [
+   11.198,
+   "whoosh",
+   0.6
+  ],
+  [
+   15.927,
+   "whoosh",
+   0.5
+  ],
+  [
+   17.077,
+   "tick",
+   0.7
+  ],
+  [
+   17.197,
+   "tick",
+   0.7
+  ],
+  [
+   17.317,
+   "tick",
+   0.7
+  ],
+  [
+   17.437,
+   "tick",
+   0.7
+  ],
+  [
+   17.557,
+   "tick",
+   0.7
+  ],
+  [
+   17.677,
+   "tick",
+   0.7
+  ],
+  [
+   17.797,
+   "tick",
+   0.7
+  ],
+  [
+   17.917,
+   "tick",
+   0.7
+  ],
+  [
+   19.798,
+   "whoosh",
+   0.5
+  ],
+  [
+   20.148,
+   "whoosh_down",
+   0.4
+  ],
+  [
+   21.877,
+   "click",
+   0.8
+  ],
+  [
+   22.748,
+   "click",
+   0.8
+  ],
+  [
+   21.92,
+   "whoosh",
+   0.45
+  ],
+  [
+   24.153,
+   "whoosh",
+   0.5
+  ],
+  [
+   24.503,
+   "whoosh_down",
+   0.4
+  ],
+  [
+   25.758,
+   "click",
+   0.8
+  ],
+  [
+   28.024,
+   "whoosh",
+   0.5
+  ],
+  [
+   28.374,
+   "whoosh_down",
+   0.4
+  ],
+  [
+   29.968,
+   "click",
+   0.8
+  ],
+  [
+   31.177,
+   "click",
+   0.8
+  ],
+  [
+   32.863,
+   "whoosh",
+   0.5
+  ],
+  [
+   35.687,
+   "whoosh",
+   0.6
+  ],
+  [
+   37.189,
+   "pop",
+   0.6
+  ],
+  [
+   37.539,
+   "pop",
+   0.6
+  ],
+  [
+   37.889,
+   "pop",
+   0.6
+  ],
+  [
+   38.239,
+   "pop",
+   0.6
+  ],
+  [
+   39.637,
+   "whoosh",
+   0.5
+  ],
+  [
+   40.787,
+   "eraser",
+   0.5
+  ],
+  [
+   40.937,
+   "bass",
+   0.5
+  ],
+  [
+   43.437,
+   "whoosh",
+   0.5
+  ],
+  [
+   43.787,
+   "whoosh_down",
+   0.4
+  ],
+  [
+   45.397,
+   "click",
+   0.8
+  ],
+  [
+   47.237,
+   "whoosh",
+   0.5
+  ],
+  [
+   47.587,
+   "whoosh_down",
+   0.4
+  ],
+  [
+   49.229,
+   "click",
+   0.8
+  ],
+  [
+   49.447,
+   "whoosh",
+   0.45
+  ],
+  [
+   51.592,
+   "whoosh",
+   0.5
+  ],
+  [
+   51.942,
+   "whoosh_down",
+   0.4
+  ],
+  [
+   55.947,
+   "whoosh",
+   0.5
+  ],
+  [
+   58.89,
+   "notif",
+   0.3
+  ],
+  [
+   59.19,
+   "notif",
+   0.3
+  ],
+  [
+   59.49,
+   "notif",
+   0.3
+  ],
+  [
+   63.621,
+   "whoosh",
+   0.5
+  ],
+  [
+   64.271,
+   "tick",
+   1.0
+  ],
+  [
+   64.892,
+   "tick",
+   1.0
+  ],
+  [
+   65.779,
+   "tick",
+   1.0
+  ],
+  [
+   66.117,
+   "tick",
+   1.0
+  ],
+  [
+   66.492,
+   "tick",
+   1.0
+  ],
+  [
+   67.217,
+   "tick",
+   1.0
+  ],
+  [
+   67.767,
+   "tick",
+   1.0
+  ],
+  [
+   64.271,
+   "click",
+   0.5
+  ],
+  [
+   64.892,
+   "click",
+   0.5
+  ],
+  [
+   65.779,
+   "click",
+   0.5
+  ],
+  [
+   66.117,
+   "click",
+   0.5
+  ],
+  [
+   66.492,
+   "click",
+   0.5
+  ],
+  [
+   67.217,
+   "click",
+   0.5
+  ],
+  [
+   67.767,
+   "click",
+   0.5
+  ],
+  [
+   70.621,
+   "whoosh",
+   0.5
+  ],
+  [
+   71.671,
+   "impact",
+   0.5
+  ],
+  [
+   75.421,
+   "whoosh",
+   0.5
+  ],
+  [
+   75.821,
+   "stinger",
+   0.6
+  ],
+  [
+   78.098,
+   "pop",
+   0.6
+  ],
+  [
+   78.898,
+   "click",
+   1.0
+  ]
+ ],
+ "footage": "Real Placiq product captures: placiq-videos/assets/real-product/clips"
+}

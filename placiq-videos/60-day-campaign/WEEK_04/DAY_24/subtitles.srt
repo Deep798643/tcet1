@@ -1,0 +1,19 @@
+1
+00:00:00,200 --> 00:00:01,877
+A city of unfinished repos.
+
+2
+00:00:01,877 --> 00:00:03,218
+Last commits months ago.
+
+3
+00:00:03,218 --> 00:00:04,810
+Then one gets finished.
+
+4
+00:00:13,533 --> 00:00:15,617
+One finished project beats seven started.
+
+5
+00:00:16,867 --> 00:00:18,277
+Placiq - learn.placiq.in

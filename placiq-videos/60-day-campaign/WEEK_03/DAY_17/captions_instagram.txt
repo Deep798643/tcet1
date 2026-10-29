@@ -1,0 +1,7 @@
+Dry-running a loop in your head feels like a maze.
+
+The fix is a trace table: one row per iteration, every variable written down. Boring, and it works in interviews too.
+
+Step through algorithms visually in Placiq. learn.placiq.in
+
+#dryrun #debugging #dsa #placiq

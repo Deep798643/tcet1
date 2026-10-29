@@ -1,0 +1,15 @@
+TITLE: The AI Tutor That Asks First
+
+DESCRIPTION:
+What if your AI asked you questions first?
+
+Guided questioning builds understanding that code dumps do not. A look at checkpoint-based tutoring.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #socraticmethod #ai #learning #placiq
+
+KEYWORDS: placiq, placement preparation, projects, engineering students, career os, the ai that asks first
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

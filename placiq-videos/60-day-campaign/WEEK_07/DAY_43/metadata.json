@@ -1,0 +1,64 @@
+{
+ "day": 43,
+ "title": "AI Engineer or Data Scientist?",
+ "pillar": "Career direction",
+ "format": "narrated",
+ "narrated": true,
+ "voice": "af_heart",
+ "tts": "Kokoro-82M (local)",
+ "music_style": "minimal",
+ "bpm": 120,
+ "duration": 24.5,
+ "hooks": {
+  "selected": "AI engineer or data scientist? They share more than you think.",
+  "alternatives": [
+   "Two roles, one skill map.",
+   "Stop picking roles by job title."
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "AI Engineer vs Data Scientist: Skill Map",
+ "hashtags": [
+  "#aiengineer",
+  "#datascience",
+  "#careerpath",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 24.5,
+  "audio_streams": 1,
+  "lufs": -15.7,
+  "true_peak": -2.8,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 1,
+  "narration_voiced_ratio": 0.688
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.mp3",
+  "narration.wav",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}

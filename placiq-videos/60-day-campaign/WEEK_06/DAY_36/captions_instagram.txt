@@ -1,0 +1,7 @@
+365 green squares and still anxious?
+
+The contribution graph counts activity. Interviewers ask what you built, why you designed it that way, and what broke.
+
+Placiq turns repos and commits into explainable evidence. learn.placiq.in
+
+#github #opensource #developers #placiq

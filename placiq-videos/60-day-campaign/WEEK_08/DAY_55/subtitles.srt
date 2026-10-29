@@ -1,0 +1,19 @@
+1
+00:00:00,200 --> 00:00:02,200
+A browser tab -> a practice
+
+2
+00:00:02,200 --> 00:00:04,200
+card -> a connected node ->
+
+3
+00:00:04,200 --> 00:00:05,450
+a readiness record.
+
+4
+00:00:11,363 --> 00:00:13,531
+Fragments become progress when they connect.
+
+5
+00:00:14,851 --> 00:00:16,261
+Placiq - learn.placiq.in

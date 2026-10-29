@@ -1,0 +1,23 @@
+1
+00:00:00,200 --> 00:00:01,537
+Random skills pile up.
+
+2
+00:00:01,537 --> 00:00:03,543
+Pick a role, and they sort
+
+3
+00:00:03,543 --> 00:00:05,130
+into NOW and LATER.
+
+4
+00:00:09,291 --> 00:00:10,091
+Role first.
+
+5
+00:00:10,031 --> 00:00:11,021
+Skills second.
+
+6
+00:00:12,473 --> 00:00:13,883
+Placiq - learn.placiq.in

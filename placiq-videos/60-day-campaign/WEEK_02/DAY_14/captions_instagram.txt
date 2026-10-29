@@ -1,0 +1,7 @@
+Monday: sliding window. Thursday: weak on DP. Saturday: README pushed.
+
+On their own, these are scattered moments. PCME, Placiq's Persistent Context & Memory Engine, keeps them as one timeline so every session builds on the last.
+
+learn.placiq.in
+
+#pcme #ai #careeros #placiq

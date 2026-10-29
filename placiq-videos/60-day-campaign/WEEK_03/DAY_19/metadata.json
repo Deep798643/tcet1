@@ -1,0 +1,64 @@
+{
+ "day": 19,
+ "title": "Brute Force vs Optimized",
+ "pillar": "DSA",
+ "format": "narrated",
+ "narrated": true,
+ "voice": "am_puck",
+ "tts": "Kokoro-82M (local)",
+ "music_style": "dnb",
+ "bpm": 172,
+ "duration": 18.84,
+ "hooks": {
+  "selected": "Both solutions are correct. Only one survives n = 10,000.",
+  "alternatives": [
+   "O(n squared) vs O(n), raced.",
+   "Correct is not the same as scalable."
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "Brute Force vs Optimised, Raced",
+ "hashtags": [
+  "#timecomplexity",
+  "#bigO",
+  "#dsa",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 18.838,
+  "audio_streams": 1,
+  "lufs": -16.0,
+  "true_peak": -1.5,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 0,
+  "narration_voiced_ratio": 0.721
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.mp3",
+  "narration.wav",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}

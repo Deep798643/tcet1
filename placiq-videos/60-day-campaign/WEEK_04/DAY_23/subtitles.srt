@@ -1,0 +1,23 @@
+1
+00:00:00,200 --> 00:00:01,215
+todo-app, todo-app-2, todo-final...
+
+2
+00:00:01,215 --> 00:00:03,244
+then one idea that solves a
+
+3
+00:00:03,244 --> 00:00:04,170
+real problem.
+
+4
+00:00:09,800 --> 00:00:11,810
+Build something only you would build.
+
+5
+00:00:13,000 --> 00:00:15,370
+Project Builder catalog: scoped, guided projects.
+
+6
+00:00:17,800 --> 00:00:19,210
+Placiq - learn.placiq.in

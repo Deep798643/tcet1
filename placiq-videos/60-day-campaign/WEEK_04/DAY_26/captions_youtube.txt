@@ -1,0 +1,15 @@
+TITLE: Idea to Tests in 5 Steps
+
+DESCRIPTION:
+Idea to tests, in one scroll.
+
+The stages of a real software project, visualised, and how guided building follows them.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #softwareengineering #projects #buildinpublic #placiq
+
+KEYWORDS: placiq, placement preparation, projects, engineering students, career os, from idea to implementation
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

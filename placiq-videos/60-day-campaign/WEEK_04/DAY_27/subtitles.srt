@@ -1,0 +1,27 @@
+1
+00:00:00,155 --> 00:00:01,830
+Most AI dumps code.
+
+2
+00:00:01,830 --> 00:00:03,630
+A good tutor asks first: who
+
+3
+00:00:03,630 --> 00:00:05,680
+uses it, what breaks first, how
+
+4
+00:00:05,680 --> 00:00:06,830
+will you test it.
+
+5
+00:00:06,830 --> 00:00:08,843
+Then checks you, checkpoint by checkpoint.
+
+6
+00:00:11,411 --> 00:00:12,982
+Answers you build stick.
+
+7
+00:00:13,483 --> 00:00:15,137
+The Socratic way, in Placiq.

@@ -1,0 +1,23 @@
+1
+00:00:00,200 --> 00:00:01,850
+Sliding window, k = 3: add
+
+2
+00:00:01,850 --> 00:00:03,500
+the new element, drop the old
+
+3
+00:00:03,500 --> 00:00:05,400
+one. Never recompute the whole sum.
+
+4
+00:00:10,200 --> 00:00:12,291
+Patterns animated step by step in
+
+5
+00:00:12,291 --> 00:00:13,091
+Placiq.
+
+6
+00:00:14,700 --> 00:00:16,110
+Placiq - learn.placiq.in

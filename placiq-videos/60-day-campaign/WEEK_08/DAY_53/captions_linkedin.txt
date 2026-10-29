@@ -1,0 +1,5 @@
+A concrete look at how Placiq modules share context: Copilot, Skill Passport, Resume Intelligence and Project Analyzer.
+
+Day 53 of our 60-day series on connected career preparation. Placiq brings DSA practice, project evidence, resume intelligence and career direction into one learner workspace.
+
+https://learn.placiq.in/
