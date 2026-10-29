@@ -1,0 +1,15 @@
+TITLE: DSA Visualizer: Real Product Footage
+
+DESCRIPTION:
+This is what DSA looks like when it moves.
+
+A fast look at Placiq's DSA Visualizer, step-through animations with live code and state.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #dsavisualizer #algorithms #leetcode #placiq
+
+KEYWORDS: placiq, placement preparation, dsa, engineering students, career os, dsa visualizer hero film
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

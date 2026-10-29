@@ -1,0 +1,226 @@
+{
+ "day": 34,
+ "scenes": [
+  {
+   "idx": 0,
+   "type": "vres",
+   "start": 0.0,
+   "dur": 11.111,
+   "say": null,
+   "caption": "Same internship, same student. Resume B uses specifics and evidence.",
+   "params": {
+    "mode": "compare"
+   },
+   "energy": 2,
+   "drop": false,
+   "words": [
+    [
+     "Same",
+     0.2,
+     0.54
+    ],
+    [
+     "internship,",
+     0.54,
+     0.8800000000000001
+    ],
+    [
+     "same",
+     0.8800000000000001,
+     1.22
+    ],
+    [
+     "student.",
+     1.22,
+     1.56
+    ],
+    [
+     "Resume",
+     1.56,
+     1.9
+    ],
+    [
+     "B",
+     1.9,
+     2.24
+    ],
+    [
+     "uses",
+     2.24,
+     2.5800000000000005
+    ],
+    [
+     "specifics",
+     2.5800000000000005,
+     2.9200000000000004
+    ],
+    [
+     "and",
+     2.9200000000000004,
+     3.2600000000000002
+    ],
+    [
+     "evidence.",
+     3.2600000000000002,
+     3.6
+    ]
+   ]
+  },
+  {
+   "idx": 1,
+   "type": "vtype",
+   "start": 11.111,
+   "dur": 3.333,
+   "say": null,
+   "caption": "Specifics invite better questions.",
+   "params": {
+    "lines": [
+     "SPECIFICS",
+     "INVITE BETTER",
+     "*QUESTIONS."
+    ]
+   },
+   "energy": 3,
+   "drop": true,
+   "words": [
+    [
+     "Specifics",
+     0.2,
+     0.5700000000000001
+    ],
+    [
+     "invite",
+     0.5700000000000001,
+     0.94
+    ],
+    [
+     "better",
+     0.94,
+     1.3099999999999998
+    ],
+    [
+     "questions.",
+     1.3099999999999998,
+     1.68
+    ]
+   ]
+  },
+  {
+   "idx": 2,
+   "type": "vcta",
+   "start": 14.444,
+   "dur": 2.778,
+   "say": null,
+   "caption": "Placiq - resume.placiq.in",
+   "params": {
+    "v": "logo",
+    "tag": "Same work. Better story.",
+    "url": "resume.placiq.in"
+   },
+   "energy": 1,
+   "drop": false,
+   "words": [
+    [
+     "Placiq",
+     0.2,
+     0.5866666666666667
+    ],
+    [
+     "-",
+     0.5866666666666667,
+     0.9733333333333334
+    ],
+    [
+     "resume.placiq.in",
+     0.9733333333333334,
+     1.3599999999999999
+    ]
+   ]
+  }
+ ],
+ "sfx_events": [
+  [
+   0.0,
+   "whoosh",
+   0.5
+  ],
+  [
+   2.778,
+   "stamp",
+   0.6
+  ],
+  [
+   5.556,
+   "glitch",
+   0.3
+  ],
+  [
+   4.444,
+   "click",
+   0.7
+  ],
+  [
+   5.556,
+   "click",
+   0.7
+  ],
+  [
+   6.667,
+   "click",
+   0.7
+  ],
+  [
+   7.778,
+   "click",
+   0.7
+  ],
+  [
+   8.889,
+   "click",
+   0.7
+  ],
+  [
+   11.251,
+   "tick",
+   0.8
+  ],
+  [
+   11.621,
+   "tick",
+   0.8
+  ],
+  [
+   11.991,
+   "tick",
+   0.8
+  ],
+  [
+   12.361,
+   "tick",
+   0.8
+  ],
+  [
+   10.731,
+   "whoosh",
+   0.45
+  ],
+  [
+   14.494,
+   "stinger",
+   0.5
+  ],
+  [
+   15.344,
+   "pop",
+   0.6
+  ],
+  [
+   14.064,
+   "whoosh",
+   0.45
+  ]
+ ],
+ "bpm": 108,
+ "style": "funk",
+ "root": 46
+}

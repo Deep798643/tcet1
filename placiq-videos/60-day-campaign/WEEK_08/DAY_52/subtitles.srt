@@ -1,0 +1,35 @@
+1
+00:00:00,150 --> 00:00:00,950
+Aarav (fictional).
+
+2
+00:00:00,491 --> 00:00:03,428
+Week 1: new DSA sheet.
+
+3
+00:00:03,428 --> 00:00:05,866
+Week 4: new course.
+
+4
+00:00:05,866 --> 00:00:08,203
+Week 9: new project idea.
+
+5
+00:00:08,478 --> 00:00:11,816
+Every restart felt like progress.
+
+6
+00:00:11,928 --> 00:00:12,728
+None connected.
+
+7
+00:00:13,660 --> 00:00:14,872
+Stop starting over.
+
+8
+00:00:14,872 --> 00:00:16,485
+Start building on.
+
+9
+00:00:16,817 --> 00:00:19,289
+Placiq remembers where you left off.

@@ -1,0 +1,63 @@
+{
+ "day": 50,
+ "title": "The Broken Workflow",
+ "pillar": "Connected OS",
+ "format": "music",
+ "narrated": false,
+ "voice": null,
+ "tts": null,
+ "music_style": "glitchhop",
+ "bpm": 100,
+ "duration": 18.0,
+ "hooks": {
+  "selected": "Watch your context fall through the cracks.",
+  "alternatives": [
+   "Five handoffs. Five drops.",
+   "Where does your progress go?"
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "The Broken Prep Workflow",
+ "hashtags": [
+  "#workflow",
+  "#productivity",
+  "#careeros",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 18.0,
+  "audio_streams": 1,
+  "lufs": -15.0,
+  "true_peak": -1.8,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 0,
+  "narration_voiced_ratio": null
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.NOT_APPLICABLE.txt",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}

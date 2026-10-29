@@ -1,0 +1,15 @@
+TITLE: Two Sum Explained in One Question
+
+DESCRIPTION:
+Two Sum in one pass. Here is the actual idea.
+
+The hash-map insight behind Two Sum, animated: check for the complement before storing each value.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #twosum #leetcode #dsa #hashmap #placiq
+
+KEYWORDS: placiq, placement preparation, dsa, engineering students, career os, two sum is not two lines
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

@@ -1,0 +1,7 @@
+AI engineer or data scientist? They overlap more than the titles suggest.
+
+Both lean on Python and linear algebra. AI engineering adds LLM APIs, MLOps and system design; data science adds statistics, SQL and experiment design.
+
+Placiq's Career Navigator maps which skills each role needs. learn.placiq.in
+
+#aiengineer #datascience #careerpath #placiq

@@ -1,0 +1,15 @@
+TITLE: Brute Force vs Optimised, Raced
+
+DESCRIPTION:
+Both solutions are correct. Only one survives n = 10,000.
+
+Time complexity made visible: why O(n^2) and O(n) diverge as input grows.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #timecomplexity #bigO #dsa #placiq
+
+KEYWORDS: placiq, placement preparation, dsa, engineering students, career os, brute force vs optimized
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

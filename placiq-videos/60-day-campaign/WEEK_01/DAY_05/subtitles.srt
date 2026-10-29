@@ -1,0 +1,31 @@
+1
+00:00:00,200 --> 00:00:02,206
+2:07 AM - assignment due 9
+
+2
+00:00:02,206 --> 00:00:04,211
+AM, OA at 10, resume last
+
+3
+00:00:04,211 --> 00:00:05,130
+edited 2024.
+
+4
+00:00:09,800 --> 00:00:10,625
+Horror is not the deadline.
+
+5
+00:00:10,625 --> 00:00:11,700
+It is the scattered prep.
+
+6
+00:00:12,800 --> 00:00:14,780
+One workspace that knows what is
+
+7
+00:00:14,780 --> 00:00:15,690
+due next.
+
+8
+00:00:17,600 --> 00:00:19,010
+Placiq - learn.placiq.in

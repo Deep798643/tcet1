@@ -1,0 +1,15 @@
+TITLE: The Mentor Who Erases Everything
+
+DESCRIPTION:
+Imagine a mentor who erases the board every time you leave.
+
+A visual metaphor for context loss in AI guidance, and why persistent memory matters for learners.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #mentorship #ai #engineering #placiq
+
+KEYWORDS: placiq, placement preparation, ai memory, engineering students, career os, the context eraser
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

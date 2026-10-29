@@ -1,0 +1,7 @@
+untitled.py and a blinking cursor. We have all frozen here.
+
+Give the blank file a shape: sketch the components, split into milestones, finish milestone one.
+
+Placiq's Project Builder turns ideas into guided modules. learn.placiq.in
+
+#coding #projectplanning #softwaredesign #placiq

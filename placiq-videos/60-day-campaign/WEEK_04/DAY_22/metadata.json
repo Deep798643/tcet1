@@ -1,0 +1,64 @@
+{
+ "day": 22,
+ "title": "Tutorial Hell",
+ "pillar": "Projects",
+ "format": "narrated",
+ "narrated": true,
+ "voice": "am_puck",
+ "tts": "Kokoro-82M (local)",
+ "music_style": "trap",
+ "bpm": 145,
+ "duration": 14.07,
+ "hooks": {
+  "selected": "The moment the tutorial ends.",
+  "alternatives": [
+   "Seven tutorials watched. Zero lines written alone.",
+   "What happens when the video stops?"
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "Tutorial Hell: When the Video Ends",
+ "hashtags": [
+  "#tutorialhell",
+  "#coding",
+  "#projects",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 14.069,
+  "audio_streams": 1,
+  "lufs": -15.9,
+  "true_peak": -2.1,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 0,
+  "narration_voiced_ratio": 0.633
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.mp3",
+  "narration.wav",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}

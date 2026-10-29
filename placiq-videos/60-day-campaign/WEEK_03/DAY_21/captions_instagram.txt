@@ -1,0 +1,7 @@
+This is what DSA looks like when it moves.
+
+Real footage of Placiq's DSA Visualizer: pick a pattern, step through each move, read the live code and variable state, compare brute force with optimal.
+
+Try the starter patterns free at learn.placiq.in
+
+#dsavisualizer #algorithms #leetcode #placiq

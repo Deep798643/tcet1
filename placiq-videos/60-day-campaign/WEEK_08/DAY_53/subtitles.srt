@@ -1,0 +1,19 @@
+1
+00:00:00,300 --> 00:00:02,163
+Connected means: the Copilot sees your
+
+2
+00:00:02,163 --> 00:00:05,875
+progress, the Skill Passport scores across
+
+3
+00:00:05,875 --> 00:00:07,888
+modules, the resume is reviewed for
+
+4
+00:00:07,888 --> 00:00:09,963
+your role, projects carry the evidence.
+
+5
+00:00:11,279 --> 00:00:12,733
+That's connected.

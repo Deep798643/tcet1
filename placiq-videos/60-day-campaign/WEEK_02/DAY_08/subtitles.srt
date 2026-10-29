@@ -1,0 +1,19 @@
+1
+00:00:00,200 --> 00:00:01,235
+New chat #1...
+
+2
+00:00:01,235 --> 00:00:03,210
+#14. Same introduction every time.
+
+3
+00:00:08,476 --> 00:00:10,547
+What if it already knew you?
+
+4
+00:00:11,786 --> 00:00:14,156
+PCME: persistent context memory across sessions.
+
+5
+00:00:17,579 --> 00:00:18,989
+Placiq - learn.placiq.in

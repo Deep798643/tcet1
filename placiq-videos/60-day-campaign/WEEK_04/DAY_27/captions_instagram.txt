@@ -1,0 +1,7 @@
+What if your AI tutor asked you questions before giving answers?
+
+Who uses it? What breaks first? How will you test it? Reasoning it out yourself is what makes it stick in an interview.
+
+Placiq's tutors guide with questions and checkpoints. learn.placiq.in
+
+#socraticmethod #ai #learning #placiq

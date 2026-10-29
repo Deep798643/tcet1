@@ -1,0 +1,7 @@
+Requirements, architecture, modules, implementation, tests. In that order.
+
+Most unfinished projects skip the first two steps. Placiq's Project Builder walks you through each module with a live editor.
+
+learn.placiq.in
+
+#softwareengineering #projects #buildinpublic #placiq

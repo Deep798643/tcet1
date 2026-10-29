@@ -1,0 +1,63 @@
+{
+ "day": 8,
+ "title": "New Chat, Same Introduction",
+ "pillar": "AI memory",
+ "format": "music",
+ "narrated": false,
+ "voice": null,
+ "tts": null,
+ "music_style": "trap",
+ "bpm": 145,
+ "duration": 20.69,
+ "hooks": {
+  "selected": "You have introduced yourself to AI more than to your batchmates.",
+  "alternatives": [
+   "New chat. Same intro. Again.",
+   "Ctrl+C, Ctrl+V: my entire AI relationship."
+  ]
+ },
+ "cta": "learn.placiq.in",
+ "youtube_title": "New Chat, Same Introduction",
+ "hashtags": [
+  "#ai",
+  "#chatgpt",
+  "#studentlife",
+  "#placiq"
+ ],
+ "resolution": "1080x1920",
+ "fps": 30,
+ "qa": {
+  "pass": true,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "duration": 20.7,
+  "audio_streams": 1,
+  "lufs": -14.0,
+  "true_peak": -1.8,
+  "black_segments": 0,
+  "frozen_segments_over_2_5s": 0,
+  "narration_voiced_ratio": null
+ },
+ "files": [
+  "captions_instagram.txt",
+  "captions_linkedin.txt",
+  "captions_youtube.txt",
+  "final.mp4",
+  "first_comment.txt",
+  "mix.wav",
+  "music.mp3",
+  "music.wav",
+  "music_only.mp4",
+  "narration.NOT_APPLICABLE.txt",
+  "opening_frame.png",
+  "script.md",
+  "sfx.wav",
+  "source",
+  "storyboard.png",
+  "subtitles.srt",
+  "subtitles.vtt",
+  "thumbnail.png"
+ ],
+ "product_footage": "Real captures from the Placiq product demo (assets/real-product)"
+}

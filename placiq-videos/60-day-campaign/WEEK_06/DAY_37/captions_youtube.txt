@@ -1,0 +1,15 @@
+TITLE: Projects Are Receipts
+
+DESCRIPTION:
+Your project should print a receipt.
+
+Treat projects as itemised evidence: architecture, commits, tests and decisions.
+
+Placiq is an AI-native Career Intelligence OS for students: DSA, projects, resume, GitHub and career goals, connected.
+Try it free: https://learn.placiq.in/
+
+#Shorts #projects #github #softwareengineering #placiq
+
+KEYWORDS: placiq, placement preparation, github evidence, engineering students, career os, projects are receipts
+
+PINNED COMMENT (optional): Which part of this is most relatable? Tell us below.

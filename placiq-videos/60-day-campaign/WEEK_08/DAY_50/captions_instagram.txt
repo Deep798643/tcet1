@@ -1,0 +1,7 @@
+Watch your context fall through the cracks between tools.
+
+Every handoff from a DSA site to notes to an AI chat to your resume loses something.
+
+In Placiq, one context flows through every module. learn.placiq.in
+
+#workflow #productivity #careeros #placiq

@@ -1,0 +1,7 @@
+"Why did you add a queue here?"
+
+When you actually built it, the answer is in your own history: the benchmark, the bug, the decision.
+
+Placiq's guided projects keep that trail. learn.placiq.in
+
+#interviewprep #systemdesign #git #placiq

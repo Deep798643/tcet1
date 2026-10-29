@@ -1,0 +1,5 @@
+Time complexity made visible: why O(n^2) and O(n) diverge as input grows.
+
+Day 19 of our 60-day series on connected career preparation. Placiq brings DSA practice, project evidence, resume intelligence and career direction into one learner workspace.
+
+https://learn.placiq.in/

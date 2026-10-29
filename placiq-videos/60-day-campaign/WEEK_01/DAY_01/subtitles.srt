@@ -1,0 +1,39 @@
+1
+00:00:00,150 --> 00:00:01,293
+Tab 1: LeetCode.
+
+2
+00:00:01,293 --> 00:00:02,706
+Tab 37: I don't even know
+
+3
+00:00:02,706 --> 00:00:03,750
+anymore.
+
+4
+00:00:03,900 --> 00:00:05,453
+Every tab knows one thing about
+
+5
+00:00:05,453 --> 00:00:06,640
+you. None of them talk to
+
+6
+00:00:06,640 --> 00:00:07,803
+each other.
+
+7
+00:00:09,675 --> 00:00:12,139
+Placiq pulls DSA, projects, resume and
+
+8
+00:00:12,139 --> 00:00:14,464
+GitHub into one connected workflow.
+
+9
+00:00:15,619 --> 00:00:16,419
+Close the tabs.
+
+10
+00:00:16,268 --> 00:00:17,668
+Keep the progress.
